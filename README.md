@@ -9,7 +9,7 @@ Reverse engineer | Web, Unity developer | Universal programmer
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [my site](http://sites.google.com/view/dvurechensky)
 *   ✉️  You can contact me at [dvurechensky\_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
-*   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [СМК Консультация](https://smk-consult.ru/), [МИП](https://inpsycho.ru/)
+*   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
 *   🧠  I'm learning ASP NET, Python
 *   🤝  I'm open to collaborating on with everyone
 *   ⚡  P.s I'm a hacker, don't tell anyone
