@@ -12,7 +12,7 @@ Reverse engineer | Web, Unity developer | Universal programmer
 *   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
 *   🧠  I'm learning ASP NET, Python
 *   🤝  I'm open to collaborating on with everyone
-*   ⚡  P.s I'm a hacker, don't tell anyone
+*   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
