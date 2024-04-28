@@ -77,5 +77,5 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 
 <br><h3 align="center">Support Me</h3></br>
 <p align="center">
-    <a href="https://www.buymeacoffee.com/dvurechensV"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+    <a href="https://www.donationalerts.com/r/dvurechensky_pro"><img src="https://www.donationalerts.com/img/header/logo.svg" width="200" /></a>
 </p>
