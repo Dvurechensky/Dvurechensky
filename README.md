@@ -10,7 +10,7 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 *   🖥️  See my portfolio at [my site](http://sites.google.com/view/dvurechensky)
 *   ✉️  You can contact me at [dvurechensky\_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 *   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
-*   🧠  I'm learning ASP NET, Python
+*   🧠  I'm learning Unity HDRP, Blender
 *   🤝  I'm open to collaborating on with everyone
 *   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
