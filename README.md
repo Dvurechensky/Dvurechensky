@@ -75,7 +75,7 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
     </p>
 </p>
 
-<br><h3 align="center">Support Me</h3></br>
+<br><h3 align="center">Вы можете поддержать меня</h3></br>
 <p align="center">
     <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank"><img src="https://www.donationalerts.com/img/header/logo.svg" width="200" /></a>
 </p>
