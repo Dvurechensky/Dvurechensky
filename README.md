@@ -59,17 +59,6 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 <a href="https://www.github.com/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@DvurechenskyMedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 
-<p align="center">
-    <br><h3 align="center">My GitHub Stats</h3></br>
-    <p align="center">
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dvurechensky's GitHub stats" /></a>
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvurechensky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </p> 
-    <p align="center">
-        <a href="https://github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvurechensky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </p>
-</p>
-
 <br><h3 align="center">Вы можете поддержать меня</h3></br>
 <p align="center">
     <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank"><img src="https://www.donationalerts.com/img/header/logo.svg" width="200" /></a>
