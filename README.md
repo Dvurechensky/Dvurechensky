@@ -17,10 +17,6 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 *   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
 
-<a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
-<img src="https://shields.dvurechensky.pro/twitch/status/dvurechensky_pro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/>
-</a>
-                  
 ### Skills 
 
 <p align="left">
