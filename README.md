@@ -9,13 +9,16 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 ⚡ Cейчас я в процессе создания проекта [Lizerium](https://rutube.ru/channel/44085490/)
 
 *   🌍  I'm based in Moscow
-*   🖥️  See my portfolio at [my site](http://sites.google.com/view/dvurechensky)
+*   🖥️  See my portfolio at [my site](https://www.dvurechensky.pro/)
 *   ✉️  You can contact me at [dvurechensky\_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 *   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
 *   🧠  I'm learning Unity HDRP, Blender
 *   🤝  I'm open to collaborating on with everyone
 *   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
+<a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitch/status/dvurechensky_pro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/>
+</a>
 
 ### Skills 
 
