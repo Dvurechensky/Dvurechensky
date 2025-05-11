@@ -64,16 +64,16 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 <p align="center">
 <a href="https://gitlab.com/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
-<a href="https://www.dvurechensky.pro/" target="_blank" rel="noreferrer"><img src="Media/gitea.svg" width="32" height="32"/></a>
-<a href="https://codeberg.org/Dvurechensky" target="_blank" rel="noreferrer"><img src="Media/codeberg.svg" width="32" height="32"/></a>
+<a href="https://www.dvurechensky.pro/" target="_blank" rel="noreferrer"><img src="Media/gitea.png" width="32" height="32"/></a>
+<a href="https://codeberg.org/Dvurechensky" target="_blank" rel="noreferrer"><img src="Media/codeberg.png" width="32" height="32"/></a>
 </p>
 <h2 align="center">
     🌐 Messagers 🌐
 </h2>
 <p align="center">
 <a href="https://discord.com/users/543584734945476608" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://steamcommunity.com/id/dvurechensky/" target="_blank" rel="noreferrer"><img src="Media/steam.svg" width="32" height="32"/></a>
-<a href="https://t.me/dvurechensky_pro" target="_blank" rel="noreferrer"><img src="Media/telegram.svg" width="32" height="32"/></a>
+<a href="https://steamcommunity.com/id/dvurechensky/" target="_blank" rel="noreferrer"><img src="Media/steam.png" width="32" height="32"/></a>
+<a href="https://t.me/dvurechensky_pro" target="_blank" rel="noreferrer"><img src="Media/telegram.png" width="32" height="32"/></a>
 </p>
 <h2 align="center">
     🌌 Socials 🌌
