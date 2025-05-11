@@ -83,7 +83,7 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 <a href="https://x.com/DvurechenskyPro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.threads.net/@dvurechensky_pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
 <a href="https://dev.to/dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-<a href="https://vk.com/dvurechensky_pro" target="_blank" rel="noreferrer"><img src="Media/vk.png" width="32" height="32"/></a>
+<a href="https://vk.com/dvurechensky_pro" target="_blank" rel="noreferrer"><img src="Media/vk_blue.png" width="32" height="32"/></a>
 </p>
 <h2 align="center">
     🎇 Media 🎇
