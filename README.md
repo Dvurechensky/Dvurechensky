@@ -16,6 +16,8 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 *   🤝  I'm open to collaborating on with everyone
 *   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
+`Псевдонимы в сети:` **Dvurechensky** | **dvurechensky_pro** | **Dvurechensky Media** | **Dormammu Media** | **Rota**
+
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/dvurechensky_pro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/>
 </a>
@@ -61,6 +63,7 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 <a href="https://discord.com/users/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://x.com/DvurechenskyPro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.threads.net/@dvurechensky_pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@DvurechenskyMedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 <a href="https://gitlab.com/Dvurechensky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /></a>
