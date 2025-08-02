@@ -1,18 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Николай Двуреченский
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikolai Dvurechensky
 ============================================================================================================================================
 
 Reverse engineer | Web, Unity, NET developer | Universal programmer
 --------------------------------------------------------------
 
-Привет 💬 Моё программирование началось с читерства в онлайн игре 🔭 - Третий Мир Война Королей - мне пришлось имитировать работу игрового клиента 😈 💢 В 2014-м году я обнаружил ряд критических багов в клиентах всех онлайн игр типа песочниц Третий Мир 💢 С 2015-го активно помогал игрокам автоматизировать свои желания в играх 💢 С 2017-го верстал сайты и поглощал всё что связано с Web 🌀 💢 К концу 2019-го года я попал в компанию ЦИТиС к настоящим профессионалам👊 💢 К 2020-му я уже занимался разработкой на Unity в компании OXSIONSOFT 😈 💢 С 2021-го года началось моё глубокое погружение в Linux 🐟 В конечном счёте в одно описание не влезет жизнь человека влюблённого в свою деятельность 
-
-⚡ Cейчас я в процессе создания проекта [Lizerium](https://rutube.ru/channel/44085490/)
+Hi 💬 My programming started with cheating in an online game 🔭 - Third World War of Kings - I had to simulate the work of a game client 😈 💢 In 2014, I discovered a number of critical bugs in clients of all online sandbox games like Third World 💢 Since 2015, I have actively helped players automate their desires in games 💢 Since 2017, I have been designing websites and absorbing everything related to the Web 🌀 💢 By the end of 2019-In 2020, I joined the CITiS company to become a real professional.👊 💢 By 2020, I was already developing on Unity at OXSIONSOFT. 😈 💢 In 2021, my deep immersion in Linux began. 🐟 Ultimately, the life of a person in love with his work will not fit into one description.
 
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [my site](https://www.dvurechensky.pro/)
 *   ✉️  You can contact me at [dvurechensky\_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 *   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
-*   🧠  I'm learning Unity HDRP, Blender
+*   🧠  I'm learning Unity HDRP, Blender [Lizerium](https://rutube.ru/channel/44085490/)
 *   🤝  I'm open to collaborating on with everyone
 *   ⚡  P.s I'm a [hacker](https://stepik.org/cert/2369093), don't tell anyone
 
