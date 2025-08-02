@@ -7,7 +7,7 @@ Reverse engineer | Web, Unity, NET developer | Universal programmer
 Hi 💬 My programming started with cheating in an online game 🔭 - Third World War of Kings - I had to simulate the work of a game client 😈 💢 In 2014, I discovered a number of critical bugs in clients of all online sandbox games like Third World 💢 Since 2015, I have actively helped players automate their desires in games 💢 Since 2017, I have been designing websites and absorbing everything related to the Web 🌀 💢 By the end of 2019-In 2020, I joined the CITiS company to become a real professional.👊 💢 By 2020, I was already developing on Unity at OXSIONSOFT. 😈 💢 In 2021, my deep immersion in Linux began. 🐟 Ultimately, the life of a person in love with his work will not fit into one description.
 
 *   🌍  I'm based in Moscow
-*   🖥️  See my portfolio at [my site](https://www.dvurechensky.pro/)
+*   🖥️  See my portfolio at [my site](https://sites.google.com/view/dvurechensky)
 *   ✉️  You can contact me at [dvurechensky\_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 *   🚀  I'm currently working on [OXSIONSOFT](http://oxsionsoft.com/), [МИП](https://inpsycho.ru/)
 *   🧠  I'm learning Unity HDRP, Blender [Lizerium](https://rutube.ru/channel/44085490/)
