@@ -1,3 +1,10 @@
+---
+layout: default
+title: 'Nikolai Dvurechensky 👋'
+date: 2025-08-23
+published: true
+---
+
 # 👋 Hi, I'm **Nikolai Dvurechensky**
 
 🎯 Reverse Engineer · Full-stack & Unity Developer · .NET Enthusiast
@@ -220,3 +227,7 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
 <p align="center">
     <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank"><img src="https://www.donationalerts.com/img/header/logo.svg" width="200" /></a>
 </p>
+
+---
+
+> 2025
