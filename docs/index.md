@@ -27,7 +27,7 @@ published: true
 
 ## 🌌 Projects & Utilities & Organizations
 
-### Organizations
+### Organizations 🐌
 
 | 🔗 Project                                                            | 📖 Description                                                                                                                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ published: true
 | [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
 
-### Projects & Utilities
+### Projects & Utilities 🐠
 
 | 🔗 Project                                                                | 📖 Description                                            |
 | ------------------------------------------------------------------------- | --------------------------------------------------------- |
