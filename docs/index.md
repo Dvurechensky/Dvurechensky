@@ -115,57 +115,62 @@ graph TD
 <details close>
 <summary> Open </summary>
 
-**OXSIONSOFT** — _Unity Developer_ (Mar 2021 – Present, 4+ years)
+<h4 align="center"><strong>OXSIONSOFT, Lizerium (Mar 2021 – Present, 4+ years)</strong></h4>
+<p align="center"><i>Unity Developer</p>
 
-- Worked on **Ceek Virtual Reality** project: feature development, bug fixing, UI redesigns
-- Implemented memory optimization via **Addressables** → stable performance on Android 7+
-- Delivered 3+ major UI evolutions, multiplayer on **Photon Engine**, client-server API improvements
+- Worked on `Ceek Virtual Reality` project: feature development, bug fixing, UI redesigns
+- Implemented memory optimization via `Addressables` → stable performance on Android 7+
+- Delivered 3+ major UI evolutions, multiplayer on `Photon Engine`, client-server API improvements
 - Wrote technical specifications, collaborated across teams
-- **Stack:** Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
+- `Stack:` Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-**Московский институт психоанализа (MIP)** — _Technical Specialist_ (Feb 2020 – Present, 5+ years)
+<h4 align="center"><strong>Московский институт психоанализа (MIP) (Feb 2020 – Present, 5+ years)</strong></h4>
+<p align="center"><i>Technical Specialist</p>
 
 - Provided technical support for online video platform (MTS-Link)
 - Helped 1000+ users of any age/device join live broadcasts
-- **Stack:** Windows, MacOS
+- `Stack:` Windows, MacOS
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-**NPC Reagent / SIGMA / CMK Consulting** — _.NET Developer_ (2019 – 2025, 5+ years total)
+<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting (2019 – 2025, 5+ years total)</strong></h4>
+<p align="center"><i>.NET Developer</p>
 
-- Built **ASP.NET Core MVC** apps with PostgreSQL, EF Core, RabbitMQ
+- Built `ASP.NET Core MVC` apps with PostgreSQL, EF Core, RabbitMQ
 - Developed visualization systems for C# / C++ projects and dependencies (NuGet)
 - Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
 - Designed pentest monitoring system (data collection, visualization, analytics)
-- Deployed microservices in **Docker**, automated builds with Jenkins
-- **Stack:** C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
+- Deployed microservices in `Docker`, automated builds with Jenkins
+- `Stack:` C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-**Freelancer Rebirth** — _C++ Developer_ (Nov 2020 – Nov 2023, 3 years)
+<h4 align="center"><strong>Freelancer Rebirth (Nov 2020 – Nov 2023, 3 years)</strong></h4>
+<p align="center"><i>C++ Developer</p>
 
-- Maintained the largest CIS mod for **Freelancer (2003)**
+- Maintained the largest CIS mod for `Freelancer (2003)`
 - Migrated 25+ plugins & core into unified C++ solution
 - Performed 3 major project migrations across Visual Studio generations
-- **Stack:** C++, Boost, Assembler, Git
+- `Stack:` C++, Boost, Assembler, Git
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-**InterEVM** — _System Engineer_ (Feb 2020 – Jun 2023, 3+ years)
+<h4 align="center"><strong>InterEVM (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<p align="center"><i>System Engineer</p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)
 - Built XSLT templates, optimized PostgreSQL queries
 - Worked with Astra Linux, Ubuntu, Debian, Windows environments
-- **Stack:** Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
+- `Stack:` Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-**Other Roles (2017 – 2020)**
+<h4 align="center"><strong>Other Roles (2017 – 2020)</strong></h4>
 
-- **Promelektronika** — Automation engineer: Siemens controllers, SCADA, embedded systems
-- **YurExpert** — SysAdmin: workplace automation, document automation
+- `Promelektronika` — Automation engineer: Siemens controllers, SCADA, embedded systems
+- `YurExpert` — SysAdmin: workplace automation, document automation
 
 </details>
 
