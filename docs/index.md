@@ -31,6 +31,7 @@ published: true
 - [💼 Experience](#-experience)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🧠 Current Focus](#-current-focus)
+- [](#)
 
 ## 🚀 About Me
 
@@ -323,43 +324,44 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
 </p>
 
 <!-- Donationes -->
-<table align="center">
+<div style="overflow-x: auto; padding: 0 10px;">
+<table align="center" style="border-collapse: collapse; min-width: 300px; width: 100%;">
 <tr>
     <td colspan="3" align="center">
     <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
     </td>
 </tr>
 <tr>
-    <th>Payments</th>
-    <th>Address</th>
-    <th>QR Code</th>
+    <th style="padding: 8px; text-align: center;">Payments</th>
+    <th style="padding: 8px; text-align: center;">Address</th>
+    <th style="padding: 8px; text-align: center;">QR Code</th>
 </tr>
 <tr>
-    <td>
+    <td style="padding: 8px; text-align: center;">
     <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
     </a>
     </td>
-    <td><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
-    <td><img 
+    <td style="padding: 8px; text-align: center;"><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
+    <td style="padding: 8px; text-align: center;"><img 
         src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym" 
         width="150" 
         alt="BTC QR Code" /></td>
 </tr>
 <tr>
-    <td>
+    <td style="padding: 8px; text-align: center;">
     <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank">
         <img src="https://www.donationalerts.com/img/header/logo.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
     </a>
     </td>
-    <td><code>dvurechensky_pro</code></td>
-    <td><img 
+    <td style="padding: 8px; text-align: center;"><code>dvurechensky_pro</code></td>
+    <td style="padding: 8px; text-align: center;"><img 
         src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.donationalerts.com/r/dvurechensky_pro" 
         width="150" 
         alt="BTC QR Code" /></td>
 </tr>
 </table>
-
+</div>
 ---
 
 > 2025
