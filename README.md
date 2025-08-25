@@ -10,13 +10,14 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
+
 > 🎯 `Reverse` Engineer · Full-stack & `Unity` Developer · `.NET` Enthusiast
 > 🌌 `Universal` programmer exploring **`Web` · `Unity` · `Linux` · `Security`**
-P.s [Web-version this page](https://dvurechensky.github.io/Dvurechensky/)
+> P.s [Web-version this page](https://dvurechensky.github.io/Dvurechensky/)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-- [� About Me](#-about-me)
+- [🚀 About Me](#-about-me)
 - [🌌 Projects \& Utilities \& Organizations](#-projects--utilities--organizations)
   - [Organizations 🐌](#organizations-)
   - [Projects \& Utilities 🐠](#projects--utilities-)
