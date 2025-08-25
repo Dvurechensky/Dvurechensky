@@ -121,8 +121,11 @@ graph TD
 - Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
   <br>
 - Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
+  <br>
 - Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
+  <br>
 - Wrote technical specifications, collaborated across teams
+  <br>
 - <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -131,7 +134,9 @@ graph TD
 <p align="center"><i>Technical Specialist</i></p>
 
 - Provided technical support for online video platform (MTS-Link)
+  <br>
 - Helped 1000+ users of any age/device join live broadcasts
+  <br>
 - <strong>Stack:</strong> Windows, MacOS
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -140,10 +145,15 @@ graph TD
 <p align="center"><i>.NET Developer</i></p>
 
 - Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
+  <br>
 - Developed visualization systems for C# / C++ projects and dependencies (NuGet)
+  <br>
 - Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
+  <br>
 - Designed pentest monitoring system (data collection, visualization, analytics)
+  <br>
 - Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
+  <br>
 - <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -152,8 +162,11 @@ graph TD
 <p align="center"><i>C++ Developer</i></p>
 
 - Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
+  <br>
 - Migrated 25+ plugins & core into unified C++ solution
+  <br>
 - Performed 3 major project migrations across Visual Studio generations
+  <br>
 - <strong>Stack:</strong> C++, Boost, Assembler, Git
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -162,8 +175,11 @@ graph TD
 <p align="center"><i>System Engineer</i></p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)
+  <br>
 - Built XSLT templates, optimized PostgreSQL queries
+  <br>
 - Worked with Astra Linux, Ubuntu, Debian, Windows environments
+  <br>
 - <strong>Stack:</strong> Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
@@ -171,6 +187,7 @@ graph TD
 <h4 align="center"><strong>Other Roles (2017 – 2020)</strong></h4>
 
 - <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
+  <br>
 - <strong>YurExpert</strong> — SysAdmin: workplace automation, document automation
 
 </details>
