@@ -176,25 +176,37 @@ graph TD
 <details close>
 <summary> Open </summary>
 
-**Backend:**  
+<h4><strong>Backend:</strong></h4>
 C#, .NET 6–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis
 
-**Frontend:**  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>Frontend:</strong></h4>
 TypeScript, Cytoscape.js, Three.js, Webpack, Grunt
 
-**Tested**
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>Tested:</strong></h4>
 xUnit, nUnit, Integrated
 
-**GameDev:**  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>GameDev:</strong></h4>
 Unity (HDRP/URP, Zenject, Addressables, Photon, Object Pooling), ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
 
-**Databases:**  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>Databases:</strong></h4>
 PostgreSQL, SQL Server, Redis, MySQL, EF Core
 
-**DevOps:**  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>DevOps:</strong></h4>
 Linux (Astra, Ubuntu, Debian), Docker, Jenkins, nginx, Git, SVN, Gitea
 
-**Languages & Tools:**  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4><strong>Languages & Tools:</strong></h4>
 C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
 
 </details>
