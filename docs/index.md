@@ -116,7 +116,7 @@ graph TD
 <summary> Open </summary>
 
 <h4 align="center"><strong>OXSIONSOFT, Lizerium (Mar 2021 – Present, 4+ years)</strong></h4>
-<p align="center"><i>Unity Developer</p>
+<p align="center"><i>Unity Developer</i></p>
 
 - Worked on `Ceek Virtual Reality` project: feature development, bug fixing, UI redesigns
 - Implemented memory optimization via `Addressables` → stable performance on Android 7+
