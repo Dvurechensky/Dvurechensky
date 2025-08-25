@@ -106,6 +106,9 @@ graph TD
 
 ## 💼 Experience
 
+<details close>
+<summary> Open </summary>
+
 **OXSIONSOFT** — _Unity Developer_ (Mar 2021 – Present, 4+ years)
 
 - Worked on **Ceek Virtual Reality** project: feature development, bug fixing, UI redesigns
@@ -158,9 +161,14 @@ graph TD
 - **Promelektronika** — Automation engineer: Siemens controllers, SCADA, embedded systems
 - **YurExpert** — SysAdmin: workplace automation, document automation
 
+</details>
+
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 🛠️ Tech Stack
+
+<details close>
+<summary> Open </summary>
 
 **Backend:**  
 C#, .NET 6–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis
@@ -182,6 +190,8 @@ Linux (Astra, Ubuntu, Debian), Docker, Jenkins, nginx, Git, SVN, Gitea
 
 **Languages & Tools:**  
 C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
+
+</details>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
