@@ -5,12 +5,32 @@ date: 2025-08-23
 published: true
 ---
 
-# 👋 Hi, I'm **Nikolai Dvurechensky**
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  </picture>
+  <h2>👋 Hi there, I'm <span style="color:#F5F752;">Nikolai Dvurechensky <br>💻 A passionate Full Stack Developer</span></h2>
 
-🎯 Reverse Engineer · Full-stack & Unity Developer · .NET Enthusiast
-🌌 Universal programmer exploring **Web · Unity · Linux · Security**
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+Looking+for+a+job;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+Developer;%F0%9F%8E%AF+Reverse+Engineer" alt="Typing SVG" /></a>
+</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
+
+> 🎯 `Reverse` Engineer · Full-stack & `Unity` Developer · `.NET` Enthusiast
+> 🌌 `Universal` programmer exploring **`Web` · `Unity` · `Linux` · `Security`**
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+- [🚀 About Me](#-about-me)
+- [🌌 Projects \& Utilities \& Organizations](#-projects--utilities--organizations)
+  - [Organizations 🐌](#organizations-)
+  - [Projects \& Utilities 🐠](#projects--utilities-)
+    - [📚 Markdown \& GitHub Goodies](#-markdown--github-goodies)
+- [💼 Experience](#-experience)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🧠 Current Focus](#-current-focus)
 
 ## 🚀 About Me
 
@@ -23,7 +43,7 @@ published: true
 📫 Reach me: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 🌐 Portfolio: [dvurechensky.pro](https://sites.google.com/view/dvurechensky)
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 🌌 Projects & Utilities & Organizations
 
@@ -47,16 +67,16 @@ published: true
 | [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)        | Коллекция готовых `.gitignore` + экскурсия по технологиям |
 | [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/) | Полное руководство по Markdown с лайфхаками               |
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 📚 Markdown & GitHub Goodies
+#### 📚 Markdown & GitHub Goodies
 
 - [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/) 🌁
 - [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/) ⛄
 - [Цвета текста через MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) ☀️
 - [Математика в Markdown](https://dvurechensky-docs.github.io/MathMarkdown/) 🌀
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 💼 Experience
 
@@ -68,7 +88,7 @@ published: true
 - Wrote technical specifications, collaborated across teams
 - **Stack:** Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 **Московский институт психоанализа (MIP)** — _Technical Specialist_ (Feb 2020 – Present, 5+ years)
 
@@ -76,7 +96,7 @@ published: true
 - Helped 1000+ users of any age/device join live broadcasts
 - **Stack:** Windows, MacOS
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 **NPC Reagent / SIGMA / CMK Consulting** — _.NET Developer_ (2019 – 2025, 5+ years total)
 
@@ -87,7 +107,7 @@ published: true
 - Deployed microservices in **Docker**, automated builds with Jenkins
 - **Stack:** C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 **Freelancer Rebirth** — _C++ Developer_ (Nov 2020 – Nov 2023, 3 years)
 
@@ -96,7 +116,7 @@ published: true
 - Performed 3 major project migrations across Visual Studio generations
 - **Stack:** C++, Boost, Assembler, Git
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 **InterEVM** — _System Engineer_ (Feb 2020 – Jun 2023, 3+ years)
 
@@ -105,14 +125,14 @@ published: true
 - Worked with Astra Linux, Ubuntu, Debian, Windows environments
 - **Stack:** Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 **Other Roles (2017 – 2020)**
 
 - **Promelektronika** — Automation engineer: Siemens controllers, SCADA, embedded systems
 - **YurExpert** — SysAdmin: workplace automation, document automation
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 🛠️ Tech Stack
 
@@ -137,16 +157,16 @@ Linux (Astra, Ubuntu, Debian), Docker, Jenkins, nginx, Git, SVN, Gitea
 **Languages & Tools:**  
 C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 🧠 Current Focus
 
 - Cross-platform tools on .NET 8 / Linux
 - Expanding open-source utilities & documentation portals
 
----
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-`Псевдонимы в сети:` **Dvurechensky** | **dvurechensky_pro** | **Dvurechensky Media** | **Dormammu Media** | **Rota**
+`Псевдонимы в сети:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/dvurechensky_pro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/>
