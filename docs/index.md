@@ -119,13 +119,10 @@ graph TD
 <p align="center"><i>Unity Developer</i></p>
 
 - Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
-  </br>
+  <br>
 - Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
-  </br>
 - Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
-  </br>
 - Wrote technical specifications, collaborated across teams
-  </br>
 - <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
