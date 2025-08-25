@@ -18,10 +18,10 @@
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 - [🚀 About Me](#-about-me)
-- [🌌 Projects \& Utilities \& Organizations](#-projects--utilities--organizations)
+- [🌌 Projects · Utilities · Organizations](#-projects--utilities--organizations)
   - [Organizations 🐌](#organizations-)
-  - [Projects \& Utilities 🐠](#projects--utilities-)
-    - [📚 Markdown \& GitHub Goodies](#-markdown--github-goodies)
+  - [Projects · Utilities 🐠](#projects--utilities-)
+    - [📚 Markdown · GitHub Goodies](#-markdown--github-goodies)
 - [💼 Experience](#-experience)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🧠 Current Focus](#-current-focus)
@@ -39,7 +39,7 @@
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 🌌 Projects & Utilities & Organizations
+## 🌌 Projects · Utilities · Organizations
 
 ### Organizations 🐌
 
@@ -62,7 +62,7 @@ graph TD
 | [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
 
-### Projects & Utilities 🐠
+### Projects · Utilities 🐠
 
 ```mermaid
 graph TD
@@ -88,7 +88,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-#### 📚 Markdown & GitHub Goodies
+#### 📚 Markdown · GitHub Goodies
 
 - [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/) 🌁
 - [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/) ⛄
@@ -335,3 +335,7 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
         alt="BTC QR Code" /></td>
 </tr>
 </table>
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+> 2025
