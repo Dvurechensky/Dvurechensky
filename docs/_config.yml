@@ -10,3 +10,5 @@ paginate: 5
 collections:
   categories:
     output: true
+include:
+  - assets/css/custom.css
