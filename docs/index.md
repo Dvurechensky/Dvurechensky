@@ -127,7 +127,7 @@ graph TD
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4 align="center"><strong>Московский институт психоанализа (MIP) (Feb 2020 – Present, 5+ years)</strong></h4>
-<p align="center"><i>Technical Specialist</p>
+<p align="center"><i>Technical Specialist</i></p>
 
 - Provided technical support for online video platform (MTS-Link)
 - Helped 1000+ users of any age/device join live broadcasts
@@ -136,7 +136,7 @@ graph TD
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting (2019 – 2025, 5+ years total)</strong></h4>
-<p align="center"><i>.NET Developer</p>
+<p align="center"><i>.NET Developer</i></p>
 
 - Built `ASP.NET Core MVC` apps with PostgreSQL, EF Core, RabbitMQ
 - Developed visualization systems for C# / C++ projects and dependencies (NuGet)
@@ -148,7 +148,7 @@ graph TD
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4 align="center"><strong>Freelancer Rebirth (Nov 2020 – Nov 2023, 3 years)</strong></h4>
-<p align="center"><i>C++ Developer</p>
+<p align="center"><i>C++ Developer</i></p>
 
 - Maintained the largest CIS mod for `Freelancer (2003)`
 - Migrated 25+ plugins & core into unified C++ solution
@@ -158,7 +158,7 @@ graph TD
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4 align="center"><strong>InterEVM (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
-<p align="center"><i>System Engineer</p>
+<p align="center"><i>System Engineer</i></p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)
 - Built XSLT templates, optimized PostgreSQL queries
