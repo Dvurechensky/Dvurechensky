@@ -336,4 +336,4 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
             alt="BTC QR Code" /></td>
     </tr>
     </table>
-</div>
+</p>
