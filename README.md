@@ -298,42 +298,40 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
     </p> 
 </p>
 
-<p align="center">
-    <!-- Donationes -->
-    <table>
-    <tr>
-        <td colspan="3" align="center">
-        <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
-        </td>
-    </tr>
-    <tr>
-        <th>Payments</th>
-        <th>Address</th>
-        <th>QR Code</th>
-    </tr>
-    <tr>
-        <td>
-        <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
-        </a>
-        </td>
-        <td><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
-        <td><img 
-            src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym" 
-            width="150" 
-            alt="BTC QR Code" /></td>
-    </tr>
-    <tr>
-        <td>
-        <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank">
-            <img src="https://www.donationalerts.com/img/header/logo.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
-        </a>
-        </td>
-        <td><code>dvurechensky_pro</code></td>
-        <td><img 
-            src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.donationalerts.com/r/dvurechensky_pro" 
-            width="150" 
-            alt="BTC QR Code" /></td>
-    </tr>
-    </table>
-</p>
+<!-- Donationes -->
+<table align="center">
+<tr>
+    <td colspan="3" align="center">
+    <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
+    </td>
+</tr>
+<tr>
+    <th>Payments</th>
+    <th>Address</th>
+    <th>QR Code</th>
+</tr>
+<tr>
+    <td>
+    <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
+    </a>
+    </td>
+    <td><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
+    <td><img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym" 
+        width="150" 
+        alt="BTC QR Code" /></td>
+</tr>
+<tr>
+    <td>
+    <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank">
+        <img src="https://www.donationalerts.com/img/header/logo.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
+    </a>
+    </td>
+    <td><code>dvurechensky_pro</code></td>
+    <td><img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.donationalerts.com/r/dvurechensky_pro" 
+        width="150" 
+        alt="BTC QR Code" /></td>
+</tr>
+</table>
