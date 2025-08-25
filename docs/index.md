@@ -316,18 +316,49 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
         <img src="https://img.shields.io/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://api.github.com/users/Lizerium" alt="Templates Count" />
     </a>
     </p>
-    <p align="center">
+    <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dvurechensky's GitHub stats" /></a>
         <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvurechensky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </p> 
-    <p align="center">
-        <a href="https://github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvurechensky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </p>
 </p>
 
-<p align="center">
-    <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank"><img src="https://www.donationalerts.com/img/header/logo.svg" width="200" /></a>
-</p>
+<!-- Donationes -->
+<table align="center">
+<tr>
+    <td colspan="3" align="center">
+    <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
+    </td>
+</tr>
+<tr>
+    <th>Payments</th>
+    <th>Address</th>
+    <th>QR Code</th>
+</tr>
+<tr>
+    <td>
+    <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
+    </a>
+    </td>
+    <td><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
+    <td><img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym" 
+        width="150" 
+        alt="BTC QR Code" /></td>
+</tr>
+<tr>
+    <td>
+    <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank">
+        <img src="https://www.donationalerts.com/img/header/logo.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
+    </a>
+    </td>
+    <td><code>dvurechensky_pro</code></td>
+    <td><img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.donationalerts.com/r/dvurechensky_pro" 
+        width="150" 
+        alt="BTC QR Code" /></td>
+</tr>
+</table>
 
 ---
 
