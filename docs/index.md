@@ -79,6 +79,7 @@ graph TD
   A[Dvurechensky Sites] --> B[Global]
   A[Dvurechensky Sites] --> C[Github]
   B --> E[Russian Shields.io]
+  C --> R[Project Based Learning]
   C --> M[Internet API]
   C --> G[Gitignore's]
   C --> H[Markdown]
@@ -103,10 +104,11 @@ graph TD
 
 #### 📚 Разное · GitHub
 
-| 🔗 Project                                                         | 📖 Description                                            |
-| ------------------------------------------------------------------ | --------------------------------------------------------- |
-| [API-список](https://dvurechensky-docs.github.io/Internet/)        | Каталог открытых API по категориям                        |
-| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/) | Коллекция готовых `.gitignore` + экскурсия по технологиям |
+| 🔗 Project                                                                               | 📖 Description                                                       |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Обучение на основе проектов](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Ccылки на ресурсы по категориям языков программирования для обучения |
+| [API-список](https://dvurechensky-docs.github.io/Internet/)                              | Каталог открытых API по категориям                                   |
+| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                       | Коллекция готовых `.gitignore` + экскурсия по технологиям            |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
