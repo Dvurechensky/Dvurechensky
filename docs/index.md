@@ -27,7 +27,10 @@ published: true
 - [🌌 Projects · Utilities · Organizations](#-projects--utilities--organizations)
   - [Organizations 🐌](#organizations-)
   - [Projects · Utilities 🐠](#projects--utilities-)
-    - [📚 Markdown · GitHub Goodies](#-markdown--github-goodies)
+    - [📚 Глобальные · сервисы](#-глобальные--сервисы)
+    - [📚 Разное · GitHub](#-разное--github)
+    - [📚 Markdown · GitHub](#-markdown--github)
+    - [📚 C# · GitHub](#-c--github)
 - [💼 Experience](#-experience)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🧠 Current Focus](#-current-focus)
@@ -77,6 +80,8 @@ graph TD
   B --> E[Russian Shields.io]
   C --> M[Internet API]
   C --> G[Gitignore's]
+  C --> N[C#]
+  N --> N1[Patterns]
   C --> H[Markdown]
   H --> K[General Docs]
   H --> L[Emoji]
@@ -85,21 +90,38 @@ graph TD
   H --> V[Mathematics]
 ```
 
-| 🔗 Project                                                                | 📖 Description                                            |
-| ------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Русский Shields.io](https://shields.dvurechensky.pro/)                   | Генератор красивых бейджей на русском языке               |
-| [API-список](https://dvurechensky-docs.github.io/Internet/)               | Каталог открытых API по категориям                        |
-| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)        | Коллекция готовых `.gitignore` + экскурсия по технологиям |
-| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/) | Полное руководство по Markdown с лайфхаками               |
+#### 📚 Глобальные · сервисы
+
+| 🔗 Project                                              | 📖 Description                              |
+| ------------------------------------------------------- | ------------------------------------------- |
+| [Русский Shields.io](https://shields.dvurechensky.pro/) | Генератор красивых бейджей на русском языке |
+
+#### 📚 Разное · GitHub
+
+| 🔗 Project                                                         | 📖 Description                                            |
+| ------------------------------------------------------------------ | --------------------------------------------------------- |
+| [API-список](https://dvurechensky-docs.github.io/Internet/)        | Каталог открытых API по категориям                        |
+| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/) | Коллекция готовых `.gitignore` + экскурсия по технологиям |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-#### 📚 Markdown · GitHub Goodies
+#### 📚 Markdown · GitHub
 
-- [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/) 🌁
-- [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/) ⛄
-- [Цвета текста через MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) ☀️
-- [Математика в Markdown](https://dvurechensky-docs.github.io/MathMarkdown/) 🌀
+| 🔗 Project                                                                               | 📖 Description                              |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)                | Полное руководство по Markdown с лайфхаками |
+| [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)        | Коллекция Emoji                             |
+| [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Коллекция значков Shields                   |
+| [Цвета текста через MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Примеры цветного текста                     |
+| [Математика в Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)               | Пример реализации математических формул     |
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+#### 📚 C# · GitHub
+
+| 🔗 Project                                                                    | 📖 Description                                                          |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Паттерны C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/) | Образцы, шаблоны, схемы программирования в C# с примерами их реализации |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
