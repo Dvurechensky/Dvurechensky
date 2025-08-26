@@ -31,6 +31,7 @@ published: true
     - [📚 Разное · GitHub](#-разное--github)
     - [📚 Markdown · GitHub](#-markdown--github)
     - [📚 C# · GitHub](#-c--github)
+    - [📚 C++ · GitHub](#-c--github-1)
 - [💼 Experience](#-experience)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🧠 Current Focus](#-current-focus)
@@ -81,6 +82,8 @@ graph TD
   C --> M[Internet API]
   C --> G[Gitignore's]
   C --> H[Markdown]
+  C --> W[C++]
+  W --> W1[Logic]
   C --> N[C#]
   N --> N1[Base. Patterns. Principles.]
   N --> N2[Patterns Addons]
@@ -126,6 +129,14 @@ graph TD
 | [Разбор языка программирования C#.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)                             | Обзор функционала языка програмиирования C#, решение задач.                                                                                                                    |
 | [Шаблоны проектирования. ООП. Тестирование. Коллекции C#.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Основы объектно-ориентированного программирования, а также шаблоны программирования в C# с примерами их реализации, тестирование, объянение принципов и решение задач LetCode. |
 | [Паттерны (дополнение) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                                 | Образцы, шаблоны, схемы программирования в C# с примерами их реализации                                                                                                        |
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+#### 📚 C++ · GitHub
+
+| 🔗 Project                                                                                      | 📖 Description                                               |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [Разбор 🚏 языка программирования C++.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Обзор функционала языка програмиирования C++, решение задач. |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
