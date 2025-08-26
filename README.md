@@ -332,7 +332,7 @@ C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
     </p>
     <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dvurechensky's GitHub stats" /></a>
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvurechensky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+        <a href="http://www.github.com/Dvurechensky"><img src="https://streak-stats.demolab.com?user=Dvurechensky&theme=dark&hide_border=true" /></a>
     </p> 
 </p>
 
