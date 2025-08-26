@@ -75,6 +75,8 @@ graph TD
   C --> M[Internet API]
   C --> G[Gitignore's]
   C --> H[Markdown]
+  C --> N[C#]
+  N --> N1[Patterns]
   H --> K[General Docs]
   H --> L[Emoji]
   H --> Z[Shields badges]
