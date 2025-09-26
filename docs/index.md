@@ -79,7 +79,9 @@ graph TD
   A[Dvurechensky Sites] --> B[Global]
   A[Dvurechensky Sites] --> C[Github]
   B --> E[Lizerium]
-  B --> E1[Russian Shields.io]
+  E --> E1[Lizerium Server]
+  E --> E2[Freelancer Lizerium]
+  B --> E3[Lizerium Portal]
   C --> R[Project Based Learning]
   C --> M[Internet API]
   C --> G[Gitignore's]
@@ -100,10 +102,13 @@ graph TD
 
 #### 📚 Глобальные · сервисы
 
-| 🔗 Project                                              | 📖 Description                                                                                                        |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [Lizerium](https://lizup.ru/)                           | Разработанный мной `космический` `симулятор` - это огромный портал под игру с базой знаний о игре `Freelancer (2003)` |
-| [Русский Shields.io](https://shields.dvurechensky.pro/) | Генератор красивых бейджей на русском языке                                                                           |
+| 🔗 Project                                                                                                                       | 📖 Description                                                                                                                                                                                                     | Lang                                             |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| [Lizerium Portal](https://lizup.ru/)                                                                                             | Разработанный мной портал для `космического` `симулятора` - это огромный портал под игру с базой знаний о игре `Freelancer (2003)`                                                                                 | `ASP Net Core 6.0 · MVC · TypeScript · EF Core ` |
+| [Freelancer Lizerium](https://lizup.ru/Home/Game)                                                                                | Разработанный мной `космический` `симулятор` - это моя игра в жанре `космические симуляторы` на базе `Freelancer (2003)` (Мультиплеер и одиночный режим)                                                           | `C++ · Assembler x86`                            |
+| [Lizerium Server](https://lizup.ru/Home/Game) \| [GS4u.net - Мониторинг игровых серверов](https://www.gs4u.net/ru/s/398133.html) | Разработанный мной сервер на `космический` `симулятор` [Freelancer Lizerium](https://lizup.ru/Home/Game) - это огромное дополнение которое состоит из 50-ти плагинов импортирующих новые функции в игровой процесс | `C++ · Asm x86`                                  |
+| [Lizerium Steam](https://lizup.ru/Home/Game)                                                                                     | Разработанный мной `загрузчик игр` серии Freelancer - это технически всем известный `Steam` по своему `поведению` и он может `портировать` и `обновлять` то что внутри него и `сам себя`.                          | `WPF · Prism MVVM  · Handy Control`              |
+| [Русский Shields.io](https://shields.dvurechensky.pro/)                                                                          | Генератор красивых бейджей на русском языке                                                                                                                                                                        | `JS/TS · Canvas / WebGL · Node JS · Redis`       |
 
 #### 📚 Разное · GitHub
 
@@ -243,12 +248,12 @@ graph TD
 <summary> Open </summary>
 
 <h4><strong>Backend:</strong></h4>
-C#, .NET 6–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis
+C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis, Prism (MVVM WPF)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4><strong>Frontend:</strong></h4>
-TypeScript, Cytoscape.js, Three.js, Webpack, Grunt
+TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, HandyContol(WPF)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -268,7 +273,7 @@ PostgreSQL, SQL Server, Redis, MySQL, EF Core
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4><strong>DevOps:</strong></h4>
-Linux (Astra, Ubuntu, Debian), Docker, Jenkins, nginx, Git, SVN, Gitea
+Linux (Astra, Ubuntu, Debian, Kali, Parrot OS), Docker, Jenkins, nginx, Git, SVN, Gitea
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
