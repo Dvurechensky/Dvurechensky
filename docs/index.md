@@ -81,7 +81,7 @@ graph TD
   B --> E[Lizerium]
   E --> E1[Lizerium Server]
   E --> E2[Freelancer Lizerium]
-  B --> E3[Lizerium Portal]
+  E --> E3[Lizerium Portal]
   C --> R[Project Based Learning]
   C --> M[Internet API]
   C --> G[Gitignore's]
