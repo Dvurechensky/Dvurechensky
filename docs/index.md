@@ -80,6 +80,7 @@ graph TD
   A[Dvurechensky Sites] --> C[Github]
   B --> B1[Unifier]
   B --> B2[Shields.io]
+  B --> B3[Heradotus]
   B --> E[Lizerium]
   E --> E1[Lizerium Server]
   E --> E2[Freelancer Lizerium]
@@ -110,6 +111,7 @@ graph TD
 | [Freelancer Lizerium](https://lizup.ru/Home/Game)                                                                                | Разработанный мной `космический` `симулятор` - это моя игра в жанре `космические симуляторы` на базе `Freelancer (2003)` (Мультиплеер и одиночный режим)                                                           | `C++ · Assembler x86`                                |
 | [Lizerium Server](https://lizup.ru/Home/Game) \| [GS4u.net - Мониторинг игровых серверов](https://www.gs4u.net/ru/s/398133.html) | Разработанный мной сервер на `космический` `симулятор` [Freelancer Lizerium](https://lizup.ru/Home/Game) - это огромное дополнение которое состоит из 50-ти плагинов импортирующих новые функции в игровой процесс | `C++ · Asm x86`                                      |
 | [Lizerium Steam](https://lizup.ru/Home/Game)                                                                                     | Разработанный мной `загрузчик игр` серии Freelancer - это технически всем известный `Steam` по своему `поведению` и он может `портировать` и `обновлять` то что внутри него и `сам себя`.                          | `WPF · Prism MVVM  · Handy Control`                  |
+| [Heradotus](https://github.com/Dvurechensky-Tools/Heradotus)                                                                     | Ваш `конструктор` `сценариев` для презентаций и демонстраций. Для разработчиков понимающих `Markdown`.                                                                                                             | `WPF · Prism MVVM  · Handy Control`                  |
 | [Русский Shields.io](https://shields.dvurechensky.pro/)                                                                          | Генератор красивых бейджей на русском языке                                                                                                                                                                        | `JS/TS · Canvas / WebGL · Node JS · Redis`           |
 | [Unifier](https://unifier.dvurechensky.pro/)                                                                                     | Демонстрация операционных систем, графов их процессов, система управления устройствами                                                                                                                             | `JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL` |
 
