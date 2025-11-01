@@ -6,7 +6,11 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-mentions
+  - jekyll-multiple-languages-plugin
 paginate: 5
+languages: ['en', 'ru']
+default_lang: 'ru'
+exclude_from_localization: ['javascript', 'images', 'css']
 collections:
   categories:
     output: true
