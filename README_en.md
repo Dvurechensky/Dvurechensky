@@ -1,16 +1,7 @@
----
-layout: default
-title: 'Nikolai Dvurechensky 👋'
-description: Nikolai Dvurechensky's Github guide-resume
-date: 2025-08-23
-lang: en
-published: true
----
-
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
   <strong>🌐 Language: </strong>
   
-  <a href="/Dvurechensky" style="color: #F5F752; margin: 0 10px;">
+  <a href="./README.md" style="color: #F5F752; margin: 0 10px;">
     🇷🇺 Russian
   </a>
   | 
