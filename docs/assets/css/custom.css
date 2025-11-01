@@ -38,16 +38,3 @@ details > *:not(summary) {
 	margin-top: 0.5rem;
 	color: #ddd;
 }
-
-table {
-	width: 100%;
-	border-collapse: collapse;
-	display: block;
-	overflow-x: auto;
-	white-space: nowrap;
-}
-
-table thead,
-table tbody {
-	width: 100%;
-}
