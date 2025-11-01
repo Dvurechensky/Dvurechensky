@@ -8,8 +8,14 @@ published: true
 
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
   <strong>🌐 Язык: </strong>
-  <a href="/" style="color: #F5F752; margin: 0 10px;">🇷🇺 Русский</a> | 
-  <a href="/en.html" style="color: #0891b2; margin: 0 10px;">🇺🇸 English</a>
+  <a href="/Dvurechensky" 
+     style="color: #F5F752; margin: 0 10px; {% if page.url == '/' %}font-weight: bold; text-decoration: underline;{% endif %}">
+    🇷🇺 Русский
+  </a> | 
+  <a href="/Dvurechensky/en.html" 
+     style="color: #0891b2; margin: 0 10px; {% if page.url contains '/en' %}font-weight: bold; text-decoration: underline;{% endif %}">
+    🇺🇸 English
+  </a>
 </div>
 
 <div align="center">
