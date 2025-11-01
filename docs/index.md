@@ -117,7 +117,7 @@ graph TD
 
 </details>
 
-<details close> 
+<details close markdown="1"> 
 <summary><strong>Интернет-порталы от меня 📚 (13)</strong></summary>
 
 <h4 align="center"> 📚 Разное · GitHub </h4>
