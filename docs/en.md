@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Nikolai Dvurechensky 👋'
+description: Nikolai Dvurechensky's Github guide-resume
 date: 2025-08-23
 lang: en
 published: true
