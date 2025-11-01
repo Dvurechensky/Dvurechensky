@@ -60,7 +60,7 @@ published: true
 
 ## 🌌 Проекты · Утилиты · Организации
 
-<details close>
+<details close markdown="1">
 <summary><strong>🐌 Организации GitHub (6)</strong></summary>
 
 ```mermaid
@@ -86,7 +86,7 @@ graph TD
 
 ### Проекты · Утилиты 🐠
 
-<details close> 
+<details close markdown="1"> 
 <summary><strong>Важные работы 💼 (8)</strong></summary>
 
 #### Важные работы 🌌

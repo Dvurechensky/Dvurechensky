@@ -63,7 +63,7 @@ published: true
 
 ## 🌌 Projects · Utilities · Organizations
 
-<details close>
+<details close markdown="1">
 <summary><strong>🐌 Organizations GitHub (6)</strong></summary>
 
 ```mermaid
@@ -89,7 +89,7 @@ graph TD
 
 ### Projects · Utilities 🐠
 
-<details close> 
+<details close markdown="1"> 
 <summary><strong>Most important jobs 💼 (8)</strong></summary>
 
 #### Most important jobs 🌌
@@ -120,7 +120,7 @@ graph TD
 
 </details>
 
-<details close> 
+<details close markdown="1"> 
 <summary><strong>Internet portals from me 📚 (13)</strong></summary>
 
 #### 📚 Miscellaneous · GitHub
@@ -211,7 +211,7 @@ graph TD
 
 ## 💼 Experience
 
-<details close>
+<details close markdown="1">
 <summary> Open </summary>
 
 <h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – Present, 4+ years)</strong></h4>
@@ -295,7 +295,7 @@ graph TD
 
 ## 🛠️ Tech Stack
 
-<details close>
+<details close markdown="1">
 <summary> Open </summary>
 
 <h4><strong>Backend:</strong></h4>
