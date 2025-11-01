@@ -7,15 +7,15 @@ published: true
 ---
 
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
-  <strong>🌐 Язык: </strong>
-  <a href="/Dvurechensky" 
-     style="color: #F5F752; margin: 0 10px; {% if page.url == '/' %}font-weight: bold; text-decoration: underline;{% endif %}">
-    🇷🇺 Русский
-  </a> | 
-  <a href="/Dvurechensky/en.html" 
-     style="color: #0891b2; margin: 0 10px; {% if page.url contains '/en' %}font-weight: bold; text-decoration: underline;{% endif %}">
-    🇺🇸 English
+  <strong>🌐 Language: </strong>
+  
+  <a href="/Dvurechensky" style="color: #F5F752; margin: 0 10px;">
+    🇷🇺 Russian
   </a>
+  | 
+  <span style="color: #0891b2; margin: 0 10px;">
+    ✅ 🇺🇸 English (current)
+  </span>
 </div>
 
 <div align="center">
@@ -38,10 +38,9 @@ published: true
 
 - [🚀 About Me](#-about-me)
 - [🌌 Projects · Utilities · Organizations](#-projects--utilities--organizations)
-  - [Organizations 🐌](#organizations-)
   - [Projects · Utilities 🐠](#projects--utilities-)
-    - [📚 Глобальные · сервисы](#-глобальные--сервисы)
-    - [📚 Разное · GitHub](#-разное--github)
+    - [Most important jobs 🌌](#most-important-jobs-)
+    - [📚 Miscellaneous · GitHub](#-miscellaneous--github)
     - [📚 Markdown · GitHub](#-markdown--github)
     - [📚 C# · GitHub](#-c--github)
     - [📚 C++ · GitHub](#-c--github-1)
@@ -51,20 +50,21 @@ published: true
 
 ## 🚀 About Me
 
-- 💻 Started programming by reverse-engineering online games
-- 🛠️ Building automation tools, game clients & backend systems since 2014
-- 🌍 Currently based in **Moscow**
-- 🎨 Passionate about **Unity HDRP, Linux, security, and experimental projects**
-- ⚡ Fun fact: I call myself a hacker — but in the good sense 😉
+- 💻 Started programming with reverse engineering of online games
+- 🛠️ Creating automation tools, game clients, and backend systems since 2014
+- 🌍 Based in **Moscow**
+- 🎨 Passionate about **.NET, reverse engineering, Unity HDRP, Linux, security, and experimental projects, proficient in almost all popular programming languages**
+- ⚡ Fun fact: I call myself a hacker — but in the good sense, completed a white hat hacking course from `CyberEd` 😉
 
-📫 Reach me: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
+📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com)
 🌐 Portfolio: [dvurechensky.pro](https://sites.google.com/view/dvurechensky)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 ## 🌌 Projects · Utilities · Organizations
 
-### Organizations 🐌
+<details close>
+<summary><strong>🐌 Organizations GitHub (6)</strong></summary>
 
 ```mermaid
 graph TD
@@ -85,12 +85,18 @@ graph TD
 | [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
 
+</details>
+
 ### Projects · Utilities 🐠
+
+<details close> 
+<summary><strong>Most important jobs 💼 (8)</strong></summary>
+
+#### Most important jobs 🌌
 
 ```mermaid
 graph TD
-  A[Dvurechensky Sites] --> B[Global]
-  A[Dvurechensky Sites] --> C[Github]
+  B[Most important jobs]
   B --> B1[Unifier]
   B --> B2[Shields.io]
   B --> B3[Heradotus]
@@ -99,75 +105,100 @@ graph TD
   E --> E1[Lizerium Server]
   E --> E2[Freelancer Lizerium]
   E --> E3[Lizerium Portal]
-  C --> R[Project Based Learning]
-  C --> M[Internet API]
-  C --> G[Gitignore's]
-  C --> H[Markdown]
-  C --> W[C++]
-  W --> W1[Logic]
-  C --> N[C#]
-  N --> N1[Base. Patterns. Principles.]
-  N --> N2[Patterns Addons]
-  N --> N3[Logic]
-  N --> N4[Interview]
-  H --> K[General Docs]
-  H --> L[Emoji]
-  H --> Z[Shields badges]
-  H --> X[MatJax]
-  H --> V[Mathematics]
 ```
 
-#### 📚 Глобальные · сервисы
+| 🔗 Project                                                                                                                  | 📖 Description                                                                                                                                                                                      | Lang                                                 |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [Lizerium Portal](https://lizup.ru/)                                                                                        | My developed portal for a `space` `simulator` - this is a huge portal for the game with a knowledge base about the game `Freelancer (2003)`                                                         | `ASP Net Core 6.0 · MVC · TypeScript · EF Core `     |
+| [Freelancer Lizerium](https://lizup.ru/Home/Game)                                                                           | My developed `space` `simulator` - this is my game in the `space simulators` genre based on `Freelancer (2003)` (Multiplayer and single player modes)                                               | `C++ · Assembler x86`                                |
+| [Lizerium Server](https://lizup.ru/Home/Game) \| [GS4u.net - Game Server Monitoring](https://www.gs4u.net/ru/s/398133.html) | My developed server for the `space` `simulator` [Freelancer Lizerium](https://lizup.ru/Home/Game) - this is a huge expansion that consists of 50+ plugins importing new functions into the gameplay | `C++ · Asm x86`                                      |
+| [Lizerium Steam](https://lizup.ru/Home/Game)                                                                                | My developed `game loader` for the Freelancer series - this is technically the well-known `Steam` in its `behavior` and it can `port` and `update` what's inside it and `itself`.                   | `WPF · Prism MVVM  · Handy Control`                  |
+| [Heradotus](https://github.com/Dvurechensky-Tools/Heradotus)                                                                | Your `scenario` `constructor` for presentations and demonstrations. For developers who understand `Markdown`.                                                                                       | `WPF · Prism MVVM  · Handy Control`                  |
+| [FileSyncSentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel)                                                  | Powerful real-time file change `monitoring` with intelligent `comparison` 🔍.                                                                                                                       | `WinForms · MVC  · DiffPlex · NET 8.0 `              |
+| [Russian Shields.io](https://shields.dvurechensky.pro/)                                                                     | Beautiful badge generator in Russian language                                                                                                                                                       | `JS/TS · Canvas / WebGL · Node JS · Redis`           |
+| [Unifier](https://unifier.dvurechensky.pro/)                                                                                | Demonstration of operating systems, their process graphs, device management system                                                                                                                  | `JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL` |
 
-| 🔗 Project                                                                                                                       | 📖 Description                                                                                                                                                                                                     | Lang                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| [Lizerium Portal](https://lizup.ru/)                                                                                             | Разработанный мной портал для `космического` `симулятора` - это огромный портал под игру с базой знаний о игре `Freelancer (2003)`                                                                                 | `ASP Net Core 6.0 · MVC · TypeScript · EF Core `     |
-| [Freelancer Lizerium](https://lizup.ru/Home/Game)                                                                                | Разработанный мной `космический` `симулятор` - это моя игра в жанре `космические симуляторы` на базе `Freelancer (2003)` (Мультиплеер и одиночный режим)                                                           | `C++ · Assembler x86`                                |
-| [Lizerium Server](https://lizup.ru/Home/Game) \| [GS4u.net - Мониторинг игровых серверов](https://www.gs4u.net/ru/s/398133.html) | Разработанный мной сервер на `космический` `симулятор` [Freelancer Lizerium](https://lizup.ru/Home/Game) - это огромное дополнение которое состоит из 50-ти плагинов импортирующих новые функции в игровой процесс | `C++ · Asm x86`                                      |
-| [Lizerium Steam](https://lizup.ru/Home/Game)                                                                                     | Разработанный мной `загрузчик игр` серии Freelancer - это технически всем известный `Steam` по своему `поведению` и он может `портировать` и `обновлять` то что внутри него и `сам себя`.                          | `WPF · Prism MVVM  · Handy Control`                  |
-| [Heradotus](https://github.com/Dvurechensky-Tools/Heradotus)                                                                     | Ваш `конструктор` `сценариев` для презентаций и демонстраций. Для разработчиков понимающих `Markdown`.                                                                                                             | `WPF · Prism MVVM  · Handy Control`                  |
-| [FileSyncSentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel)                                                       | Мощный `мониторинг` изменений файлов в реальном времени с интеллектуальным `сравнением` 🔍.                                                                                                                        | `WinForms · MVC  · DiffPlex · NET 8.0 `              |
-| [Русский Shields.io](https://shields.dvurechensky.pro/)                                                                          | Генератор красивых бейджей на русском языке                                                                                                                                                                        | `JS/TS · Canvas / WebGL · Node JS · Redis`           |
-| [Unifier](https://unifier.dvurechensky.pro/)                                                                                     | Демонстрация операционных систем, графов их процессов, система управления устройствами                                                                                                                             | `JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL` |
+</details>
 
-#### 📚 Разное · GitHub
+<details close> 
+<summary><strong>Internet portals from me 📚 (13)</strong></summary>
 
-| 🔗 Project                                                                               | 📖 Description                                                       |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Обучение на основе проектов](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Ccылки на ресурсы по категориям языков программирования для обучения |
-| [API-список](https://dvurechensky-docs.github.io/Internet/)                              | Каталог открытых API по категориям                                   |
-| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                       | Коллекция готовых `.gitignore` + экскурсия по технологиям            |
+#### 📚 Miscellaneous · GitHub
+
+```mermaid
+graph TD
+  C[Miscellaneous online portals]
+  C --> R[Project Based Learning]
+  C --> M[API List]
+  C --> G[Gitignore Portal]
+```
+
+| 🔗 Project                                                                          | 📖 Description                                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning |
+| [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                 |
+| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview       |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 #### 📚 Markdown · GitHub
 
-| 🔗 Project                                                                               | 📖 Description                              |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)                | Полное руководство по Markdown с лайфхаками |
-| [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)        | Коллекция Emoji                             |
-| [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Коллекция значков Shields                   |
-| [Цвета текста через MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Примеры цветного текста                     |
-| [Математика в Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)               | Пример реализации математических формул     |
+```mermaid
+graph TD
+  C[Markdown online portals]
+  C --> H[Markdown]
+  H --> K[Fundamentals]
+  H --> L[All about emoji]
+  H --> Z[Shields badges]
+  H --> X[Text colors with MathJax]
+  H --> V[Mathematics]
+```
+
+| 🔗 Project                                                                            | 📖 Description                                  |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)             | Complete Markdown guide with lifehacks          |
+| [Emoji in Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)    | Emoji collection                                |
+| [Shields Badges List](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Collection of Shields badges                    |
+| [Text Colors via MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Examples of colored text                        |
+| [Mathematics in Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)          | Example implementation of mathematical formulas |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 #### 📚 C# · GitHub
 
-| 🔗 Project                                                                                                                 | 📖 Description                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Разбор языка программирования C#.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)                             | Обзор функционала языка програмиирования C#, решение задач.                                                                                                                    |
-| [Шаблоны проектирования. ООП. Тестирование. Коллекции C#.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Основы объектно-ориентированного программирования, а также шаблоны программирования в C# с примерами их реализации, тестирование, объянение принципов и решение задач LetCode. |
-| [Паттерны (дополнение) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                                 | Образцы, шаблоны, схемы программирования в C# с примерами их реализации                                                                                                        |
-| [Вопросы на собеседованиях по C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                           | Обзор вопросов по языку программирования C# и технологии .NET                                                                                                                  |
+```mermaid
+graph TD
+  C[C# online portals]
+  C --> N[C#]
+  N --> N1[Base. Patterns. Principles.]
+  N --> N2[Patterns - addition]
+  N --> N3[Logic]
+  N --> N4[Interview]
+```
+
+| 🔗 Project                                                                                                       | 📖 Description                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Analysis of the C# programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)            | Overview of the C# programming language functionality, problem solving.                                                                                                                     |
+| [Design Patterns. OOP. Testing. C# Collections.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Fundamentals of object-oriented programming, as well as programming patterns in C# with examples of their implementation, testing, explanation of principles and solving LeetCode problems. |
+| [Patterns (addition) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                         | Samples, templates, programming schemes in C# with examples of their implementation                                                                                                         |
+| [Interview Questions on C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                       | Overview of questions on the C# programming language and .NET technology                                                                                                                    |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 #### 📚 C++ · GitHub
 
-| 🔗 Project                                                                                      | 📖 Description                                               |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Разбор 🚏 языка программирования C++.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Обзор функционала языка програмиирования C++, решение задач. |
+```mermaid
+graph TD
+  C[C++ online portals]
+  C --> W[C++]
+  W --> W1[Fundamentals]
+```
+
+| 🔗 Project                                                                                             | 📖 Description                                                           |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [Analysis 🚏 of the C++ programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Overview of the C++ programming language functionality, problem solving. |
+
+</details>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -183,7 +214,7 @@ graph TD
 <details close>
 <summary> Open </summary>
 
-<h4 align="center"><strong>OXSIONSOFT, Lizerium (Mar 2021 – Present, 4+ years)</strong></h4>
+<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – Present, 4+ years)</strong></h4>
 <p align="center"><i>Unity Developer</i></p>
 
 - Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
@@ -198,7 +229,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>Московский институт психоанализа (MIP) (Feb 2020 – Present, 5+ years)</strong></h4>
+<h4 align="center"><strong>Moscow Institute of Psychoanalysis (MIP) <br> (Feb 2020 – Present, 5+ years)</strong></h4>
 <p align="center"><i>Technical Specialist</i></p>
 
 - Provided technical support for online video platform (MTS-Link)
@@ -209,7 +240,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting (2019 – 2025, 5+ years total)</strong></h4>
+<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
 <p align="center"><i>.NET Developer</i></p>
 
 - Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
@@ -226,7 +257,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>Freelancer Rebirth (Nov 2020 – Nov 2023, 3 years)</strong></h4>
+<h4 align="center"><strong>Freelancer Rebirth <br> (Nov 2020 – Nov 2023, 3 years)</strong></h4>
 <p align="center"><i>C++ Developer</i></p>
 
 - Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
@@ -239,7 +270,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>InterEVM (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<h4 align="center"><strong>InterEVM <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
 <p align="center"><i>System Engineer</i></p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)
@@ -252,7 +283,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>Other Roles (2017 – 2020)</strong></h4>
+<h4 align="center"><strong>Other Roles <br> (2017 – 2020)</strong></h4>
 
 - <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
   <br>
