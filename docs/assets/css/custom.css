@@ -38,3 +38,28 @@ details > *:not(summary) {
 	margin-top: 0.5rem;
 	color: #ddd;
 }
+
+@media (max-width: 768px) {
+	table {
+		border: 0;
+	}
+	table thead {
+		display: none;
+	}
+	table tr {
+		display: block;
+		margin-bottom: 1rem;
+		border-bottom: 2px solid #444;
+	}
+	table td {
+		display: block;
+		text-align: left;
+		padding: 0.4em 0;
+	}
+	table td::before {
+		content: attr(data-label);
+		font-weight: bold;
+		display: block;
+		color: #aaa;
+	}
+}
