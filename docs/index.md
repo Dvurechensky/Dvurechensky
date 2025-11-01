@@ -40,10 +40,7 @@ published: true
 - [🌌 Проекты · Утилиты · Организации](#-проекты--утилиты--организации)
   - [Проекты · Утилиты 🐠](#проекты--утилиты-)
     - [Важные работы 🌌](#важные-работы-)
-    - [📚 Разное · GitHub](#-разное--github)
-    - [📚 Markdown · GitHub](#-markdown--github)
-    - [📚 C# · GitHub](#-c--github)
-    - [📚 C++ · GitHub](#-c--github-1)
+    - [📚 C++ · GitHub](#-c--github)
 - [💼 Опыт работы](#-опыт-работы)
 - [🛠️ Технологический стек](#️-технологический-стек)
 - [🧠 Текущие направления](#-текущие-направления)
@@ -123,7 +120,7 @@ graph TD
 <details close> 
 <summary><strong>Интернет-порталы от меня 📚 (13)</strong></summary>
 
-#### 📚 Разное · GitHub
+<h4 align="center"> 📚 Разное · GitHub </h4>
 
 ```mermaid
 graph TD
@@ -141,7 +138,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-#### 📚 Markdown · GitHub
+<h4 align="center"> 📚 Markdown · GitHub </h4>
 
 ```mermaid
 graph TD
@@ -164,7 +161,7 @@ graph TD
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-#### 📚 C# · GitHub
+<h4 align="center"> 📚 C# · GitHub </h4>
 
 ```mermaid
 graph TD
