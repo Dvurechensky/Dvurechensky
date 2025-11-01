@@ -2,8 +2,15 @@
 layout: default
 title: 'Николай Двуреченский 👋'
 date: 2025-08-23
+lang: ru
 published: true
 ---
+
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>🌐 Язык: </strong>
+  <a href="/" style="color: #F5F752; margin: 0 10px;">🇷🇺 Русский</a> | 
+  <a href="/en.html" style="color: #0891b2; margin: 0 10px;">🇺🇸 English</a>
+</div>
 
 <div align="center">
   <picture>
