@@ -36,6 +36,7 @@
     - [📚 Markdown · GitHub](#-markdown--github)
     - [📚 C# · GitHub](#-c--github)
     - [📚 C++ · GitHub](#-c--github-1)
+    - [📚 Templates](#-templates)
 - [💼 Experience](#-experience)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🧠 Current Focus](#-current-focus)
@@ -233,6 +234,25 @@ graph TD
 | 🔗 Project                                                                                             | 📖 Description                                                           |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | [Analysis 🚏 of the C++ programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Overview of the C++ programming language functionality, problem solving. |
+
+</details>
+
+<details close markdown="1"> 
+<summary><strong>Templates 📚 (2)</strong></summary>
+
+#### 📚 Templates
+
+```mermaid
+graph TD
+  C[Templates]
+  C --> W[Telegram Bot]
+  W --> W1[NET Core MVC]
+```
+
+| 🔗 Project                                                                                 | 📖 Description                                                                 |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [Telegram Bot 🚏 Template.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Clean, multi-layered architecture. Easy to scale and add new teams / services. |
+| [Net Core 🚏 Template.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)         | ASP.NET Core MVC, Frontend Project Template - TypeScript                       |
 
 </details>
 
