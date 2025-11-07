@@ -394,7 +394,7 @@ Linux (Astra, Ubuntu, Debian, Kali, Parrot OS), Docker, Jenkins, nginx, Git, SVN
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <h4><strong>Languages & Tools:</strong></h4>
-C++, Boost, Qt, Python, Bash, Shell, IDA Pro, OllyDbg, Burp Suite Pro
+Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SCSS/CSS, Boost, Qt, Bash, IDA Pro, OllyDbg, Burp Suite Pro
 
 </details>
 
