@@ -401,7 +401,7 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 `Псевдонимы в сети:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitch/status/dvurechensky_pro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/>
+<img src="https://shields.dvurechensky.pro/badge/TWITCH-DVURECHENSKY__PRO-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>
 </a>
 
 <p align="center">
