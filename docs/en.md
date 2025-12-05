@@ -24,16 +24,21 @@ published: true
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
   </picture>
   <h2>👋 Hi there, I'm <span style="color:#F5F752;">Nikolai Dvurechensky <br>💻 A passionate Full Stack Developer</span></h2>
-
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+Looking+for+a+job;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+Developer;%F0%9F%8E%AF+Reverse+Engineer" alt="Typing SVG" /></a>
-</p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
+<div style="display:flex;justify-content:center;align-items: center;gap: 16px;flex-wrap: wrap;"> 
+  <img width=200 src="https://github.com/Dvurechensky.png" style="flex-shrink: 0;border-radius:15px;border:2px solid #222; box-shadow:2px 2px 2px 2px #111; margin: 15px">
+  <p align="right">
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%8E%AF+%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" /></a>
+  </p>
+</div>
 
-> 🎯 `Reverse` Engineer · Full-stack & `Unity` Developer · `.NET` Enthusiast
-> 🌌 `Universal` programmer exploring **`Web` · `Unity` · `Linux` · `Security`**
+- 🎯 `Reverse` Engineer
+- 🎯 `Systems` Engineer
+- 🎯 `Full-stack` · `Unity` · `.NET` · `TypeScript` · `Go` · `C#` and other developer
+- 🌌 General-purpose programmer in the world of `Web` · `Unity` · `Linux` · `Windows` · `Security`
+
+<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
