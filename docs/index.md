@@ -27,7 +27,7 @@ published: true
 </div>
 
 <div style="display:flex;justify-content:center;align-items: center;gap: 16px;flex-wrap: wrap;"> 
-  <img width=200 src="https://github.com/Dvurechensky.png" style="flex-shrink: 0;border-radius:15px;border:2px solid #222; box-shadow:2px 2px 2px 2px #111; margin: 15px">
+  <img width=200 src="https://github.com/Dvurechensky.png" style="flex-shrink: 0;border-radius:15px;border:2px solid #222; box-shadow:1px 1px 3px 4px #111; margin: 15px">
   <p align="right">
     <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%8E%AF+%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" /></a>
   </p>
@@ -35,7 +35,7 @@ published: true
 
 - 🎯 `Реверс`-инженер
 - 🎯 `Системный`-инженер
-- 🎯 · `Full-stack` - разработчик на `Unity` · `.NET` · `TypeScript` · `Go`· `C#` и др.
+- 🎯 `Full-stack` - разработчик на `Unity` · `.NET` · `TypeScript` · `Go`· `C#` и др.
 - 🌌 `Универсальный` программист в мире **`Веб` · `Unity` · `Linux` · `Windows` · `Security`**
 
 <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
