@@ -25,15 +25,21 @@ published: true
   </picture>
   <h2>👋 Всем привет, Я <span style="color:#F5F752;">Николай Двуреченский <br>💻 Разработчик полного цикла</span></h2>
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%8E%AF+%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" alt="Typing SVG" /></a>
-</p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
+<div style="display:flex;justify-content:center;"> 
+  <img width=200 src="https://github.com/Dvurechensky.png" style="border-radius:15px;border:2px solid #222; box-shadow:2px 2px 2px 2px #111; margin: 15px">
+  <p align="right">
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%8E%AF+%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" /></a>
+  </p>
+</div>
 
-> 🎯 `Реверс`-инженер · Full-stack & `Unity` разработчик · Поклонник `.NET`
-> 🌌 `Универсальный` программист в мире **`Веб` · `Unity` · `Linux` · `Security`**
+- 🎯 `Реверс`-инженер
+- 🎯 `Системный`-инженер
+- 🎯 · `Full-stack` - разработчик на `Unity` · `.NET` · `TypeScript` · `Go`· `C#` и др.
+- 🌌 `Универсальный` программист в мире **`Веб` · `Unity` · `Linux` · `Windows` · `Security`**
+
+<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -234,7 +240,7 @@ graph TD
 graph TD
   C[C++ порталы в сети]
   C --> W[C++]
-  W --> W1[Основы]
+  C --> W1[Основы]
 ```
 
 | 🔗 Проект                                                                                       | 📖 Описание                                                  |
@@ -244,7 +250,7 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Шаблоны 📚 (2)</strong></summary>
+<summary><strong>Шаблоны 📚 (3)</strong></summary>
 
 #### 📚 Шаблоны
 
@@ -252,13 +258,15 @@ graph TD
 graph TD
   C[Шаблоны]
   C --> W[Telegram Bot]
-  W --> W1[NET Core MVC]
+  C --> W1[NET Core MVC]
+  C --> W2[Electron & Vue3 & Vite App]
 ```
 
-| 🔗 Проект                                                                                | 📖 Описание                                                                                 |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Telegram Bot 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Чистая, многоуровневая архитектура. Легко масштабируется и добавляет новые команды/сервисы. |
-| [Net Core 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)         | ASP.NET Core MVC, шаблон проекта Frontend — TypeScript                                      |
+| 🔗 Проект                                                                                                 | 📖 Описание                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Telegram Bot 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                  | Чистая, многоуровневая архитектура. Легко масштабируется и добавляет новые команды/сервисы.                                                   |
+| [Net Core 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                          | ASP.NET Core MVC, шаблон проекта Frontend — TypeScript                                                                                        |
+| [Electron & Vue3 & Vite 🚏 Template.](https://github.com/Dvurechensky-Templates/ElectronViteTemplateRuEn) | Шаблон проекта Vue3 + Vite + Electron, основанный на Vite и Rollup. альтернативный платформер для производства кроссплатформенных приложений. |
 
 </details>
 
@@ -480,7 +488,7 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
     </p>
     <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Статистика GitHub Dvurechensky" /></a>
+        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Статистика GitHub Dvurechensky" /></a>
     </p> 
     </p> 
 </p>

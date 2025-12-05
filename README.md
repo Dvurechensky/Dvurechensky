@@ -225,7 +225,7 @@ graph TD
 graph TD
   C[C++ порталы в сети]
   C --> W[C++]
-  W --> W1[Основы]
+  C --> W1[Основы]
 ```
 
 | 🔗 Проект                                                                                       | 📖 Описание                                                  |
@@ -235,7 +235,7 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Шаблоны 📚 (2)</strong></summary>
+<summary><strong>Шаблоны 📚 (3)</strong></summary>
 
 #### 📚 Шаблоны
 
@@ -243,13 +243,15 @@ graph TD
 graph TD
   C[Шаблоны]
   C --> W[Telegram Bot]
-  W --> W1[NET Core MVC]
+  C --> W1[NET Core MVC]
+  C --> W2[Electron & Vue3 & Vite App]
 ```
 
-| 🔗 Проект                                                                                | 📖 Описание                                                                                 |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Telegram Bot 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Чистая, многоуровневая архитектура. Легко масштабируется и добавляет новые команды/сервисы. |
-| [Net Core 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)         | ASP.NET Core MVC, шаблон проекта Frontend — TypeScript                                      |
+| 🔗 Проект                                                                                                 | 📖 Описание                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Telegram Bot 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                  | Чистая, многоуровневая архитектура. Легко масштабируется и добавляет новые команды/сервисы.                                                   |
+| [Net Core 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                          | ASP.NET Core MVC, шаблон проекта Frontend — TypeScript                                                                                        |
+| [Electron & Vue3 & Vite 🚏 Template.](https://github.com/Dvurechensky-Templates/ElectronViteTemplateRuEn) | Шаблон проекта Vue3 + Vite + Electron, основанный на Vite и Rollup. альтернативный платформер для производства кроссплатформенных приложений. |
 
 </details>
 
@@ -407,7 +409,7 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 <p align="center">
     <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Статистика GitHub Dvurechensky" /></a>
+        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Статистика GitHub Dvurechensky" /></a>
     </p> 
     </p> 
 </p>
