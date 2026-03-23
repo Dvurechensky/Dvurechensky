@@ -157,7 +157,7 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Интернет-порталы от меня 📚 (13)</strong></summary>
+<summary><strong>Интернет-порталы от меня 📚 (14)</strong></summary>
 
 <h4 align="center"> 📚 Разное · GitHub </h4>
 
@@ -167,13 +167,15 @@ graph TD
   C --> R[Обучение на основе проектов]
   C --> M[API-список]
   C --> G[Gitignore - портал]
+  C --> L[Frontend - разработка]
 ```
 
-| 🔗 Проект                                                                                | 📖 Описание                                                          |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Обучение на основе проектов](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Ccылки на ресурсы по категориям языков программирования для обучения |
-| [API-список](https://dvurechensky-docs.github.io/Internet/)                              | Каталог открытых API по категориям                                   |
-| [Gitignore - портал](https://dvurechensky-docs.github.io/Gitignore/)                     | Коллекция готовых `.gitignore` + экскурсия по технологиям            |
+| 🔗 Проект                                                                                | 📖 Описание                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Обучение на основе проектов](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Ccылки на ресурсы по категориям языков программирования для обучения                                                                                                     |
+| [API-список](https://dvurechensky-docs.github.io/Internet/)                              | Каталог открытых API по категориям                                                                                                                                       |
+| [Gitignore - портал](https://dvurechensky-docs.github.io/Gitignore/)                     | Коллекция готовых `.gitignore` + экскурсия по технологиям                                                                                                                |
+| [Frontend - разработка](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)       | Постоянно расширяющийся список фреймворков, библиотек и инструментов, которые я использовал/хочу использовать для создания `Web-контента`. В основном, это `JavaScript`. |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 

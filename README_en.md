@@ -160,7 +160,7 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Internet portals from me 📚 (13)</strong></summary>
+<summary><strong>Internet portals from me 📚 (14)</strong></summary>
 
 #### 📚 Miscellaneous · GitHub
 
@@ -170,13 +170,15 @@ graph TD
   C --> R[Project Based Learning]
   C --> M[API List]
   C --> G[Gitignore Portal]
+  C --> L[Frontend - develop]
 ```
 
-| 🔗 Project                                                                          | 📖 Description                                                     |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning |
-| [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                 |
-| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview       |
+| 🔗 Project                                                                          | 📖 Description                                                                                                                                |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning                                                                            |
+| [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                                                                                            |
+| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview                                                                                  |
+| [Frontend - develop](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)     | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly `Javascript` stuff. |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
