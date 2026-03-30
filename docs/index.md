@@ -61,7 +61,7 @@ published: true
 - ⚡ Забавный факт: называю себя хакером — но в хорошем смысле, заканчил курс по белому хакингу от `CyberEd`😉
 
 📫 Свяжитесь со мной: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
-🌐 Портфолио: [dvurechensky.pro](https://sites.google.com/view/dvurechensky)
+🌐 Портфолио: [dvurechensky.pro](https://dvurechensky.pro)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 

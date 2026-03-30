@@ -52,7 +52,7 @@
 - ⚡ Fun fact: I call myself a hacker — but in the good sense, completed a white hat hacking course from `CyberEd` 😉
 
 📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com)
-🌐 Portfolio: [dvurechensky.pro](https://sites.google.com/view/dvurechensky)
+🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
