@@ -163,7 +163,7 @@ graph TD
     </tr>
     <tr>
       <td data-label="Project"><a href="https://unifier.dvurechensky.pro/">Unifier</a></td>
-      <td data-label="Description">Demonstration of operating systems, their process graphs, device management system.</td>
+      <td data-label="Description">Registered software system for distributed device interaction and infrastructure orchestration.<a href="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/files/Unifier.Patent.pdf" target="_blank">📄 Patent</a></td>
       <td data-label="Lang"><code>JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL</code></td>
     </tr>
   </tbody>
