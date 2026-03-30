@@ -50,6 +50,7 @@
 
 📫 Свяжитесь со мной: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
 🌐 Портфолио: [dvurechensky.pro](https://dvurechensky.pro)
+🌐 ORCID: https://orcid.org/0009-0004-2701-5592
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 

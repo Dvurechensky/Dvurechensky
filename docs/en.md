@@ -65,6 +65,7 @@ published: true
 
 📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com)
 🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
+🌐 ORCID: https://orcid.org/0009-0004-2701-5592
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
