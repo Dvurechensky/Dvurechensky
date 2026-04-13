@@ -86,7 +86,7 @@ graph TD
 ### Projects · Utilities 🐠
 
 <details close markdown="1"> 
-<summary><strong>Most important jobs 💼 (8)</strong></summary>
+<summary><strong>Most important jobs 💼 (11)</strong></summary>
 
 #### Most important jobs 🌌
 
@@ -101,6 +101,10 @@ graph TD
   E --> E1[Lizerium Server]
   E --> E2[Freelancer Lizerium]
   E --> E3[Lizerium Portal]
+  B --> G[Reverse]
+  G --> G1[ReverseProxyDLL]
+  G --> G2[Freelancer.Reverse.Runtime]
+  G --> G3[BinNexus]
 ```
 
 <table>
@@ -112,6 +116,21 @@ graph TD
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
+      <td data-label="Description">BinNexus is a tool for analyzing Windows binaries (DLL/EXE) that builds an interactive web portal with a dependency graph and export exploration.</td>
+      <td data-label="Languages"><code>Python · JavaScript · CSS · HTML</code></td>
+    </tr>
+    <tr>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
+      <td data-label="Description">Reverse-aware proxy DLL framework generator for legacy x86 Windows binaries based on export dumps and decompiler output.</td>
+      <td data-label="Languages"><code>Python · C++</code></td>
+    </tr>
+    <tr>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
+      <td data-label="Description">I'm building a runtime layer on top of Freelancer (2003), restoring and overriding system DLLs to safely explore, extend, and document the behavior of the original engine.</td>
+      <td data-label="Languages"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
+    </tr>
     <tr>
       <td data-label="Project"><a href="https://lizup.ru/">Lizerium Portal</a></td>
       <td data-label="Description">My developed portal for a <code>space</code> <code>simulator</code> — this is a huge portal for the game with a knowledge base about the game <code>Freelancer (2003)</code>.</td>

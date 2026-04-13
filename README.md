@@ -83,7 +83,7 @@ graph TD
 ### Проекты · Утилиты 🐠
 
 <details close markdown="1"> 
-<summary><strong>Важные работы 💼 (8)</strong></summary>
+<summary><strong>Важные работы 💼 (11)</strong></summary>
 
 #### Важные работы 🌌
 
@@ -98,6 +98,10 @@ graph TD
   E --> E1[Lizerium Server]
   E --> E2[Freelancer Lizerium]
   E --> E3[Lizerium Portal]
+  B --> G[Reverse]
+  G --> G1[ReverseProxyDLL]
+  G --> G2[Freelancer.Reverse.Runtime]
+  G --> G3[BinNexus]
 ```
 
 <table>
@@ -109,6 +113,21 @@ graph TD
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td data-label="Проект"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
+      <td data-label="Описание">BinNexus — инструмент для анализа бинарников Windows (DLL / EXE), который строит интерактивный веб-портал с графом зависимостей и исследованием экспортов.</td>
+      <td data-label="Языки"><code>Python · JavaScript · CSS · HTML</code></td>
+    </tr>
+    <tr>
+      <td data-label="Проект"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
+      <td data-label="Описание">Генератор reverse-aware proxy DLL каркасов для legacy x86 Windows-бинарников на основе дампа экспортов и вывода декомпилятора.</td>
+      <td data-label="Языки"><code>Python · C++</code></td>
+    </tr>
+    <tr>
+      <td data-label="Проект"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
+      <td data-label="Описание">Я строю runtime-слой поверх Freelancer (2003), восстанавливая и переопределяя системные DLL, чтобы безопасно исследовать, расширять и документировать поведение оригинального движка.</td>
+      <td data-label="Языки"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
+    </tr>
     <tr>
       <td data-label="Проект"><a href="https://lizup.ru/">Lizerium Portal</a></td>
       <td data-label="Описание">Разработанный мной портал для <code>космического</code> <code>симулятора</code> — это огромный портал под игру с базой знаний о игре <code>Freelancer (2003)</code>.</td>
