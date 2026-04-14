@@ -128,7 +128,7 @@ graph TD
     <tr>
       <td data-label="Проект"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
       <td data-label="Описание">BinNexus — инструмент для анализа бинарников Windows (DLL / EXE), который строит интерактивный веб-портал с графом зависимостей и исследованием экспортов.</td>
-      <td data-label="Языки"><code>Python · JavaScript · CSS · HTML</code></td>
+      <td data-label="Языки"><code>Python · JavaScript · CSS · HTML · C++</code></td>
     </tr>
     <tr>
       <td data-label="Проект"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
