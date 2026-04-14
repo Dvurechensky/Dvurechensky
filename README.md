@@ -1,95 +1,98 @@
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
-  <strong>🌐 Язык: </strong>
+  <strong>🌐 Language: </strong>
   
-  <span style="color: #F5F752; margin: 0 10px;">
-    ✅ 🇷🇺 Русский (текущий)
-  </span>
-  | 
-  <a href="./README_en.md" style="color: #0891b2; margin: 0 10px;">
-    🇺🇸 English
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
+    🇷🇺 Russian
   </a>
+  | 
+  <span style="color: #0891b2; margin: 0 10px;">
+    ✅ 🇺🇸 English (current)
+  </span>
 </div>
 
 <div align="center">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
   </picture>
-  <h2>👋 Всем привет, Я <span style="color:#F5F752;">Николай Двуреченский <br>💻 Разработчик полного цикла</span></h2>
+  <h2>👋 Hi there, I'm <span style="color:#F5F752;">Nikolai Dvurechensky <br>💻 A passionate Full Stack Developer</span></h2>
 
 <p align="center">
-    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%8E%AF+%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" /></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+Looking+for+a+job;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+Developer;%F0%9F%8E%AF+Reverse+Engineer" /></a>
 </p>
 </div>
 
-- 🎯 `Реверс`-инженер
-- 🎯 `Системный`-инженер
-- 🎯 `Full-stack` - разработчик на `Unity` · `.NET` · `TypeScript` · `Go`· `C#` и др.
-- 🌌 `Универсальный` программист в мире **`Веб` · `Unity` · `Linux` · `Windows` · `Security`**
+- 🎯 `Reverse` Engineer
+- 🎯 `Systems` Engineer
+- 🎯 `Full-stack` · `Unity` · `.NET` · `TypeScript` · `Go` · `C#` and other developer
+- 🌌 General-purpose programmer in the world of `Web` · `Unity` · `Linux` · `Windows` · `Security`
 
 <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-- [🚀 Обо мне](#-обо-мне)
-- [🌌 Проекты · Утилиты · Организации](#-проекты--утилиты--организации)
-  - [Проекты · Утилиты 🐠](#проекты--утилиты-)
-    - [Важные работы 🌌](#важные-работы-)
-    - [📚 C++ · GitHub](#-c--github)
-    - [📚 Шаблоны](#-шаблоны)
-- [💼 Опыт работы](#-опыт-работы)
-- [🛠️ Технологический стек](#️-технологический-стек)
-- [🧠 Текущие направления](#-текущие-направления)
+- [🚀 About Me](#-about-me)
+- [🌌 Projects · Utilities · Organizations](#-projects--utilities--organizations)
+  - [Projects · Utilities 🐠](#projects--utilities-)
+    - [Most important jobs 🌌](#most-important-jobs-)
+    - [📚 Miscellaneous · GitHub](#-miscellaneous--github)
+    - [📚 Markdown · GitHub](#-markdown--github)
+    - [📚 C# · GitHub](#-c--github)
+    - [📚 C++ · GitHub](#-c--github-1)
+    - [📚 Templates](#-templates)
+- [💼 Experience](#-experience)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🧠 Current Focus](#-current-focus)
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-- 💻 Начал программировать с реверс-инжиниринга онлайн-игр
-- 🛠️ Создаю инструменты автоматизации, игровые клиенты и бэкенд-системы с 2014 года
-- 🌍 Нахожусь в **Москве**
-- 🎨 Увлекаюсь **NET, реверс-инжинирингом, Unity HDRP, Linux, безопасностью и экспериментальными проектами, владею практически всеми популярными языками**
-- ⚡ Забавный факт: называю себя хакером — но в хорошем смысле, закончил курс по белому хакингу от `CyberEd`😉
+- 💻 Started programming with reverse engineering of online games
+- 🛠️ Creating automation tools, game clients, and backend systems since 2014
+- 🌍 Based in **Moscow**
+- 🎨 Passionate about **.NET, reverse engineering, Unity HDRP, Linux, security, and experimental projects, proficient in almost all popular programming languages**
+- ⚡ Fun fact: I call myself a hacker — but in the good sense, completed a white hat hacking course from `CyberEd` 😉
 
-📫 Свяжитесь со мной: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
-🌐 Портфолио: [dvurechensky.pro](https://dvurechensky.pro)
+📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com)
+🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
 🌐 ORCID: https://orcid.org/0009-0004-2701-5592
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 🌌 Проекты · Утилиты · Организации
+## 🌌 Projects · Utilities · Organizations
 
 <details close markdown="1">
-<summary><strong>🐌 Организации GitHub (6)</strong></summary>
+<summary><strong>🐌 Organizations GitHub (6)</strong></summary>
 
 ```mermaid
 graph TD
-  A[Организации Dvurechensky] --> B[Документация]
-  A --> E[Утилиты]
-  A --> M[Шаблоны]
-  A --> G[Тестовые задания]
-  A --> H[Unifier - Объеденитель]
-  A --> K[Lizerium - Про космос]
+  A[Dvurechensky Organizations] --> B[Docs]
+  A --> E[Tools]
+  A --> M[Templates]
+  A --> G[Test Tasks]
+  A --> H[Unifier]
+  A --> K[Lizerium]
 ```
 
-| 🔗 Проект                                                             | 📖 Описание                                                                                                                               |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | Мои разработки или чрезвычайно полезные форки документации, необходимые для повседневной разработки.                                      |
-| [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | Программы и утилиты, которые я модифицировал или создал с нуля, полезные в различных областях.                                            |
-| [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | Мой реестр тестовых заданий, выполненных мной бесплатно.                                                                                  |
-| [Dvurechensky Templates](https://github.com/Dvurechensky-Templates)   | Мои шаблоны для создания проектов.                                                                                                        |
-| [Lizerium](https://github.com/Lizerium)                               | Здесь собраны утилиты для игры Freelancer, созданные или воссозданные мной, проекты - Freelancer Lizerium Unity и модификация Freelancer. |
-| [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Унифицирующие сервисы и технологии.                                                                                                       |
+| 🔗 Project                                                            | 📖 Description                                                                                                                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | My developments or extremely useful forks of documentation necessary for daily development.                                                                      |
+| [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | Programs and utilities that I modified or created from scratch, useful in different areas.                                                                       |
+| [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | My register of test tasks completed by me free of charge.                                                                                                        |
+| [Dvurechensky Templates](https://github.com/Dvurechensky-Templates)   | My templates for creating projects.                                                                                                                              |
+| [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
+| [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
 
 </details>
 
-### Проекты · Утилиты 🐠
+### Projects · Utilities 🐠
 
 <details close markdown="1"> 
-<summary><strong>Важные работы 💼 (11)</strong></summary>
+<summary><strong>Most important jobs 💼 (11)</strong></summary>
 
-#### Важные работы 🌌
+#### Most important jobs 🌌
 
 ```mermaid
 graph TD
-  B[Мои основные работы]
+  B[Most important jobs]
   B --> B1[Unifier]
   B --> B2[Shields.io]
   B --> B3[Heradotus]
@@ -107,69 +110,69 @@ graph TD
 <table>
   <thead>
     <tr>
-      <th>🔗 Проект</th>
-      <th>📖 Описание</th>
-      <th>Языки</th>
+      <th>🔗 Project</th>
+      <th>📖 Description</th>
+      <th>Lang</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td data-label="Проект"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
-      <td data-label="Описание">BinNexus — инструмент для анализа бинарников Windows (DLL / EXE), который строит интерактивный веб-портал с графом зависимостей и исследованием экспортов.</td>
-      <td data-label="Языки"><code>Python · JavaScript · CSS · HTML · C++</code></td>
+   <tr>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
+      <td data-label="Description">BinNexus is a tool for analyzing Windows binaries (DLL/EXE) that builds an interactive web portal with a dependency graph and export exploration.</td>
+      <td data-label="Languages"><code>Python · JavaScript · CSS · HTML · C++</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
-      <td data-label="Описание">Генератор reverse-aware proxy DLL каркасов для legacy x86 Windows-бинарников на основе дампа экспортов и вывода декомпилятора.</td>
-      <td data-label="Языки"><code>Python · C++</code></td>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
+      <td data-label="Description">Reverse-aware proxy DLL framework generator for legacy x86 Windows binaries based on export dumps and decompiler output.</td>
+      <td data-label="Languages"><code>Python · C++</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
-      <td data-label="Описание">Я строю runtime-слой поверх Freelancer (2003), восстанавливая и переопределяя системные DLL, чтобы безопасно исследовать, расширять и документировать поведение оригинального движка.</td>
-      <td data-label="Языки"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
+      <td data-label="Description">I'm building a runtime layer on top of Freelancer (2003), restoring and overriding system DLLs to safely explore, extend, and document the behavior of the original engine.</td>
+      <td data-label="Languages"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://lizup.ru/">Lizerium Portal</a></td>
-      <td data-label="Описание">Разработанный мной портал для <code>космического</code> <code>симулятора</code> — это огромный портал под игру с базой знаний о игре <code>Freelancer (2003)</code>.</td>
-      <td data-label="Языки"><code>ASP Net Core 6.0 · MVC · TypeScript · EF Core</code></td>
+      <td data-label="Project"><a href="https://lizup.ru/">Lizerium Portal</a></td>
+      <td data-label="Description">My developed portal for a <code>space</code> <code>simulator</code> — this is a huge portal for the game with a knowledge base about the game <code>Freelancer (2003)</code>.</td>
+      <td data-label="Lang"><code>ASP Net Core 6.0 · MVC · TypeScript · EF Core</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a></td>
-      <td data-label="Описание">Разработанный мной <code>космический</code> <code>симулятор</code> — это моя игра в жанре <code>космические симуляторы</code> на базе <code>Freelancer (2003)</code> (Мультиплеер и одиночный режим).</td>
-      <td data-label="Языки"><code>C++ · Assembler x86</code></td>
+      <td data-label="Project"><a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a></td>
+      <td data-label="Description">My developed <code>space</code> <code>simulator</code> — this is my game in the <code>space simulators</code> genre based on <code>Freelancer (2003)</code> (Multiplayer and single player modes).</td>
+      <td data-label="Lang"><code>C++ · Assembler x86</code></td>
     </tr>
     <tr>
-      <td data-label="Проект">
+      <td data-label="Project">
         <a href="https://lizup.ru/Home/Game">Lizerium Server</a> | 
-        <a href="https://www.gs4u.net/ru/s/398133.html">GS4u.net — Мониторинг игровых серверов</a>
+        <a href="https://www.gs4u.net/ru/s/398133.html">GS4u.net - Game Server Monitoring</a>
       </td>
-      <td data-label="Описание">Разработанный мной сервер на <code>космический</code> <code>симулятор</code> <a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a> — это огромное дополнение, которое состоит из 50+ плагинов, импортирующих новые функции в игровой процесс.</td>
-      <td data-label="Языки"><code>C++ · Asm x86</code></td>
+      <td data-label="Description">My developed server for the <code>space</code> <code>simulator</code> <a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a> — this is a huge expansion that consists of 50+ plugins importing new functions into the gameplay.</td>
+      <td data-label="Lang"><code>C++ · Asm x86</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://lizup.ru/Home/Game">Lizerium Steam</a></td>
-      <td data-label="Описание">Разработанный мной <code>загрузчик игр</code> серии Freelancer — это технически всем известный <code>Steam</code> по своему <code>поведению</code>, и он может <code>портировать</code> и <code>обновлять</code> содержимое и <code>сам себя</code>.</td>
-      <td data-label="Языки"><code>WPF · Prism MVVM · Handy Control</code></td>
+      <td data-label="Project"><a href="https://lizup.ru/Home/Game">Lizerium Steam</a></td>
+      <td data-label="Description">My developed <code>game loader</code> for the Freelancer series — this is technically the well-known <code>Steam</code> in its <code>behavior</code> and it can <code>port</code> and <code>update</code> what's inside it and <code>itself</code>.</td>
+      <td data-label="Lang"><code>WPF · Prism MVVM · Handy Control</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://github.com/Dvurechensky-Tools/Heradotus">Heradotus</a></td>
-      <td data-label="Описание">Ваш <code>конструктор</code> <code>сценариев</code> для презентаций и демонстраций. Для разработчиков, понимающих <code>Markdown</code>.</td>
-      <td data-label="Языки"><code>WPF · Prism MVVM · Handy Control</code></td>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky-Tools/Heradotus">Heradotus</a></td>
+      <td data-label="Description">Your <code>scenario</code> <code>constructor</code> for presentations and demonstrations. For developers who understand <code>Markdown</code>.</td>
+      <td data-label="Lang"><code>WPF · Prism MVVM · Handy Control</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://github.com/Dvurechensky-Tools/FileSyncSentinel">FileSyncSentinel</a></td>
-      <td data-label="Описание">Мощный <code>мониторинг</code> изменений файлов в реальном времени с интеллектуальным <code>сравнением</code> 🔍.</td>
-      <td data-label="Языки"><code>WinForms · MVC · DiffPlex · .NET 8.0</code></td>
+      <td data-label="Project"><a href="https://github.com/Dvurechensky-Tools/FileSyncSentinel">FileSyncSentinel</a></td>
+      <td data-label="Description">Powerful real-time file change <code>monitoring</code> with intelligent <code>comparison</code> 🔍.</td>
+      <td data-label="Lang"><code>WinForms · MVC · DiffPlex · NET 8.0</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://shields.dvurechensky.pro/">Русский Shields.io</a></td>
-      <td data-label="Описание">Генератор красивых бейджей на русском языке.</td>
-      <td data-label="Языки"><code>JS/TS · Canvas / WebGL · Node JS · Redis</code></td>
+      <td data-label="Project"><a href="https://shields.dvurechensky.pro/">Russian Shields.io</a></td>
+      <td data-label="Description">Beautiful badge generator in Russian language.</td>
+      <td data-label="Lang"><code>JS/TS · Canvas / WebGL · Node JS · Redis</code></td>
     </tr>
     <tr>
-      <td data-label="Проект"><a href="https://unifier.dvurechensky.pro/">Unifier</a></td>
-      <td data-label="Описание">Зарегистрированная программная система для распределенного взаимодействия устройств и оркестровки инфраструктуры.<a href="Media/files/Unifier.Patent.pdf" target="_blank">📄 Патент</a></td>
-      <td data-label="Языки"><code>JS/TS · .NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL</code></td>
+      <td data-label="Project"><a href="https://unifier.dvurechensky.pro/">Unifier</a></td>
+      <td data-label="Description">Registered software system for distributed device interaction and infrastructure orchestration.<a href="Media/files/Unifier.Patent.pdf" target="_blank">📄 Patent</a></td>
+      <td data-label="Lang"><code>JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL</code></td>
     </tr>
   </tbody>
 </table>
@@ -177,69 +180,69 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Интернет-порталы от меня 📚 (14)</strong></summary>
+<summary><strong>Internet portals from me 📚 (14)</strong></summary>
 
-<h4 align="center"> 📚 Разное · GitHub </h4>
+#### 📚 Miscellaneous · GitHub
 
 ```mermaid
 graph TD
-  C[Разное порталы в сети]
-  C --> R[Обучение на основе проектов]
-  C --> M[API-список]
-  C --> G[Gitignore - портал]
-  C --> L[Frontend - разработка]
+  C[Miscellaneous online portals]
+  C --> R[Project Based Learning]
+  C --> M[API List]
+  C --> G[Gitignore Portal]
+  C --> L[Frontend - develop]
 ```
 
-| 🔗 Проект                                                                                | 📖 Описание                                                                                                                                                              |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Обучение на основе проектов](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Ccылки на ресурсы по категориям языков программирования для обучения                                                                                                     |
-| [API-список](https://dvurechensky-docs.github.io/Internet/)                              | Каталог открытых API по категориям                                                                                                                                       |
-| [Gitignore - портал](https://dvurechensky-docs.github.io/Gitignore/)                     | Коллекция готовых `.gitignore` + экскурсия по технологиям                                                                                                                |
-| [Frontend - разработка](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)       | Постоянно расширяющийся список фреймворков, библиотек и инструментов, которые я использовал/хочу использовать для создания `Web-контента`. В основном, это `JavaScript`. |
+| 🔗 Project                                                                          | 📖 Description                                                                                                                                |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning                                                                            |
+| [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                                                                                            |
+| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview                                                                                  |
+| [Frontend - develop](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)     | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly `Javascript` stuff. |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"> 📚 Markdown · GitHub </h4>
+#### 📚 Markdown · GitHub
 
 ```mermaid
 graph TD
-  C[Markdown порталы в сети]
+  C[Markdown online portals]
   C --> H[Markdown]
-  H --> K[Основы основ]
-  H --> L[Всё о emoji]
-  H --> Z[Shields - значки]
-  H --> X[Цвета текста MatJax]
-  H --> V[Математика]
+  H --> K[Fundamentals]
+  H --> L[All about emoji]
+  H --> Z[Shields badges]
+  H --> X[Text colors with MathJax]
+  H --> V[Mathematics]
 ```
 
-| 🔗 Проект                                                                                | 📖 Описание                                 |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [Markdown основы основ](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)        | Полное руководство по Markdown с лайфхаками |
-| [Emoji в Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)        | Коллекция Emoji                             |
-| [Список значков Shields](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Коллекция значков Shields                   |
-| [Цвета текста через MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Примеры цветного текста                     |
-| [Математика в Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)               | Пример реализации математических формул     |
+| 🔗 Project                                                                            | 📖 Description                                  |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)             | Complete Markdown guide with lifehacks          |
+| [Emoji in Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)    | Emoji collection                                |
+| [Shields Badges List](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Collection of Shields badges                    |
+| [Text Colors via MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Examples of colored text                        |
+| [Mathematics in Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)          | Example implementation of mathematical formulas |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"> 📚 C# · GitHub </h4>
+#### 📚 C# · GitHub
 
 ```mermaid
 graph TD
-  C[C# порталы в сети]
+  C[C# online portals]
   C --> N[C#]
-  N --> N1[База. Паттерны. Принципы.]
-  N --> N2[Паттерны - дополнение]
-  N --> N3[Логика]
-  N --> N4[Интервью]
+  N --> N1[Base. Patterns. Principles.]
+  N --> N2[Patterns - addition]
+  N --> N3[Logic]
+  N --> N4[Interview]
 ```
 
-| 🔗 Проект                                                                                                                  | 📖 Описание                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Разбор языка программирования C#.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)                             | Обзор функционала языка програмиирования C#, решение задач.                                                                                                                    |
-| [Шаблоны проектирования. ООП. Тестирование. Коллекции C#.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Основы объектно-ориентированного программирования, а также шаблоны программирования в C# с примерами их реализации, тестирование, объянение принципов и решение задач LetCode. |
-| [Паттерны (дополнение) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                                 | Образцы, шаблоны, схемы программирования в C# с примерами их реализации                                                                                                        |
-| [Вопросы на собеседованиях по C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                           | Обзор вопросов по языку программирования C# и технологии .NET                                                                                                                  |
+| 🔗 Project                                                                                                       | 📖 Description                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Analysis of the C# programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)            | Overview of the C# programming language functionality, problem solving.                                                                                                                     |
+| [Design Patterns. OOP. Testing. C# Collections.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Fundamentals of object-oriented programming, as well as programming patterns in C# with examples of their implementation, testing, explanation of principles and solving LeetCode problems. |
+| [Patterns (addition) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                         | Samples, templates, programming schemes in C# with examples of their implementation                                                                                                         |
+| [Interview Questions on C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                       | Overview of questions on the C# programming language and .NET technology                                                                                                                    |
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -247,180 +250,177 @@ graph TD
 
 ```mermaid
 graph TD
-  C[C++ порталы в сети]
+  C[C++ online portals]
   C --> W[C++]
-  C --> W1[Основы]
+  C --> W1[Fundamentals]
 ```
 
-| 🔗 Проект                                                                                       | 📖 Описание                                                  |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Разбор 🚏 языка программирования C++.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Обзор функционала языка програмиирования C++, решение задач. |
+| 🔗 Project                                                                                             | 📖 Description                                                           |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [Analysis 🚏 of the C++ programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Overview of the C++ programming language functionality, problem solving. |
 
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Шаблоны 📚 (3)</strong></summary>
+<summary><strong>Templates 📚 (3)</strong></summary>
 
-#### 📚 Шаблоны
+#### 📚 Templates
 
 ```mermaid
 graph TD
-  C[Шаблоны]
+  C[Templates]
   C --> W[Telegram Bot]
   C --> W1[NET Core MVC]
   C --> W2[Electron & Vue3 & Vite App]
 ```
 
-| 🔗 Проект                                                                                                 | 📖 Описание                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Telegram Bot 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                  | Чистая, многоуровневая архитектура. Легко масштабируется и добавляет новые команды/сервисы.                                                   |
-| [Net Core 🚏 Шаблон.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                          | ASP.NET Core MVC, шаблон проекта Frontend — TypeScript                                                                                        |
-| [Electron & Vue3 & Vite 🚏 Template.](https://github.com/Dvurechensky-Templates/ElectronViteTemplateRuEn) | Шаблон проекта Vue3 + Vite + Electron, основанный на Vite и Rollup. альтернативный платформер для производства кроссплатформенных приложений. |
+| 🔗 Project                                                                                                | 📖 Description                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Telegram Bot 🚏 Template.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                | Clean, multi-layered architecture. Easy to scale and add new teams / services.                                                           |
+| [Net Core 🚏 Template.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                        | ASP.NET Core MVC, Frontend Project Template - TypeScript                                                                                 |
+| [Electron & Vue3 & Vite 🚏 Template.](https://github.com/Dvurechensky-Templates/ElectronViteTemplateRuEn) | A Vue3 + Vite + Electron project template based on Vite and Rollup. An alternative platformer for producing cross-platform applications. |
 
 </details>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 <div align="center">
-  <h3>📊 График моих активностей на GitHub</h3>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Dvurechensky&theme=github-dark&area=true&hide_border=true"
-    alt="График активностей и контрибьюций"
+    alt="Contributions Graph"
   />
 </div>
 
-## 💼 Опыт работы
+## 💼 Experience
 
-<details close>
-<summary> Раскрыть </summary>
+<details close markdown="1">
+<summary> Open </summary>
 
-<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Март 2021 – Настоящее время, 4+ года)</strong></h4>
-<p align="center"><i>Unity - разработчик</i></p>
+<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – Present, 4+ years)</strong></h4>
+<p align="center"><i>Unity Developer</i></p>
 
-- Работал над проектом <strong>Ceek Virtual Reality</strong>: разработка функционала, исправление ошибок, редизайн пользовательского интерфейса
+- Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
   <br>
-- Реализовал оптимизацию памяти через <strong>Addressables</strong> → стабильная производительность на Android 7+
+- Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
   <br>
-- Выполнил 3+ крупных эволюции пользовательского интерфейса, мультиплеер на <strong>Photon Engine</strong>, улучшения клиент-серверного API
+- Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
   <br>
-- Писал технические спецификации, сотрудничал между командами
+- Wrote technical specifications, collaborated across teams
   <br>
-- <strong>Стек технологий:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>Московский институт психоанализа (МИП) <br> (Февраль 2020 – Настоящее время, 5+ лет)</strong></h4>
-<p align="center"><i>Технический специалист</i></p>
-
-- Оказывал техническую поддержку для онлайн видео платформы (MTS-Link)
-  <br>
-- Помог 1000+ пользователям любого возраста/устройства присоединиться к живым трансляциям
-  <br>
-- <strong>Стек технологий:</strong> Windows, MacOS
+- <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ лет в общей сложности)</strong></h4>
-<p align="center"><i>.NET Разработчик</i></p>
+<h4 align="center"><strong>Moscow Institute of Psychoanalysis (MIP) <br> (Feb 2020 – Present, 5+ years)</strong></h4>
+<p align="center"><i>Technical Specialist</i></p>
 
-- Создавал <strong>ASP.NET Core MVC</strong> приложения с PostgreSQL, EF Core, RabbitMQ
+- Provided technical support for online video platform (MTS-Link)
   <br>
-- Разрабатывал системы визуализации для C# / C++ проектов и зависимостей (NuGet)
+- Helped 1000+ users of any age/device join live broadcasts
   <br>
-- Мигрировал проекты с .NET Framework → .NET 6/7/8, применял принципы SOLID, DRY, KISS
-  <br>
-- Проектировал систему мониторинга пентестов (сбор данных, визуализация, аналитика)
-  <br>
-- Развертывал микросервисы в <strong>Docker</strong>, автоматизировал сборки с Jenkins
-  <br>
-- <strong>Стек технологий:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
+- <strong>Stack:</strong> Windows, MacOS
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>Freelancer Rebirth <br> (Ноябрь 2020 – Ноябрь 2023, 3 года)</strong></h4>
-<p align="center"><i>C++ Разработчик</i></p>
+<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
+<p align="center"><i>.NET Developer</i></p>
 
-- Поддерживал крупнейший мод для СНГ для <strong>Freelancer (2003)</strong>
+- Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
   <br>
-- Мигрировал 25+ плагинов и ядро в унифицированное C++ решение
+- Developed visualization systems for C# / C++ projects and dependencies (NuGet)
   <br>
-- Выполнил 3 крупные миграции проекта между поколениями Visual Studio
+- Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
   <br>
-- <strong>Стек технологий:</strong> C++, Boost, Assembler, Git
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>ИнтерЭВМ & ЦИТиС <br> (Февраль 2020 – Июнь 2023, 3+ года)</strong></h4>
-<p align="center"><i>Системный инженер</i></p>
-
-- Разрабатывал системы мониторинга (Qt) и анализаторы данных (Python, PHP)
+- Designed pentest monitoring system (data collection, visualization, analytics)
   <br>
-- Создавал XSLT шаблоны, оптимизировал PostgreSQL запросы
+- Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
   <br>
-- Работал с окружениями Astra Linux, Ubuntu, Debian, Windows
-  <br>
-- <strong>Стек технологий:</strong> Linux (Astra, Ubuntu, Debian), Qt, PHP, Python, SQL, XSLT/XML
+- <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4 align="center"><strong>Другие роли <br> (2017 – 2020)</strong></h4>
+<h4 align="center"><strong>Freelancer Rebirth <br> (Nov 2020 – Nov 2023, 3 years)</strong></h4>
+<p align="center"><i>C++ Developer</i></p>
 
-- <strong>ООО Промэлектроника (Липецк)</strong> — Инженер по автоматизации: контроллеры Siemens, SCADA, встраиваемые системы
+- Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
   <br>
-- <strong>ЮрЭксперт (Воронеж)</strong> — Системный администратор: автоматизация рабочих мест, автоматизация документооборота
+- Migrated 25+ plugins & core into unified C++ solution
+  <br>
+- Performed 3 major project migrations across Visual Studio generations
+  <br>
+- <strong>Stack:</strong> C++, Boost, Assembler, Git
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4 align="center"><strong>InterEVM <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<p align="center"><i>System Engineer</i></p>
+
+- Developed monitoring systems (Qt) and data analyzers (Python, PHP)
+  <br>
+- Built XSLT templates, optimized PostgreSQL queries
+  <br>
+- Worked with Astra Linux, Ubuntu, Debian, Windows environments
+  <br>
+- <strong>Stack:</strong> Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
+<h4 align="center"><strong>Other Roles <br> (2017 – 2020)</strong></h4>
+
+- <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
+  <br>
+- <strong>YurExpert</strong> — SysAdmin: workplace automation, document automation
 
 </details>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
-<details close>
-<summary> Раскрыть </summary>
+<details close markdown="1">
+<summary> Open </summary>
 
-<h4><strong>Технологии ядра:</strong></h4>
+<h4><strong>Backend:</strong></h4>
 C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis, Prism (MVVM WPF), Elixir
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Визуализация:</strong></h4>
+<h4><strong>Frontend:</strong></h4>
 TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, HandyContol(WPF)
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Тестирование:</strong></h4>
+<h4><strong>Tested:</strong></h4>
 xUnit, nUnit, Integrated
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Игровая разработка:</strong></h4>
+<h4><strong>GameDev:</strong></h4>
 Unity (HDRP/URP, Zenject, Addressables, Photon, Object Pooling), ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Базы данных:</strong></h4>
+<h4><strong>Databases:</strong></h4>
 PostgreSQL, SQL Server, Redis, MySQL, EF Core
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Инженерные навыки:</strong></h4>
+<h4><strong>DevOps:</strong></h4>
 Linux (Astra, Ubuntu, Debian, Kali, Parrot OS), Docker, Jenkins, nginx, Git, SVN, Gitea
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-<h4><strong>Языки и инструменты:</strong></h4>
+<h4><strong>Languages & Tools:</strong></h4>
 Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SCSS/CSS, Boost, Qt, Bash, IDA Pro, OllyDbg, Burp Suite Pro
 
 </details>
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-## 🧠 Текущие направления
+## 🧠 Current Focus
 
-- Кроссплатформенные инструменты для .NET 8 / Linux
-- Боты для всех популярных соц. сетей
-- Расширение порталов с открытым исходным кодом и документацией
-- Автоматизация всех процессов и выход на свою систему управления проектов
+- Cross-platform tools on .NET 8 / Linux
+- Expanding open-source utilities & documentation portals
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -433,7 +433,7 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 <p align="center">
     <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Статистика GitHub Dvurechensky" /></a>
+        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Dvurechensky's GitHub stats" /></a>
     </p> 
     </p> 
 </p>
@@ -443,13 +443,13 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 <table align="center" style="border-collapse: collapse; min-width: 300px; width: 100%;">
 <tr>
     <td colspan="3" align="center">
-    <b>💚 Спасибо за вашу поддержку! Вы можете сделать пожертвование, используя информацию ниже. 🙏</b>
+    <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
     </td>
 </tr>
 <tr>
-    <th style="padding: 8px; text-align: center;">Платежи</th>
-    <th style="padding: 8px; text-align: center;">Адрес</th>
-    <th style="padding: 8px; text-align: center;">QR-код</th>
+    <th style="padding: 8px; text-align: center;">Payments</th>
+    <th style="padding: 8px; text-align: center;">Address</th>
+    <th style="padding: 8px; text-align: center;">QR Code</th>
 </tr>
 <tr>
     <td style="padding: 8px; text-align: center;">
