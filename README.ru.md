@@ -48,9 +48,9 @@
 - 🎨 Увлекаюсь **NET, реверс-инжинирингом, Unity HDRP, Linux, безопасностью и экспериментальными проектами, владею практически всеми популярными языками**
 - ⚡ Забавный факт: называю себя хакером — но в хорошем смысле, закончил курс по белому хакингу от `CyberEd`😉
 
-📫 Свяжитесь со мной: [dvurechensky_pro@mail.ru](mailto:dvurechensky_pro@mail.ru)
-🌐 Портфолио: [dvurechensky.pro](https://dvurechensky.pro)
-🌐 ORCID: https://orcid.org/0009-0004-2701-5592
+- 📫 Свяжитесь со мной: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
+- 🌐 Портфолио: [dvurechensky.pro](https://dvurechensky.pro)
+- 🌐 ORCID: https://orcid.org/0009-0004-2701-5592
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 

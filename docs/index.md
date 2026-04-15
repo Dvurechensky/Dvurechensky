@@ -63,9 +63,9 @@ published: true
 - 🎨 Passionate about **.NET, reverse engineering, Unity HDRP, Linux, security, and experimental projects, proficient in almost all popular programming languages**
 - ⚡ Fun fact: I call myself a hacker — but in the good sense, completed a white hat hacking course from `CyberEd` 😉
 
-📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com)
-🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
-🌐 ORCID: https://orcid.org/0009-0004-2701-5592
+- 📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
+- 🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
+- 🌐 ORCID: https://orcid.org/0009-0004-2701-5592
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
