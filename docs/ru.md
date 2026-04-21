@@ -28,7 +28,18 @@ published: true
   Systems Engineer • Reverse Developer • Full Stack Engineer
   </h2>
   <h4>Открыт для <b>сильных</b> команд и <u><b>интересных продуктов</b></u></h4>
-  <span><b>.NET</b> • C/<b>C++</b> • C# • <b><u>Python</u></b> • Unity • TypeScript • <b><u>Reverse</u></b> • Linux • Windows</span>
+
+  <span>
+    <b>.NET</b> • 
+    C/<b>C++</b> • 
+    C# • 
+    <b><u>Python</u></b> • 
+    Unity • 
+    TypeScript • 
+    <b><u>Reverse</u></b> • 
+    Linux • 
+    Windows
+  </span>
 </div>
 
 <div align="center">
