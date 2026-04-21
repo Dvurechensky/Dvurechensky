@@ -45,19 +45,21 @@ body {
 /* NAV */
 
 #header nav {
-	height: 100%;
+	max-width: 650px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background: transparent;
+	margin: 6px auto;
 }
 
 #header nav ul {
 	margin: 0;
 	padding: 0 22px;
 	height: 100%;
-
 	display: flex;
 	align-items: center;
-	justify-content: flex-end;
+	justify-content: center;
 	gap: 12px;
-
 	list-style: none;
 }
 
