@@ -82,8 +82,12 @@ published: true
 </div>
 
 <div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-## Организации
+<div align="center">
+
+<h2 id="организации">Организации</h2>
 
 </div>
 
