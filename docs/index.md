@@ -27,29 +27,44 @@ published: true
   Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
   Systems Engineer • Reverse Developer • Full Stack Engineer
   </h2>
-  <h4>Available for <b>strong</b> teams & <u><b>interesting products</b></u></h4>
-  <span><b>.NET</b> • C/<b>C++</b> • C# • <b><u>Python</b></u> • Unity • TypeScript • <b><u>Reverse</b></u>  •  Linux • Windows</span>
+  <h4>
+  Available for <b>strong</b> teams &
+  <u><b>interesting products</b></u>
+</h4>
+
+<span>
+  <b>.NET</b> •
+  C/<b>C++</b> •
+  C# •
+  <b><u>Python</u></b> •
+  Unity •
+  TypeScript •
+  <b><u>Reverse</u></b> •
+  Linux •
+  Windows
+</span>
 </div>
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
 <div align="center">
- <h2>
-  System Profile
-  </h2>
+  <h2>System Profile</h2>
 </div>
 
-- ••• booting profile...▸
-  - [ ◇ ] `Identity`................▸ Nikolai Dvurechensky
-  - [ ◇ ] `Started`................▸ Reverse engineering online games
-  - [ ◇ ] `Experience`......▸ Since 2014
-  - [ ◇ ] `Focus`..................▸ Systems / Reverse / Full Stack
-  - [ ◇ ] `Platforms`........▸ Linux / Windows / Web / Unity
-  - [ ◇ ] `Status`................▸ Available for strong teams
-  - [ ✓ ] `Contact`..............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
-  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.pro)
-  - [ ✓ ] `ORCID`......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
+<pre>
+••• booting profile...▸
+
+[ ◇ ] Identity..............▸ Nikolai Dvurechensky
+[ ◇ ] Started...............▸ Reverse engineering online games
+[ ◇ ] Experience............▸ Since 2014
+[ ◇ ] Focus.................▸ Systems / Reverse / Full Stack
+[ ◇ ] Platforms.............▸ Linux / Windows / Web / Unity
+[ ◇ ] Status................▸ Available for strong teams
+[ ✓ ] Contact...............▸ dvurechenskysoft@gmail.com | nikolay@dvurechensky.pro
+[ ✓ ] Website...............▸ dvurechensky.pro
+[ ✓ ] ORCID.................▸ orcid.org/0009-0004-2701-5592
+</pre>
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
