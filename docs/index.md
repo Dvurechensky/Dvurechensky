@@ -600,35 +600,35 @@ graph TD
   />
 </div>
 <p align="center">
-    <p align="center">
-      <a href="https://github.com/dvurechensky" target="_blank">
+  <p align="center">
+    <a href="https://github.com/dvurechensky" target="_blank">
       <img src="https://shields.dvurechensky.pro/github/followers/dvurechensky?label=Followers&style=social" alt="GitHub Followers" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/dvurechensky-docs?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Docs&query=public_repos&url=https://api.github.com/users/dvurechensky-docs" alt="Docs Count" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/dvurechensky-tools?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tools&query=public_repos&url=https://api.github.com/users/dvurechensky-tools" alt="Tools Count" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/dvurechensky-test-tasks?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tasks&query=public_repos&url=https://api.github.com/users/dvurechensky-test-tasks" alt="Test Tasks Count" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/dvurechensky-templates?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Templates&query=public_repos&url=https://api.github.com/users/dvurechensky-templates" alt="Templates Count" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Unifier-of-Systems?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=blue&label=Unifier&query=public_repos&url=https://api.github.com/users/Unifier-of-Systems" alt="Templates Count" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Lizerium?tab=repositories" target="_blank">
-          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://api.github.com/users/Lizerium" alt="Templates Count" />
-      </a>
-    </p>
+    </a>
+    &nbsp;
+    <a href="https://github.com/dvurechensky-docs?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Docs&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-docs" alt="Docs Count" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/dvurechensky-tools?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tools&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-tools" alt="Tools Count" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/dvurechensky-test-tasks?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tasks&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-test-tasks" alt="Test Tasks Count" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/dvurechensky-templates?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Templates&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-templates" alt="Templates Count" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Unifier-of-Systems?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=blue&label=Unifier&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/Unifier-of-Systems" alt="Unifier Count" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Lizerium?tab=repositories" target="_blank">
+      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/Lizerium" alt="Lizerium Count" />
+    </a>
+  </p>
 </p>
 
 <div align="center">
