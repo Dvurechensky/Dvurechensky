@@ -615,11 +615,20 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-`Псевдонимы в сети:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
+<div align="center">
+
+`Nicknames:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
 <img src="https://shields.dvurechensky.pro/badge/TWITCH-DVURECHENSKY__PRO-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>
 </a>
+
+</div>
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
 <h2 align="center">
     👥Repositories👥
 </h2>
