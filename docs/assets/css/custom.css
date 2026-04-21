@@ -48,7 +48,15 @@ body {
 	max-width: 650px;
 	margin: 0 auto;
 	padding: 0 10px;
-	background: transparent;
+	background: transparent !important;
+	margin: 6px auto;
+}
+
+nav {
+	max-width: 650px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background: transparent !important;
 	margin: 6px auto;
 }
 
