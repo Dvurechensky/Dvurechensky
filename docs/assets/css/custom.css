@@ -1,150 +1,102 @@
-/* ===============================
-   DARK APPLE / PREMIUM JEKYLL UI
-   =============================== */
+/* ==========================
+   GLOBAL
+========================== */
 
-/* ---------- BODY ---------- */
 body {
 	margin: 0;
-	padding: 0 0 40px 0;
-
-	font-family:
-		-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica,
-		Arial, sans-serif;
-	font-size: 15px;
-	line-height: 1.65;
-	font-weight: 400;
-
+	padding: 0;
+	background: radial-gradient(
+		circle at top center,
+		#1e1e24 0%,
+		#090909 45%,
+		#000 100%
+	);
 	color: #f5f5f7;
-
-	background:
-		radial-gradient(circle at top, rgba(60, 60, 65, 0.35), transparent 45%),
-		linear-gradient(180deg, #0a0a0b 0%, #111113 35%, #161618 100%);
-
-	background-attachment: fixed;
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
+	font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
 }
 
-/* ---------- HEADER ---------- */
+/* ==========================
+   HEADER
+========================== */
+
 #header {
 	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: 100;
+	top: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 999;
 
-	width: 100%;
-	height: 68px;
+	width: calc(100% - 80px);
+	max-width: 1700px;
+	height: 72px;
 
-	display: flex;
-	align-items: center;
-	justify-content: center;
+	border-radius: 22px;
 
-	background: rgba(18, 18, 20, 0.72);
-	backdrop-filter: blur(18px);
-	-webkit-backdrop-filter: blur(18px);
+	background: rgba(22, 22, 24, 0.65);
+	backdrop-filter: blur(24px);
 
-	border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+	border: 1px solid rgba(255, 255, 255, 0.06);
 
 	box-shadow:
-		0 8px 24px rgba(0, 0, 0, 0.35),
-		inset 0 -1px 0 rgba(255, 255, 255, 0.03);
+		0 12px 35px rgba(0, 0, 0, 0.45),
+		inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
-/* ---------- NAV ---------- */
+/* NAV */
+
 #header nav {
-	width: 100%;
-	max-width: 1180px;
-	padding: 0 24px;
+	height: 100%;
 }
 
 #header nav ul {
 	margin: 0;
-	padding: 0;
+	padding: 0 22px;
+	height: 100%;
 
 	display: flex;
-	gap: 12px;
 	align-items: center;
 	justify-content: flex-end;
+	gap: 12px;
 
 	list-style: none;
 }
 
-/* ---------- BUTTONS ---------- */
+/* BUTTONS */
+
 #header nav ul li a {
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-
-	min-height: 42px;
-	padding: 0 18px;
-
-	color: #ffffff;
+	color: #fff;
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 600;
-	letter-spacing: -0.01em;
 
+	padding: 12px 22px;
 	border-radius: 999px;
+
+	background: rgba(255, 255, 255, 0.06);
 	border: 1px solid rgba(255, 255, 255, 0.08);
 
-	background: linear-gradient(
-		180deg,
-		rgba(255, 255, 255, 0.12) 0%,
-		rgba(255, 255, 255, 0.03) 100%
-	);
-
-	box-shadow:
-		inset 0 1px 0 rgba(255, 255, 255, 0.08),
-		0 4px 18px rgba(0, 0, 0, 0.35);
-
-	transition:
-		transform 0.22s ease,
-		box-shadow 0.22s ease,
-		background 0.22s ease,
-		border-color 0.22s ease;
+	transition: all 0.25s ease;
 }
 
-/* ---------- HOVER ---------- */
 #header nav ul li a:hover {
-	transform: translateY(-1px);
-
-	border-color: rgba(255, 255, 255, 0.14);
-
-	background: linear-gradient(
-		180deg,
-		rgba(255, 255, 255, 0.18) 0%,
-		rgba(255, 255, 255, 0.05) 100%
-	);
-
-	box-shadow:
-		inset 0 1px 0 rgba(255, 255, 255, 0.12),
-		0 8px 22px rgba(0, 0, 0, 0.45);
+	transform: translateY(-2px);
+	background: rgba(255, 255, 255, 0.12);
 }
 
-/* ---------- ACTIVE ---------- */
-#header nav ul li a:active {
-	transform: scale(0.98);
-}
+/* MAIN CTA */
 
-/* ---------- SPECIAL CTA BUTTON ---------- */
 #header nav ul li:last-child a {
-	background: linear-gradient(180deg, #0a84ff, #0066ff);
+	background: linear-gradient(180deg, #2997ff, #0066ff);
 	border: none;
-
-	box-shadow:
-		inset 0 1px 0 rgba(255, 255, 255, 0.18),
-		0 8px 22px rgba(0, 102, 255, 0.35);
+	box-shadow: 0 8px 20px rgba(0, 102, 255, 0.35);
 }
 
-#header nav ul li:last-child a:hover {
-	background: linear-gradient(180deg, #2894ff, #0a6dff);
-}
+/* ==========================
+   PAGE CONTENT
+========================== */
 
-/* ---------- CONTENT OFFSET ---------- */
-.wrapper,
-.container,
-section {
-	padding-top: 90px;
+.wrapper {
+	padding-top: 140px;
 }
 
 /* Контейнер details */
