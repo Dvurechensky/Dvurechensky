@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-  </picture>
+  <p align="center">
+    <img src="Media/me.gif" width="150">
+  </p>
   <h2>👋 Всем привет, Я <span style="color:#F5F752;">Николай Двуреченский <br>💻 Разработчик полного цикла</span></h2>
 
 <p align="center">
