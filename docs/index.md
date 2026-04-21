@@ -206,7 +206,7 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<h4 align="center"><strong>InterEVM <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<h4 align="center"><strong><a href="https://www.inevm.ru/">InterEVM</a> & <a href="https://citis.ru/">CITIS</a> <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
 <p align="center"><i>System Engineer</i></p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)
