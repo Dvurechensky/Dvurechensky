@@ -159,7 +159,7 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<h4 align="center"><strong>Moscow Institute of Psychoanalysis (MIP) <br> (Feb 2020 – Present, 6+ years)</strong></h4>
+<h4 align="center"><strong><a href="https://inpsycho.ru/" target="_blank">Moscow Institute of Psychoanalysis (MIP)</a> <br> (Feb 2020 – Present, 6+ years)</strong></h4>
 <p align="center"><i>Technical Specialist</i></p>
 
 - Provided technical support for online video platform (MTS-Link)
@@ -206,7 +206,7 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<h4 align="center"><strong><a href="https://www.inevm.ru/">InterEVM</a> & <a href="https://citis.ru/">CITIS</a> <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<h4 align="center"><strong><a href="https://www.inevm.ru/" target="_blank">InterEVM</a> & <a href="https://citis.ru/" target="_blank">CITIS</a> <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
 <p align="center"><i>System Engineer</i></p>
 
 - Developed monitoring systems (Qt) and data analyzers (Python, PHP)

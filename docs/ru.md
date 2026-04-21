@@ -154,7 +154,7 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<h4 align="center"><strong>Московский институт психоанализа (МИП) <br> (Февраль 2020 – Настоящее время, 6+ лет)</strong></h4>
+<h4 align="center"><strong><a href="https://inpsycho.ru/" target="_blank">Московский институт психоанализа (МИП)</a> <br> (Февраль 2020 – Настоящее время, 6+ лет)</strong></h4>
 <p align="center"><i>Технический специалист</i></p>
 
 - Оказывал техническую поддержку для онлайн видео платформы (MTS-Link)
@@ -201,7 +201,7 @@ graph TD
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<h4 align="center"><strong><a href="https://www.inevm.ru/">ИнтерЭВМ</a> & <a href="https://citis.ru/">ЦИТиС</a> <br> (Февраль 2020 – Июнь 2023, 3+ года)</strong></h4>
+<h4 align="center"><strong><a href="https://www.inevm.ru/" target="_blank">ИнтерЭВМ</a> & <a href="https://citis.ru/" target="_blank">ЦИТиС</a> <br> (Февраль 2020 – Июнь 2023, 3+ года)</strong></h4>
 <p align="center"><i>Системный инженер</i></p>
 
 - Разрабатывал системы мониторинга (Qt) и анализаторы данных (Python, PHP)
