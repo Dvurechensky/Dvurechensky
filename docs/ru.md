@@ -74,7 +74,9 @@ published: true
 <a href="#опыт-работы">Опыт</a> ·
 <a href="#технологический-стек">Стек</a>
 
+<br>
 ◇
+<br>
 
 <a href="#utilities">Утилиты</a> ·
 <a href="#focus">Фокус</a>

@@ -76,7 +76,9 @@ published: true
 <a href="#experience">Experience</a> ·
 <a href="#tech-stack">Stack</a>
 
+<br>
 ◇
+<br>
 
 <a href="#utilities">Utilities</a> ·
 <a href="#focus">Focus</a>
@@ -128,7 +130,7 @@ graph TD
 
 <div align="center">
 
-## Experience
+<h2 id="experience">Experience</h2>
 
 </div>
 <div align="center">
@@ -233,7 +235,7 @@ graph TD
 
 <div align="center">
 
-## Tech Stack
+<h2 id="tech-stack">Tech Stack</h2>
 
 </div>
 <div align="center">
@@ -297,7 +299,7 @@ xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
 
 <div align="center">
 
-### Utilities
+<h3 id="utilities">Utilities</h3>
 
 </div>
 <div align="center">
@@ -311,8 +313,9 @@ xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
 
 <div align="center">
 
-#### ◇ Most important · jobs
+<h4 id="most-important-jobs">◇ Most important · jobs</h4>
 
+</div>
 </div>
 <div align="center">
 
@@ -414,7 +417,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Miscellaneous · GitHub
+<h4 id="miscellaneous">◇ Miscellaneous · GitHub</h4>
 
 </div>
 <div align="center">
@@ -445,7 +448,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Markdown · GitHub
+<h4 id="markdown">◇ Markdown · GitHub</h4>
 
 </div>
 <div align="center">
@@ -479,7 +482,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ C# · GitHub
+<h4 id="c1">◇ C# · GitHub</h4>
 
 </div>
 <div align="center">
@@ -511,7 +514,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ C++ · GitHub
+<h4 id="c2">◇ C++ · GitHub</h4>
 
 </div>
 <div align="center">
@@ -538,7 +541,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Templates
+<h4 id="templates">◇ Templates</h4>
 
 </div>
 <div align="center">
@@ -569,7 +572,7 @@ graph TD
 
 <div align="center">
 
-## Focus
+<h2 id="focus">Focus</h2>
 
 </div>
 <div align="center">
