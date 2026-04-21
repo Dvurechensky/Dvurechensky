@@ -49,22 +49,21 @@ published: true
 </div>
 
 <div align="center">
-  <h2>System Profile</h2>
+ <h2>
+  System Profile
+  </h2>
 </div>
 
-<pre>
-••• booting profile...▸
-
-[ ◇ ] Identity..............▸ Nikolai Dvurechensky
-[ ◇ ] Started...............▸ Reverse engineering online games
-[ ◇ ] Experience............▸ Since 2014
-[ ◇ ] Focus.................▸ Systems / Reverse / Full Stack
-[ ◇ ] Platforms.............▸ Linux / Windows / Web / Unity
-[ ◇ ] Status................▸ Available for strong teams
-[ ✓ ] Contact...............▸ dvurechenskysoft@gmail.com | nikolay@dvurechensky.pro
-[ ✓ ] Website...............▸ dvurechensky.pro
-[ ✓ ] ORCID.................▸ orcid.org/0009-0004-2701-5592
-</pre>
+- ••• booting profile...▸
+  - [ ◇ ] `Identity`................▸ Nikolai Dvurechensky
+  - [ ◇ ] `Started`................▸ Reverse engineering online games
+  - [ ◇ ] `Experience`......▸ Since 2014
+  - [ ◇ ] `Focus`..................▸ Systems / Reverse / Full Stack
+  - [ ◇ ] `Platforms`........▸ Linux / Windows / Web / Unity
+  - [ ◇ ] `Status`................▸ Available for strong teams
+  - [ ✓ ] `Contact`..............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
+  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `ORCID`......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
