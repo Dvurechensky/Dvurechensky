@@ -60,6 +60,12 @@ nav {
 	margin: 6px auto;
 }
 
+@media print, screen and (max-width: 480px) {
+	nav {
+		display: flex;
+	}
+}
+
 #header nav ul {
 	margin: 0;
 	padding: 0 22px;
