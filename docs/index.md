@@ -21,58 +21,67 @@ published: true
 
 <div align="center">
   <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px">
   </picture>
-  <h2>👋 Hi there, I'm <span style="color:#F5F752;">Nikolai Dvurechensky <br>💻 A passionate Full Stack Developer</span></h2>
+  <h2>
+  Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
+  Systems Engineer • Reverse Developer • Full Stack Engineer
+  </h2>
+  <h4>Available for <b>strong</b> teams & <u><b>interesting products</b></u></h4>
+  <span><b>.NET</b> • C/<b>C++</b> • C# • <b><u>Python</b></u> • Unity • TypeScript • <b><u>Reverse</b></u>  •  Linux • Windows</span>
+</div>
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<div style="display:flex;justify-content:center;align-items: center;gap: 16px;flex-wrap: wrap;"> 
-  <img width=200 src="https://github.com/Dvurechensky.png" style="flex-shrink: 0;border-radius:15px;border:2px solid #222; box-shadow:box-shadow:1px 1px 3px 4px #111; margin: 15px">
-  <p align="right">
-    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F5F752&width=435&lines=%F0%9F%8C%8C+Looking+for+a+job;%F0%9F%8E%AF+Full-stack+%26+Unity+%26+.NET+Developer;%F0%9F%8E%AF+Reverse+Engineer" /></a>
-  </p>
+<div align="center">
+ <h2>
+  System Profile
+  </h2>
 </div>
 
-- 🎯 `Reverse` Engineer
-- 🎯 `Systems` Engineer
-- 🎯 `Full-stack` · `Unity` · `.NET` · `TypeScript` · `Go` · `C#` and other developer
-- 🌌 General-purpose programmer in the world of `Web` · `Unity` · `Linux` · `Windows` · `Security`
+- ••• booting profile...▸
+  - [ ◇ ] `Identity`................▸ Nikolai Dvurechensky
+  - [ ◇ ] `Started`................▸ Reverse engineering online games
+  - [ ◇ ] `Experience`......▸ Since 2014
+  - [ ◇ ] `Focus`..................▸ Systems / Reverse / Full Stack
+  - [ ◇ ] `Platforms`........▸ Linux / Windows / Web / Unity
+  - [ ◇ ] `Status`................▸ Available for strong teams
+  - [ ✓ ] `Contact`..............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
+  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `ORCID`......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
-<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/>
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+<a id="top"></a>
 
-- [🚀 About Me](#-about-me)
-- [🌌 Projects · Utilities · Organizations](#-projects--utilities--organizations)
-  - [Projects · Utilities 🐠](#projects--utilities-)
-    - [Most important jobs 🌌](#most-important-jobs-)
-    - [📚 Miscellaneous · GitHub](#-miscellaneous--github)
-    - [📚 Markdown · GitHub](#-markdown--github)
-    - [📚 C# · GitHub](#-c--github)
-    - [📚 C++ · GitHub](#-c--github-1)
-    - [📚 Templates](#-templates)
-- [💼 Experience](#-experience)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🧠 Current Focus](#-current-focus)
+<a href="#organizations">Organizations</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#tech-stack">Stack</a>
 
-## 🚀 About Me
+◇
 
-- 💻 Started programming with reverse engineering of online games
-- 🛠️ Creating automation tools, game clients, and backend systems since 2014
-- 🌍 Based in **Moscow**
-- 🎨 Passionate about **.NET, reverse engineering, Unity HDRP, Linux, security, and experimental projects, proficient in almost all popular programming languages**
-- ⚡ Fun fact: I call myself a hacker — but in the good sense, completed a white hat hacking course from `CyberEd` 😉
+<a href="#utilities">Utilities</a> ·
+<a href="#focus">Focus</a>
 
-- 📫 Reach me: [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
-- 🌐 Portfolio: [dvurechensky.pro](https://dvurechensky.pro)
-- 🌐 ORCID: https://orcid.org/0009-0004-2701-5592
+</div>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
 
-## 🌌 Projects · Utilities · Organizations
+## Organizations
 
-<details close markdown="1">
-<summary><strong>🐌 Organizations GitHub (6)</strong></summary>
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
+
+<details open markdown="1">
+<summary><strong>◇ Organizations · GitHub <b>(6)</b></strong></summary>
 
 ```mermaid
 graph TD
@@ -84,7 +93,7 @@ graph TD
   A --> K[Lizerium]
 ```
 
-| 🔗 Project                                                            | 📖 Description                                                                                                                                                   |
+| ⌁ Project                                                             | ⌁ Description                                                                                                                                                    |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | My developments or extremely useful forks of documentation necessary for daily development.                                                                      |
 | [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | Programs and utilities that I modified or created from scratch, useful in different areas.                                                                       |
@@ -95,12 +104,203 @@ graph TD
 
 </details>
 
-### Projects · Utilities 🐠
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<div align="center">
+
+## Experience
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
+
+<details close markdown="1">
+<summary> ◇ View Experience </summary>
+
+<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – 2026, 5+ years)</strong></h4>
+<p align="center"><i>Unity Developer</i></p>
+
+- Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
+  <br>
+- Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
+  <br>
+- Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
+  <br>
+- Wrote technical specifications, collaborated across teams
+  <br>
+- <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4 align="center"><strong>Moscow Institute of Psychoanalysis (MIP) <br> (Feb 2020 – Present, 6+ years)</strong></h4>
+<p align="center"><i>Technical Specialist</i></p>
+
+- Provided technical support for online video platform (MTS-Link)
+  <br>
+- Helped 1000+ users of any age/device join live broadcasts
+  <br>
+- <strong>Stack:</strong> Windows, MacOS
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
+<p align="center"><i>.NET Developer</i></p>
+
+- Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
+  <br>
+- Developed visualization systems for C# / C++ projects and dependencies (NuGet)
+  <br>
+- Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
+  <br>
+- Designed pentest monitoring system (data collection, visualization, analytics)
+  <br>
+- Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
+  <br>
+- <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4 align="center"><strong>Freelancer Rebirth <br> (Nov 2020 – Nov 2023, 3 years)</strong></h4>
+<p align="center"><i>C++ Developer</i></p>
+
+- Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
+  <br>
+- Migrated 25+ plugins & core into unified C++ solution
+  <br>
+- Performed 3 major project migrations across Visual Studio generations
+  <br>
+- <strong>Stack:</strong> C++, Boost, Assembler, Git
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4 align="center"><strong>InterEVM <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
+<p align="center"><i>System Engineer</i></p>
+
+- Developed monitoring systems (Qt) and data analyzers (Python, PHP)
+  <br>
+- Built XSLT templates, optimized PostgreSQL queries
+  <br>
+- Worked with Astra Linux, Ubuntu, Debian, Windows environments
+  <br>
+- <strong>Stack:</strong> Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4 align="center"><strong>Other Roles <br> (2017 – 2020)</strong></h4>
+
+- <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
+  <br>
+- <strong>YurExpert</strong> — SysAdmin: workplace automation, document automation
+
+</details>
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
+
+<details close markdown="1">
+<summary>◇ Open Tech Stack</summary>
+
+<h4><strong>◆ Core Engineering</strong></h4>
+
+C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, Systems Design, Full Stack Development, Reverse Engineering
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4><strong>◆ Backend & Infrastructure</strong></h4>
+
+RabbitMQ, Redis, PostgreSQL, SQL Server, MySQL, Docker, Jenkins, nginx, Linux (Astra / Ubuntu / Debian / Kali / Parrot OS), Git, SVN, Gitea
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4><strong>◆ Frontend & Desktop UI</strong></h4>
+
+TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, Prism (MVVM WPF), HandyControl (WPF), HTML5, SCSS/CSS, Markdown
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4><strong>◆ Game Development</strong></h4>
+
+Unity (HDRP / URP), Zenject, Addressables, Photon, Object Pooling, ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4><strong>◆ Languages & Low-Level</strong></h4>
+
+Python, Go, PHP, C, C++, C#, ASM x86, Shell, Bash, Qt, Boost, Elixir, Fortran77
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<h4><strong>◆ Testing & Diagnostics</strong></h4>
+
+xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
+
+</details>
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<div align="center">
+
+### Utilities
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 <details close markdown="1"> 
-<summary><strong>Most important jobs 💼 (11)</strong></summary>
+<summary><strong>◇ Most important · jobs <b>(11)</b></strong></summary>
 
-#### Most important jobs 🌌
+<div align="center">
+
+#### ◇ Most important · jobs
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -122,8 +322,8 @@ graph TD
 <table>
   <thead>
     <tr>
-      <th>🔗 Project</th>
-      <th>📖 Description</th>
+      <th>⌁ Project</th>
+      <th>⌁ Description</th>
       <th>Lang</th>
     </tr>
   </thead>
@@ -192,9 +392,18 @@ graph TD
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Internet portals from me 📚 (14)</strong></summary>
+<summary><strong>◇ Internet portals · from me <b>(14)</b></strong></summary>
 
-#### 📚 Miscellaneous · GitHub
+<div align="center">
+
+#### ◇ Miscellaneous · GitHub
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -205,16 +414,27 @@ graph TD
   C --> L[Frontend - develop]
 ```
 
-| 🔗 Project                                                                          | 📖 Description                                                                                                                                |
+| ⌁ Project                                                                           | ⌁ Description                                                                                                                                 |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning                                                                            |
 | [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                                                                                            |
 | [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview                                                                                  |
 | [Frontend - develop](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)     | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly `Javascript` stuff. |
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-#### 📚 Markdown · GitHub
+<div align="center">
+
+#### ◇ Markdown · GitHub
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -227,7 +447,7 @@ graph TD
   H --> V[Mathematics]
 ```
 
-| 🔗 Project                                                                            | 📖 Description                                  |
+| ⌁ Project                                                                             | ⌁ Description                                   |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)             | Complete Markdown guide with lifehacks          |
 | [Emoji in Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)    | Emoji collection                                |
@@ -235,9 +455,20 @@ graph TD
 | [Text Colors via MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Examples of colored text                        |
 | [Mathematics in Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)          | Example implementation of mathematical formulas |
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-#### 📚 C# · GitHub
+<div align="center">
+
+#### ◇ C# · GitHub
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -249,16 +480,27 @@ graph TD
   N --> N4[Interview]
 ```
 
-| 🔗 Project                                                                                                       | 📖 Description                                                                                                                                                                              |
+| ⌁ Project                                                                                                        | ⌁ Description                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Analysis of the C# programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)            | Overview of the C# programming language functionality, problem solving.                                                                                                                     |
 | [Design Patterns. OOP. Testing. C# Collections.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Fundamentals of object-oriented programming, as well as programming patterns in C# with examples of their implementation, testing, explanation of principles and solving LeetCode problems. |
 | [Patterns (addition) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                         | Samples, templates, programming schemes in C# with examples of their implementation                                                                                                         |
 | [Interview Questions on C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                       | Overview of questions on the C# programming language and .NET technology                                                                                                                    |
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-#### 📚 C++ · GitHub
+<div align="center">
+
+#### ◇ C++ · GitHub
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -267,16 +509,25 @@ graph TD
   C --> W1[Fundamentals]
 ```
 
-| 🔗 Project                                                                                             | 📖 Description                                                           |
+| ⌁ Project                                                                                              | ⌁ Description                                                            |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | [Analysis 🚏 of the C++ programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Overview of the C++ programming language functionality, problem solving. |
 
 </details>
 
 <details close markdown="1"> 
-<summary><strong>Templates 📚 (3)</strong></summary>
+<summary><strong>◇ Templates <b>(3)</b></strong></summary>
 
-#### 📚 Templates
+<div align="center">
+
+#### ◇ Templates
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
 
 ```mermaid
 graph TD
@@ -286,7 +537,7 @@ graph TD
   C --> W2[Electron & Vue3 & Vite App]
 ```
 
-| 🔗 Project                                                                                                | 📖 Description                                                                                                                           |
+| ⌁ Project                                                                                                 | ⌁ Description                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | [Telegram Bot 🚏 Template.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                | Clean, multi-layered architecture. Easy to scale and add new teams / services.                                                           |
 | [Net Core 🚏 Template.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                        | ASP.NET Core MVC, Frontend Project Template - TypeScript                                                                                 |
@@ -294,147 +545,75 @@ graph TD
 
 </details>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
+
+<div align="center">
+
+## Focus
+
+</div>
+<div align="center">
+
+<a href="#top">↑ Back to Top</a>
+
+</div>
+
+- [ ◇ ] Runtime systems & reverse research
+- [ ◇ ] .NET tools for Windows / Linux
+- [ ◇ ] GitHub ecosystem growth
+- [ ◇ ] Product engineering opportunities
+
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dvurechensky&theme=github-dark&area=true&hide_border=true"
-    alt="Contributions Graph"
+    src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=false&hide_border=true&theme=github_dark&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Dvurechensky&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
+<p align="center">
+    <p align="center">
+      <a href="https://github.com/dvurechensky" target="_blank">
+      <img src="https://shields.dvurechensky.pro/github/followers/dvurechensky?label=Followers&style=social" alt="GitHub Followers" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/dvurechensky-docs?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Docs&query=public_repos&url=https://api.github.com/users/dvurechensky-docs" alt="Docs Count" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/dvurechensky-tools?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tools&query=public_repos&url=https://api.github.com/users/dvurechensky-tools" alt="Tools Count" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/dvurechensky-test-tasks?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tasks&query=public_repos&url=https://api.github.com/users/dvurechensky-test-tasks" alt="Test Tasks Count" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/dvurechensky-templates?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Templates&query=public_repos&url=https://api.github.com/users/dvurechensky-templates" alt="Templates Count" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Unifier-of-Systems?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=blue&label=Unifier&query=public_repos&url=https://api.github.com/users/Unifier-of-Systems" alt="Templates Count" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Lizerium?tab=repositories" target="_blank">
+          <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://api.github.com/users/Lizerium" alt="Templates Count" />
+      </a>
+    </p>
+</p>
 
-## 💼 Experience
-
-<details close markdown="1">
-<summary> Open </summary>
-
-<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – Present, 4+ years)</strong></h4>
-<p align="center"><i>Unity Developer</i></p>
-
-- Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
-  <br>
-- Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
-  <br>
-- Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
-  <br>
-- Wrote technical specifications, collaborated across teams
-  <br>
-- <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>Moscow Institute of Psychoanalysis (MIP) <br> (Feb 2020 – Present, 5+ years)</strong></h4>
-<p align="center"><i>Technical Specialist</i></p>
-
-- Provided technical support for online video platform (MTS-Link)
-  <br>
-- Helped 1000+ users of any age/device join live broadcasts
-  <br>
-- <strong>Stack:</strong> Windows, MacOS
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
-<p align="center"><i>.NET Developer</i></p>
-
-- Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
-  <br>
-- Developed visualization systems for C# / C++ projects and dependencies (NuGet)
-  <br>
-- Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
-  <br>
-- Designed pentest monitoring system (data collection, visualization, analytics)
-  <br>
-- Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
-  <br>
-- <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>Freelancer Rebirth <br> (Nov 2020 – Nov 2023, 3 years)</strong></h4>
-<p align="center"><i>C++ Developer</i></p>
-
-- Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
-  <br>
-- Migrated 25+ plugins & core into unified C++ solution
-  <br>
-- Performed 3 major project migrations across Visual Studio generations
-  <br>
-- <strong>Stack:</strong> C++, Boost, Assembler, Git
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>InterEVM <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
-<p align="center"><i>System Engineer</i></p>
-
-- Developed monitoring systems (Qt) and data analyzers (Python, PHP)
-  <br>
-- Built XSLT templates, optimized PostgreSQL queries
-  <br>
-- Worked with Astra Linux, Ubuntu, Debian, Windows environments
-  <br>
-- <strong>Stack:</strong> Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4 align="center"><strong>Other Roles <br> (2017 – 2020)</strong></h4>
-
-- <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
-  <br>
-- <strong>YurExpert</strong> — SysAdmin: workplace automation, document automation
-
-</details>
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-## 🛠️ Tech Stack
-
-<details close markdown="1">
-<summary> Open </summary>
-
-<h4><strong>Backend:</strong></h4>
-C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, RabbitMQ, Redis, Prism (MVVM WPF), Elixir
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>Frontend:</strong></h4>
-TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, HandyContol(WPF)
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>Tested:</strong></h4>
-xUnit, nUnit, Integrated
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>GameDev:</strong></h4>
-Unity (HDRP/URP, Zenject, Addressables, Photon, Object Pooling), ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>Databases:</strong></h4>
-PostgreSQL, SQL Server, Redis, MySQL, EF Core
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>DevOps:</strong></h4>
-Linux (Astra, Ubuntu, Debian, Kali, Parrot OS), Docker, Jenkins, nginx, Git, SVN, Gitea
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-<h4><strong>Languages & Tools:</strong></h4>
-Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SCSS/CSS, Boost, Qt, Bash, IDA Pro, OllyDbg, Burp Suite Pro
-
-</details>
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
-## 🧠 Current Focus
-
-- Cross-platform tools on .NET 8 / Linux
-- Expanding open-source utilities & documentation portals
-
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
 `Псевдонимы в сети:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
 
@@ -478,44 +657,6 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 <a href="https://www.youtube.com/@dvurechensky_pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
-<p align="center">
-    <h3 align="center">My GitHub Stats</h3>
-     <p align="center">
-    <a href="https://github.com/dvurechensky" target="_blank">
-    <img src="https://shields.dvurechensky.pro/github/followers/dvurechensky?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-docs?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Docs&query=public_repos&url=https://api.github.com/users/dvurechensky-docs" alt="Docs Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-tools?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tools&query=public_repos&url=https://api.github.com/users/dvurechensky-tools" alt="Tools Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-test-tasks?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tasks&query=public_repos&url=https://api.github.com/users/dvurechensky-test-tasks" alt="Test Tasks Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-templates?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Templates&query=public_repos&url=https://api.github.com/users/dvurechensky-templates" alt="Templates Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Unifier-of-Systems?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=blue&label=Unifier&query=public_repos&url=https://api.github.com/users/Unifier-of-Systems" alt="Templates Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Lizerium?tab=repositories" target="_blank">
-        <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://api.github.com/users/Lizerium" alt="Templates Count" />
-    </a>
-    </p>
-    <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        <a href="http://www.github.com/Dvurechensky"><img src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=Dvurechensky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Dvurechensky's GitHub stats" /></a>
-    </p> 
-    </p> 
-</p>
-
 <!-- Donationes -->
 <div style="overflow-x: auto; padding: 0 10px;">
 <table align="center" style="border-collapse: collapse; min-width: 300px; width: 100%;">
@@ -556,6 +697,8 @@ Python, Си, С++, С#, PHP, Go, Asm x86, Fortran77, Markdown, Shell, HTML5, SC
 </table>
 </div>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<div align="center">
+  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+</div>
 
-> 2025
+> 2026
