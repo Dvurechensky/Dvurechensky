@@ -53,15 +53,15 @@ published: true
 </div>
 
 - ••• загрузка профиля...▸
-  - [ ◇ ] `Личность`..............▸ Николай Двуреченский
-  - [ ◇ ] `Старт`....................▸ Реверс онлайн-игр
-  - [ ◇ ] `Опыт`.....................▸ С 2014 года
-  - [ ◇ ] `Фокус`..................▸ Системы / Reverse / Full Stack
-  - [ ◇ ] `Платформы`........▸ Linux / Windows / Web / Unity
-  - [ ◇ ] `Статус`................▸ Открыт для сильных команд
-  - [ ✓ ] `Контакты`............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)
-  - [ ✓ ] `Сайт`.......................▸ [dvurechensky.pro](https://dvurechensky.pro)
-  - [ ✓ ] `ORCID`.......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
+  - [ ◇ ] `Личность`...▸ Николай Двуреченский
+  - [ ◇ ] `Старт`...▸ Реверс онлайн-игр
+  - [ ◇ ] `Опыт`...▸ С 2014 года
+  - [ ◇ ] `Фокус`...▸ Системы / Reverse / Full Stack
+  - [ ◇ ] `Платформы`...▸ Linux / Windows / Web / Unity
+  - [ ◇ ] `Статус`...▸ Открыт для сильных команд
+  - [ ✓ ] `Контакты`...▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)
+  - [ ✓ ] `Сайт`...▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `ORCID`...▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -125,7 +125,7 @@ graph TD
 
 <div align="center">
 
-## Опыт работы
+<h2 id="опыт-работы">Опыт работы</h2>
 
 </div>
 <div align="center">
@@ -230,7 +230,7 @@ graph TD
 
 <div align="center">
 
-## Технологический стек
+<h2 id="технологический-стек">Технологический стек</h2>
 
 </div>
 <div align="center">
@@ -294,7 +294,7 @@ xUnit, nUnit, Интеграционное тестирование, IDA Pro, Ol
 
 <div align="center">
 
-### Утилиты
+<h3 id="утилиты">Утилиты</h3>
 
 </div>
 <div align="center">
@@ -308,7 +308,7 @@ xUnit, nUnit, Интеграционное тестирование, IDA Pro, Ol
 
 <div align="center">
 
-#### ◇ Самые важные · проекты
+<h4 id="самые-важные">◇ Самые важные · проекты</h4>
 
 </div>
 <div align="center">
@@ -411,7 +411,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Разное · GitHub
+<h4 id="разное">◇ Разное · GitHub</h4>
 
 </div>
 
@@ -437,7 +437,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Markdown · GitHub
+<h4 id="markdown">◇ Markdown · GitHub</h4>
 
 </div>
 <div align="center">
@@ -471,7 +471,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ C# · GitHub
+<h4 id="c1">◇ C# · GitHub</h4>
 
 </div>
 <div align="center">
@@ -503,7 +503,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ C++ · GitHub
+<h4 id="c2">◇ C++ · GitHub</h4>
 
 </div>
 <div align="center">
@@ -530,7 +530,7 @@ graph TD
 
 <div align="center">
 
-#### ◇ Шаблоны
+<h4 id="шаблоны">◇ Шаблоны</h4>
 
 </div>
 <div align="center">
@@ -561,7 +561,7 @@ graph TD
 
 <div align="center">
 
-## Фокус
+<h2 id="фокус">Фокус</h2>
 
 </div>
 <div align="center">
@@ -627,7 +627,14 @@ graph TD
 
 <div align="center">
 
-`Псевдонимы в сети:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
+<p>
+<b>Псевдонимы в сети:</b>
+Dvurechensky ·
+dvurechensky_pro ·
+Dvurechensky Media ·
+Dormammu Media ·
+Rota
+</p>
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
 <img src="https://shields.dvurechensky.pro/badge/TWITCH-DVURECHENSKY__PRO-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>

@@ -316,7 +316,6 @@ xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
 <h4 id="most-important-jobs">◇ Most important · jobs</h4>
 
 </div>
-</div>
 <div align="center">
 
 <a href="#top">↑ Back to Top</a>
@@ -638,7 +637,14 @@ graph TD
 
 <div align="center">
 
-`Nicknames:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
+<p>
+<b>Nicknames:</b>
+Dvurechensky ·
+dvurechensky_pro ·
+Dvurechensky Media ·
+Dormammu Media ·
+Rota
+</p>
 
 <a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
 <img src="https://shields.dvurechensky.pro/badge/TWITCH-DVURECHENSKY__PRO-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>
