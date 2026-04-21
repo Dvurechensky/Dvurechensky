@@ -63,6 +63,8 @@ nav {
 @media print, screen and (max-width: 480px) {
 	nav {
 		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 }
 
@@ -112,7 +114,7 @@ nav {
 ========================== */
 
 .wrapper {
-	padding-top: 140px;
+	padding-top: 30px;
 }
 
 /* Контейнер details */
