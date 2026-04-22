@@ -90,7 +90,7 @@ graph TD
   A --> K[Lizerium - Про космос]
 ```
 
-| ⌁ Проект                                                              | ⌁ Описание                                                                                                                                |
+| ⌁ Организация                                                         | ⌁ Описание                                                                                                                                |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | Мои разработки или чрезвычайно полезные форки документации, необходимые для повседневной разработки.                                      |
 | [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | Программы и утилиты, которые я модифицировал или создал с нуля, полезные в различных областях.                                            |
@@ -98,6 +98,13 @@ graph TD
 | [Dvurechensky Templates](https://github.com/Dvurechensky-Templates)   | Мои шаблоны для создания проектов.                                                                                                        |
 | [Lizerium](https://github.com/Lizerium)                               | Здесь собраны утилиты для игры Freelancer, созданные или воссозданные мной, проекты - Freelancer Lizerium Unity и модификация Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Унифицирующие сервисы и технологии.                                                                                                       |
+
+| Организация                                                           | Оценка                                                                                                     |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Lizerium](https://github.com/Lizerium)                               | ![](https://shields.dvurechensky.pro/github/stars/Lizerium?style=for-the-badge&label=Stars)                |
+| [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Tools?style=for-the-badge&label=Stars)      |
+| [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Docs?style=for-the-badge&label=Stars)       |
+| [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Test-Tasks?style=for-the-badge&label=Stars) |
 
 </details>
 
