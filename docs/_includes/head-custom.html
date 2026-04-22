@@ -290,13 +290,10 @@
 <script
 	id="MathJax-script"
 	async
-	src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+	src="{{ '/assets/js/mathjax/tex-mml-chtml.js' | relative_url }}"
 ></script>
 <!-- Mermaid -->
-<script
-	defer
-	src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
-></script>
+<script defer src="{{ '/assets/js/mermaid.min.js' | relative_url }}"></script>
 <script>
 	document.addEventListener('DOMContentLoaded', function () {
 		// Превращаем ```mermaid в <div class="mermaid">, иначе многие темы оставляют <pre><code class="language-mermaid">
