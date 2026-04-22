@@ -99,12 +99,16 @@ graph TD
 | [Lizerium](https://github.com/Lizerium)                               | Здесь собраны утилиты для игры Freelancer, созданные или воссозданные мной, проекты - Freelancer Lizerium Unity и модификация Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Унифицирующие сервисы и технологии.                                                                                                       |
 
+<div align="center">
+
 | Организация                                                           | Оценка                                                                                                     |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [Lizerium](https://github.com/Lizerium)                               | ![](https://shields.dvurechensky.pro/github/stars/Lizerium?style=for-the-badge&label=Stars)                |
 | [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Tools?style=for-the-badge&label=Stars)      |
 | [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Docs?style=for-the-badge&label=Stars)       |
 | [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Test-Tasks?style=for-the-badge&label=Stars) |
+
+</div>
 
 </details>
 
