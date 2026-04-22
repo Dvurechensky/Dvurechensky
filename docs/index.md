@@ -122,12 +122,16 @@ graph TD
 | [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
 | [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
 
+<div align="center">
+
 | Organization                                                          | Stars                                                                                                      |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [Lizerium](https://github.com/Lizerium)                               | ![](https://shields.dvurechensky.pro/github/stars/Lizerium?style=for-the-badge&label=Stars)                |
 | [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Tools?style=for-the-badge&label=Stars)      |
 | [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Docs?style=for-the-badge&label=Stars)       |
 | [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Test-Tasks?style=for-the-badge&label=Stars) |
+
+</div>
 
 </details>
 
