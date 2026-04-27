@@ -1,682 +1,233 @@
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
-  <strong>🌐 Language: </strong>
-  
-  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
-    🇷🇺 Russian
-  </a>
-  | 
-  <span style="color: #0891b2; margin: 0 10px;">
-    ✅ 🇺🇸 English (current)
-  </span>
+  <strong>Language:</strong>
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">Russian</a>
+  |
+  <span style="color: #0891b2; margin: 0 10px;">English current</span>
+  |
+  <a href="./README.rnd.md" style="color: #a3e635; margin: 0 10px;">R&D version</a>
 </div>
 
 <div align="center">
   <picture>
-    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px" alt="Nikolai Dvurechensky">
   </picture>
   <h2>
-  Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
-  Systems Engineer • Reverse Developer • Full Stack Engineer
+    Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
+    Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
-  <h4>Available for <b>strong</b> teams & <u><b>interesting products</b></u></h4>
-  <span><b>.NET</b> • C/<b>C++</b> • C# • <b><u>Python</b></u> • Unity • TypeScript • <b><u>Reverse</b></u>  •  Linux • Windows</span>
-</div>
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <h4>Engineer for complex systems, legacy code, backend platforms, tooling, and R&D-heavy work</h4>
+  <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
 </div>
 
 <div align="center">
- <h2>
-  System Profile
-  </h2>
-</div>
-
-- ••• booting profile...▸
-  - [ ◇ ] `Identity`................▸ Nikolai Dvurechensky
-  - [ ◇ ] `Started`................▸ Reverse engineering online games
-  - [ ◇ ] `Experience`......▸ Since 2014
-  - [ ◇ ] `Focus`..................▸ Systems / Reverse / Full Stack
-  - [ ◇ ] `Platforms`........▸ Linux / Windows / Web / Unity
-  - [ ◇ ] `Status`................▸ Available for strong teams
-  - [ ✓ ] `Contact`..............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
-  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.pro)
-  - [ ✓ ] `ORCID`......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
 <div align="center">
-<a id="top"></a>
-
-<a href="#organizations">Organizations</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#tech-stack">Stack</a>
-
-◇
-
-<a href="#utilities">Utilities</a> ·
-<a href="#focus">Focus</a>
-
+  <a href="#profile">Profile</a> ·
+  <a href="#value">Value</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#fit">Roles</a>
 </div>
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-<div align="center">
+<a id="profile"></a>
 
-## Organizations
+## Short Profile
 
-</div>
-<div align="center">
+I am an engineer who works at the intersection of backend development, systems analysis, reverse engineering, desktop tooling, game servers, and infrastructure. Since 2014 I have been growing through programming and reverse engineering; commercially, I have worked with .NET, Unity, C++, Python, Linux/Windows, PostgreSQL, RabbitMQ, Docker, CI, and visualization systems.
 
-<a href="#top">↑ Back to Top</a>
+I am looking for a strong team and a product where the job is not only to "write code", but also to understand complex systems, recover architecture, design internal tools, bring solutions to a working state, and leave a clear engineering base behind.
 
-</div>
+- **10+ years of engineering experience:** from online game reverse engineering and system administration to .NET backend, Unity, C++, and infrastructure services.
+- **Strong area:** complex systems, legacy code, binary analysis, .NET tools, server platforms, dependency visualization, automation, and documentation.
+- **Public track record:** dozens of repositories and projects across the `Dvurechensky`, `Lizerium`, `Dvurechensky Tools`, `Dvurechensky Docs`, `Templates`, and `Test Tasks` ecosystems.
+- **Rare combination:** backend + desktop + reverse + game/server engineering + the ability to explain and document complex systems.
 
-<details open markdown="1">
-<summary><strong>◇ Organizations · GitHub <b>(6)</b></strong></summary>
-
-```mermaid
-graph TD
-  A[Dvurechensky Organizations] --> B[Docs]
-  A --> E[Tools]
-  A --> M[Templates]
-  A --> G[Test Tasks]
-  A --> H[Unifier]
-  A --> K[Lizerium]
-```
-
-| ⌁ Project                                                             | ⌁ Description                                                                                                                                                    |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | My developments or extremely useful forks of documentation necessary for daily development.                                                                      |
-| [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | Programs and utilities that I modified or created from scratch, useful in different areas.                                                                       |
-| [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | My register of test tasks completed by me free of charge.                                                                                                        |
-| [Dvurechensky Templates](https://github.com/Dvurechensky-Templates)   | My templates for creating projects.                                                                                                                              |
-| [Lizerium](https://github.com/Lizerium)                               | Here are collected utilities for the game Freelancer, created or recreated by Dvurechensky, projects - Freelancer Lizerium Unity and modification of Freelancer. |
-| [Unifier of Systems](https://github.com/Unifier-of-Systems)           | Unifying services and technology.                                                                                                                                |
+**Contacts:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
+**Website:** [dvurechensky.pro](https://dvurechensky.pro)  
+**GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
+**ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">
-
-| Organization                                                          | Stars                                                                                                      |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Lizerium](https://github.com/Lizerium)                               | ![](https://shields.dvurechensky.pro/github/stars/Lizerium?style=for-the-badge&label=Stars)                |
-| [Dvurechensky Tools](https://github.com/Dvurechensky-Tools)           | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Tools?style=for-the-badge&label=Stars)      |
-| [Dvurechensky Docs](https://github.com/Dvurechensky-Docs)             | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Docs?style=for-the-badge&label=Stars)       |
-| [Dvurechensky Test Tasks](https://github.com/Dvurechensky-Test-Tasks) | ![](https://shields.dvurechensky.pro/github/stars/Dvurechensky-Test-Tasks?style=for-the-badge&label=Stars) |
-
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-</details>
+<a id="value"></a>
+
+## Value For An Employer
+
+I am especially useful where a product needs an engineer who can:
+
+- quickly understand unfamiliar codebases, protocols, data formats, and old systems;
+- design .NET backend services, integrations, queues, databases, and admin panels;
+- build tools that save team time: analyzers, generators, converters, diff/monitoring utilities, project templates;
+- work across Windows/Linux, Docker, Jenkins, Git/SVN, PostgreSQL, RabbitMQ, Redis, and nginx;
+- lead a task from research to release: hypothesis, prototype, implementation, debugging, documentation, and support;
+- handle legacy systems, reverse engineering, C/C++, ABI, DLLs, x86, Ghidra/x32dbg/IDA-style workflows, and low-level diagnostics.
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
+<a id="achievements"></a>
+
+## Key Achievements
+
+### Reverse Engineering And Systems Analysis
+
+- I am developing **Freelancer.Reverse.Runtime**: a runtime layer on top of the original Freelancer (2003) engine, where DLL modules are replaced by compatible proxy components with controlled C++ code, logging, and behavior reconstruction.
+- I built **ReverseProxyDLL**: a reverse-aware proxy DLL scaffold generator for legacy x86 Windows DLLs, covering exports, ordinals, ABI, C/C++ symbols, data exports, and manual override scenarios.
+- I built **BinNexus**: a Windows DLL/EXE analysis tool that generates an interactive web portal with dependency graphs, exports, symbol search, and system-noise filtering.
+- I maintained and evolved the Freelancer/Lizerium C++/ASM ecosystem: plugins, server extensions, game DLLs, data formats, tooling, and administration.
+
+### .NET, Backend And Infrastructure
+
+- Built **ASP.NET Core MVC** applications with PostgreSQL, EF Core, RabbitMQ, Docker, Jenkins, Git/SVN.
+- Migrated projects from .NET Framework to .NET 6/7/8, improved architecture with SOLID/DRY/KISS, and stabilized dependencies and builds.
+- Designed a pentest monitoring system: data collection, visualization, analytics, server logic, and UI.
+- I am developing **Lizerium Server**: a modular ASP.NET Core MVC platform for a game portal, admin backend, knowledge base, documentation, translations, internal services, and network protection.
+- I have a registered software system, **Unifier**, for distributed device interaction and infrastructure orchestration.
+
+### Desktop, Tooling And Automation
+
+- Built **FileSync Sentinel**: a .NET 8 WinForms application for real-time file monitoring, visual diff, logging, and synchronization of large `.ini` sets.
+- Built **Herodotus**: a WPF/Prism MVVM tool for presentation and demo scenarios with Markdown preview.
+- Built **LibreResxTranslate**: a NuGet library for automated `.resx` localization through LibreTranslate, including batch mode, configuration, and CI/CD scenarios.
+- Maintain project templates: Telegram bot template, ASP.NET Core MVC template, Electron/Vue/Vite template.
+
+### Unity, Game Development And VR
+
+- At OXSIONSOFT/Lizerium I worked on **Ceek Virtual Reality**: features, bug fixing, UI redesign, and client-server improvements.
+- Implemented memory optimization through **Unity Addressables**, improving stability on Android 7+.
+- Worked with Unity3D, HDRP, VFX Graph, Zenject, Addressables, Photon Engine, Blender, Substance, and Photoshop.
+
 <div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="experience"></a>
 
 ## Experience
 
-</div>
-<div align="center">
+### OXSIONSOFT / Lizerium
+**Unity Developer**  
+**March 2021 - 2026, 5+ years**
 
-<a href="#top">↑ Back to Top</a>
+- Feature development, bug fixing, and UI redesigns for VR/Unity projects.
+- Memory optimization via Addressables and improved mobile build stability.
+- Multiplayer with Photon Engine, client-server API improvements, and technical specifications.
+- Stack: Unity3D, C#, HDRP, VFX Graph, Zenject, Addressables, Photon, Docker, Blender, Substance, Photoshop.
 
-</div>
+### Moscow Institute of Psychoanalysis
+**Technical Specialist**  
+**February 2020 - Present, 6+ years**
 
-<details close markdown="1">
-<summary> ◇ View Experience </summary>
+- Technical support for an online video platform and live broadcasts.
+- Helped 1000+ users of different ages and devices join educational events.
+- Stack: Windows, macOS, MTS-Link, user diagnostics, live-event support.
 
-<h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – 2026, 5+ years)</strong></h4>
-<p align="center"><i>Unity Developer</i></p>
+### NPC Reagent / SIGMA / CMK Consulting
+**.NET Developer**  
+**2019 - 2025, 5+ years total**
 
-- Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
-  <br>
-- Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
-  <br>
-- Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
-  <br>
-- Wrote technical specifications, collaborated across teams
-  <br>
-- <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
+- ASP.NET Core MVC applications, PostgreSQL, EF Core, RabbitMQ, Docker.
+- Dependency visualization for C#/C++ projects and NuGet graphs.
+- .NET Framework -> .NET 6/7/8 migrations, refactoring, architectural stabilization.
+- Monitoring, analytics, and visualization systems for security/pentest processes.
+- CI/CD and build automation with Jenkins, Git/SVN.
 
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
+### Freelancer Rebirth
+**C++ Developer**  
+**November 2020 - November 2023, 3 years**
 
-<h4 align="center"><strong><a href="https://inpsycho.ru/" target="_blank">Moscow Institute of Psychoanalysis (MIP)</a> <br> (Feb 2020 – Present, 6+ years)</strong></h4>
-<p align="center"><i>Technical Specialist</i></p>
+- Supported a major CIS mod for Freelancer (2003).
+- Migrated 25+ plugins and core code into a unified C++ solution.
+- Completed 3 major migrations between Visual Studio generations.
+- Stack: C++, Boost, x86 Assembly, Git, legacy Windows tooling.
 
-- Provided technical support for online video platform (MTS-Link)
-  <br>
-- Helped 1000+ users of any age/device join live broadcasts
-  <br>
-- <strong>Stack:</strong> Windows, MacOS
+### InterEVM / CITIS
+**Systems Engineer**  
+**February 2020 - June 2023, 3+ years**
 
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
+- Monitoring systems in Qt, data analyzers in Python/PHP.
+- XSLT/XML templates, PostgreSQL query optimization.
+- Worked across Astra Linux, Ubuntu, Debian, and Windows environments.
 
-<h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
-<p align="center"><i>.NET Developer</i></p>
+### Earlier Roles
+**2017 - 2020**
 
-- Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
-  <br>
-- Developed visualization systems for C# / C++ projects and dependencies (NuGet)
-  <br>
-- Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
-  <br>
-- Designed pentest monitoring system (data collection, visualization, analytics)
-  <br>
-- Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
-  <br>
-- <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
+- Automation engineer: Siemens controllers, SCADA, embedded systems.
+- System administrator: workplace automation and document workflow automation.
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-<h4 align="center"><strong>Freelancer Rebirth <br> (Nov 2020 – Nov 2023, 3 years)</strong></h4>
-<p align="center"><i>C++ Developer</i></p>
+<a id="projects"></a>
 
-- Maintained the largest CIS mod for <strong>Freelancer (2003)</strong>
-  <br>
-- Migrated 25+ plugins & core into unified C++ solution
-  <br>
-- Performed 3 major project migrations across Visual Studio generations
-  <br>
-- <strong>Stack:</strong> C++, Boost, Assembler, Git
+## Selected Projects
+
+| Project | What it proves | Technologies |
+|---|---|---|
+| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, compatible DLLs, legacy engine behavior recovery | C, C++, ASM x86, Ghidra, x32dbg |
+| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL) | Proxy DLL scaffold generation for old Windows x86 libraries | Python, C++ |
+| [BinNexus](https://github.com/Dvurechensky/BinNexus) | DLL/EXE analysis, dependency graph, export explorer, web visualization | Python, JavaScript, C++, HTML/CSS |
+| [Lizerium Server](https://github.com/Lizerium/LizeriumServer) | Modular server platform for portal, admin, documentation, and services | ASP.NET Core MVC, EF Core, PostgreSQL |
+| [Lizerium / Freelancer Lizerium](https://lizup.ru/Home/Game) | C++/ASM game server engineering, 50+ plugin ecosystem, multiplayer tooling | C++, ASM x86, WPF, .NET |
+| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel) | Desktop tool for file monitoring, diff, and synchronization | .NET 8, WinForms, DiffPlex |
+| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus) | WPF/MVVM app for demo scenarios and Markdown workflow | WPF, Prism MVVM, HandyControl |
+| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate) | NuGet library for automated .NET localization | C#, .NET, RESX, LibreTranslate |
+| [Telegram Bot Template](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Clean layered architecture for scalable Telegram bots | Python, asyncio, APIs |
+| [NetCoreTemplate](https://github.com/Dvurechensky-Templates/NetCoreTemplate) | Base for ASP.NET Core MVC projects | ASP.NET Core, TypeScript |
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-<h4 align="center"><strong><a href="https://www.inevm.ru/" target="_blank">InterEVM</a> & <a href="https://citis.ru/" target="_blank">CITIS</a> <br> (Feb 2020 – Jun 2023, 3+ years)</strong></h4>
-<p align="center"><i>System Engineer</i></p>
+<a id="stack"></a>
 
-- Developed monitoring systems (Qt) and data analyzers (Python, PHP)
-  <br>
-- Built XSLT templates, optimized PostgreSQL queries
-  <br>
-- Worked with Astra Linux, Ubuntu, Debian, Windows environments
-  <br>
-- <strong>Stack:</strong> Linux (Astra, Ubuntu, Debian), Qt, Python, SQL, XSLT/XML
+## Technology Stack
+
+**Backend / .NET:** C#, .NET Framework, .NET 6/7/8, ASP.NET Core MVC, SignalR, EF Core, xUnit, NUnit  
+**Databases / Messaging:** PostgreSQL, SQL Server, MySQL, Redis, RabbitMQ  
+**Infrastructure:** Docker, Jenkins, nginx, Git, SVN, Gitea, Linux, Windows  
+**Frontend / Visualization:** TypeScript, JavaScript, Cytoscape.js, Three.js, HTML5, SCSS/CSS, Webpack, Grunt  
+**Desktop:** WPF, Prism MVVM, HandyControl, WinForms, FastColoredTextBox, Costura/Fody  
+**Reverse / Low-level:** C, C++, ASM x86, DLL proxying, ABI, exports/ordinals, PE analysis, IDA Pro, OllyDbg, Ghidra, x32dbg  
+**Game / Unity:** Unity3D, HDRP, URP, VFX Graph, Zenject, Addressables, Photon Engine, object pooling, ECS approaches  
+**Other languages:** Python, Go, PHP, Shell/Bash, Qt, XSLT/XML, Elixir, Fortran77  
+**Security / Diagnostics:** Burp Suite Pro, runtime logging, binary inspection, dependency analysis, integration testing
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-<h4 align="center"><strong>Other Roles <br> (2017 – 2020)</strong></h4>
+<a id="fit"></a>
 
-- <strong>Promelektronika</strong> — Automation engineer: Siemens controllers, SCADA, embedded systems
-  <br>
-- <strong>YurExpert</strong> — SysAdmin: workplace automation, document automation
+## Best-Fit Roles
 
-</details>
+- **.NET Backend / Full Stack Engineer** for product development, internal platforms, admin systems, integrations, and infrastructure services.
+- **Systems Engineer** for complex systems, monitoring, visualization, automation, and Linux/Windows environments.
+- **Reverse Engineer / C++ Engineer** for legacy Windows, DLLs, x86, runtime tooling, binary analysis, and behavior reconstruction.
+- **Tools Engineer / Developer Productivity Engineer** for internal tools, generators, templates, analyzers, CI/CD, and documentation.
+- **Unity / Game Tools Engineer** for game services, runtime logic, tooling, optimization, and multiplayer integrations.
 
 <div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
-<div align="center">
+## R&D Version
 
-## Tech Stack
+This page is now the main HR/product-oriented resume. A fuller experimental version with the GitHub ecosystem, diagrams, social blocks, donation block, and an extended project catalog is preserved separately:
 
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-<details close markdown="1">
-<summary>◇ Open Tech Stack</summary>
-
-<h4><strong>◆ Core Engineering</strong></h4>
-
-C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, Systems Design, Full Stack Development, Reverse Engineering
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<h4><strong>◆ Backend & Infrastructure</strong></h4>
-
-RabbitMQ, Redis, PostgreSQL, SQL Server, MySQL, Docker, Jenkins, nginx, Linux (Astra / Ubuntu / Debian / Kali / Parrot OS), Git, SVN, Gitea
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<h4><strong>◆ Frontend & Desktop UI</strong></h4>
-
-TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, Prism (MVVM WPF), HandyControl (WPF), HTML5, SCSS/CSS, Markdown
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<h4><strong>◆ Game Development</strong></h4>
-
-Unity (HDRP / URP), Zenject, Addressables, Photon, Object Pooling, ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<h4><strong>◆ Languages & Low-Level</strong></h4>
-
-Python, Go, PHP, C, C++, C#, ASM x86, Shell, Bash, Qt, Boost, Elixir, Fortran77
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<h4><strong>◆ Testing & Diagnostics</strong></h4>
-
-xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
-
-</details>
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-### Utilities
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-<details close markdown="1"> 
-<summary><strong>◇ Most important · jobs <b>(11)</b></strong></summary>
-
-<div align="center">
-
-#### ◇ Most important · jobs
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  B[Most important jobs]
-  B --> B1[Unifier]
-  B --> B2[Shields.io]
-  B --> B3[Heradotus]
-  B --> B4[FileSyncSentinel]
-  B --> E[Lizerium]
-  E --> E1[Lizerium Server]
-  E --> E2[Freelancer Lizerium]
-  E --> E3[Lizerium Portal]
-  B --> G[Reverse]
-  G --> G1[ReverseProxyDLL]
-  G --> G2[Freelancer.Reverse.Runtime]
-  G --> G3[BinNexus]
-```
-
-<table>
-  <thead>
-    <tr>
-      <th>⌁ Project</th>
-      <th>⌁ Description</th>
-      <th>Lang</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="Project"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
-      <td data-label="Description">BinNexus is a tool for analyzing Windows binaries (DLL/EXE) that builds an interactive web portal with a dependency graph and export exploration.</td>
-      <td data-label="Languages"><code>Python · JavaScript · CSS · HTML · C++</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
-      <td data-label="Description">Reverse-aware proxy DLL framework generator for legacy x86 Windows binaries based on export dumps and decompiler output.</td>
-      <td data-label="Languages"><code>Python · C++</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
-      <td data-label="Description">I'm building a runtime layer on top of Freelancer (2003), restoring and overriding system DLLs to safely explore, extend, and document the behavior of the original engine.</td>
-      <td data-label="Languages"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://lizup.ru/">Lizerium Portal</a></td>
-      <td data-label="Description">My developed portal for a <code>space</code> <code>simulator</code> — this is a huge portal for the game with a knowledge base about the game <code>Freelancer (2003)</code>.</td>
-      <td data-label="Lang"><code>ASP Net Core 6.0 · MVC · TypeScript · EF Core</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a></td>
-      <td data-label="Description">My developed <code>space</code> <code>simulator</code> — this is my game in the <code>space simulators</code> genre based on <code>Freelancer (2003)</code> (Multiplayer and single player modes).</td>
-      <td data-label="Lang"><code>C++ · Assembler x86</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project">
-        <a href="https://lizup.ru/Home/Game">Lizerium Server</a> | 
-        <a href="https://www.gs4u.net/ru/s/398133.html">GS4u.net - Game Server Monitoring</a>
-      </td>
-      <td data-label="Description">My developed server for the <code>space</code> <code>simulator</code> <a href="https://lizup.ru/Home/Game">Freelancer Lizerium</a> — this is a huge expansion that consists of 50+ plugins importing new functions into the gameplay.</td>
-      <td data-label="Lang"><code>C++ · Asm x86</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://lizup.ru/Home/Game">Lizerium Steam</a></td>
-      <td data-label="Description">My developed <code>game loader</code> for the Freelancer series — this is technically the well-known <code>Steam</code> in its <code>behavior</code> and it can <code>port</code> and <code>update</code> what's inside it and <code>itself</code>.</td>
-      <td data-label="Lang"><code>WPF · Prism MVVM · Handy Control</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://github.com/Dvurechensky-Tools/Heradotus">Heradotus</a></td>
-      <td data-label="Description">Your <code>scenario</code> <code>constructor</code> for presentations and demonstrations. For developers who understand <code>Markdown</code>.</td>
-      <td data-label="Lang"><code>WPF · Prism MVVM · Handy Control</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://github.com/Dvurechensky-Tools/FileSyncSentinel">FileSyncSentinel</a></td>
-      <td data-label="Description">Powerful real-time file change <code>monitoring</code> with intelligent <code>comparison</code> 🔍.</td>
-      <td data-label="Lang"><code>WinForms · MVC · DiffPlex · NET 8.0</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://shields.dvurechensky.pro/">Russian Shields.io</a></td>
-      <td data-label="Description">Beautiful badge generator in Russian language.</td>
-      <td data-label="Lang"><code>JS/TS · Canvas / WebGL · Node JS · Redis</code></td>
-    </tr>
-    <tr>
-      <td data-label="Project"><a href="https://unifier.dvurechensky.pro/">Unifier</a></td>
-      <td data-label="Description">Registered software system for distributed device interaction and infrastructure orchestration.<a href="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/files/Unifier.Patent.pdf" target="_blank">📄 Patent</a></td>
-      <td data-label="Lang"><code>JS/TS · NET 8.0 · Tree JS · Rabbit MQ · PostgreSQL</code></td>
-    </tr>
-  </tbody>
-</table>
-
-</details>
-
-<details close markdown="1"> 
-<summary><strong>◇ Internet portals · from me <b>(14)</b></strong></summary>
-
-<div align="center">
-
-#### ◇ Miscellaneous · GitHub
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  C[Miscellaneous online portals]
-  C --> R[Project Based Learning]
-  C --> M[API List]
-  C --> G[Gitignore Portal]
-  C --> L[Frontend - develop]
-```
-
-| ⌁ Project                                                                           | ⌁ Description                                                                                                                                 |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Project Based Learning](https://dvurechensky-docs.github.io/ProjectBasedLearning/) | Links to resources by programming language categories for learning                                                                            |
-| [API List](https://dvurechensky-docs.github.io/Internet/)                           | Catalog of open APIs by categories                                                                                                            |
-| [Gitignore Portal](https://dvurechensky-docs.github.io/Gitignore/)                  | Collection of ready `.gitignore` files + technology overview                                                                                  |
-| [Frontend - develop](https://dvurechensky-docs.github.io/WebFrontendKnowledge/)     | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly `Javascript` stuff. |
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-#### ◇ Markdown · GitHub
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  C[Markdown online portals]
-  C --> H[Markdown]
-  H --> K[Fundamentals]
-  H --> L[All about emoji]
-  H --> Z[Shields badges]
-  H --> X[Text colors with MathJax]
-  H --> V[Mathematics]
-```
-
-| ⌁ Project                                                                             | ⌁ Description                                   |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Markdown Docs](https://dvurechensky-docs.github.io/GeneralDocsMarkdown/)             | Complete Markdown guide with lifehacks          |
-| [Emoji in Markdown](https://dvurechensky-docs.github.io/EmojiCollectionsMarkdown/)    | Emoji collection                                |
-| [Shields Badges List](https://dvurechensky-docs.github.io/ShieldsMarkdown/)           | Collection of Shields badges                    |
-| [Text Colors via MathJax](https://dvurechensky-docs.github.io/MathJaxColorsMarkdown/) | Examples of colored text                        |
-| [Mathematics in Markdown](https://dvurechensky-docs.github.io/MathMarkdown/)          | Example implementation of mathematical formulas |
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-#### ◇ C# · GitHub
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  C[C# online portals]
-  C --> N[C#]
-  N --> N1[Base. Patterns. Principles.]
-  N --> N2[Patterns - addition]
-  N --> N3[Logic]
-  N --> N4[Interview]
-```
-
-| ⌁ Project                                                                                                        | ⌁ Description                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Analysis of the C# programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCSharp/)            | Overview of the C# programming language functionality, problem solving.                                                                                                                     |
-| [Design Patterns. OOP. Testing. C# Collections.](https://dvurechensky-docs.github.io/PatternsCSharpProgramming/) | Fundamentals of object-oriented programming, as well as programming patterns in C# with examples of their implementation, testing, explanation of principles and solving LeetCode problems. |
-| [Patterns (addition) C#](https://dvurechensky-docs.github.io/PatternsCSharpExtraAddons/)                         | Samples, templates, programming schemes in C# with examples of their implementation                                                                                                         |
-| [Interview Questions on C# (NET)](https://dvurechensky-docs.github.io/InterviewCSharpNet/)                       | Overview of questions on the C# programming language and .NET technology                                                                                                                    |
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-#### ◇ C++ · GitHub
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  C[C++ online portals]
-  C --> W[C++]
-  C --> W1[Fundamentals]
-```
-
-| ⌁ Project                                                                                              | ⌁ Description                                                            |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [Analysis 🚏 of the C++ programming language.](https://dvurechensky-docs.github.io/BasicKnowledgeCPP/) | Overview of the C++ programming language functionality, problem solving. |
-
-</details>
-
-<details close markdown="1"> 
-<summary><strong>◇ Templates <b>(3)</b></strong></summary>
-
-<div align="center">
-
-#### ◇ Templates
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-```mermaid
-graph TD
-  C[Templates]
-  C --> W[Telegram Bot]
-  C --> W1[NET Core MVC]
-  C --> W2[Electron & Vue3 & Vite App]
-```
-
-| ⌁ Project                                                                                                 | ⌁ Description                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Telegram Bot 🚏 Template.](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)                | Clean, multi-layered architecture. Easy to scale and add new teams / services.                                                           |
-| [Net Core 🚏 Template.](https://github.com/Dvurechensky-Templates/NetCoreTemplate)                        | ASP.NET Core MVC, Frontend Project Template - TypeScript                                                                                 |
-| [Electron & Vue3 & Vite 🚏 Template.](https://github.com/Dvurechensky-Templates/ElectronViteTemplateRuEn) | A Vue3 + Vite + Electron project template based on Vite and Rollup. An alternative platformer for producing cross-platform applications. |
-
-</details>
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-## Focus
-
-</div>
-<div align="center">
-
-<a href="#top">↑ Back to Top</a>
-
-</div>
-
-- [ ◇ ] Runtime systems & reverse research
-- [ ◇ ] .NET tools for Windows / Linux
-- [ ◇ ] GitHub ecosystem growth
-- [ ◇ ] Product engineering opportunities
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=false&hide_border=true&theme=github_dark&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Dvurechensky&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/dvurechensky" target="_blank">
-      <img src="https://shields.dvurechensky.pro/github/followers/dvurechensky?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-docs?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Docs&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-docs" alt="Docs Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-tools?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tools&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-tools" alt="Tools Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-test-tasks?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Tasks&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-test-tasks" alt="Test Tasks Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/dvurechensky-templates?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=darkred&label=Templates&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/dvurechensky-templates" alt="Templates Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Unifier-of-Systems?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=blue&label=Unifier&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/Unifier-of-Systems" alt="Unifier Count" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Lizerium?tab=repositories" target="_blank">
-      <img src="https://shields.dvurechensky.pro/badge/dynamic/json?color=magenta&label=Lizerium&query=public_repos&url=https://shields.dvurechensky.pro/ghapi/users/Lizerium" alt="Lizerium Count" />
-    </a>
-  </p>
-</p>
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-
-`Nicknames:` **Dvurechensky** · **dvurechensky_pro** · **Dvurechensky Media** · **Dormammu Media** · **Rota**
-
-<a href="https://www.twitch.tv/dvurechensky_pro" target="_blank" rel="noreferrer">
-<img src="https://shields.dvurechensky.pro/badge/TWITCH-DVURECHENSKY__PRO-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>
-</a>
-
-</div>
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<!-- Donationes -->
-<div style="overflow-x: auto; padding: 0 10px;">
-<table align="center" style="border-collapse: collapse; min-width: 300px; width: 100%;">
-<tr>
-    <td colspan="3" align="center">
-    <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
-    </td>
-</tr>
-<tr>
-    <th style="padding: 8px; text-align: center;">Payments</th>
-    <th style="padding: 8px; text-align: center;">Address</th>
-    <th style="padding: 8px; text-align: center;">QR Code</th>
-</tr>
-<tr>
-    <td style="padding: 8px; text-align: center;">
-    <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
-    </a>
-    </td>
-    <td style="padding: 8px; text-align: center;"><code>bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym</code></td>
-    <td style="padding: 8px; text-align: center;"><img 
-        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qlrqjhdeqtzd0dnvw7lj0gc0r8kke8m8rc7dxym" 
-        width="150" 
-        alt="BTC QR Code" /></td>
-</tr>
-<tr>
-    <td style="padding: 8px; text-align: center;">
-    <a href="https://www.donationalerts.com/r/dvurechensky_pro" target="_blank">
-        <img src="https://www.donationalerts.com/img/header/logo.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
-    </a>
-    </td>
-    <td style="padding: 8px; text-align: center;"><code>dvurechensky_pro</code></td>
-    <td style="padding: 8px; text-align: center;"><img 
-        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.donationalerts.com/r/dvurechensky_pro" 
-        width="150" 
-        alt="BTC QR Code" /></td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
+- [Open R&D README](./README.rnd.md)
+- [Open Russian version](./README.ru.md)
 
 > 2026

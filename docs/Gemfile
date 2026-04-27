@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.4"
+gem "wdm", ">= 0.1.0"
+gem "webrick"
+
+gem "jekyll-remote-theme"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jemoji"
+gem "jekyll-mentions"
