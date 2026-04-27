@@ -12,3 +12,4 @@ collections:
     output: true
 include:
   - assets/css/custom.css
+  - assets/js/site.js
