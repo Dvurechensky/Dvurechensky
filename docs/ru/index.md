@@ -7,14 +7,18 @@ lang: ru
 published: true
 ---
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+{% raw %}
+
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;" class="lang-switch">
   <strong>Language:</strong>
   <span style="color: #F5F752; margin: 0 10px;">Russian current</span>
   |
-  <a href="/Dvurechensky/" style="color: #0891b2; margin: 0 10px;">English</a>
+  <a href="/Dvurechensky/en/" style="color: #0891b2; margin: 0 10px;">English</a>
   |
-  <a href="/Dvurechensky/rnd.ru.html" style="color: #a3e635; margin: 0 10px;">R&D версия</a>
+  <a href="/Dvurechensky/rnd/ru/" style="color: #a3e635; margin: 0 10px;">R&D версия</a>
 </div>
+
+{% endraw %}
 
 <div align="center">
   <picture>
@@ -116,6 +120,7 @@ published: true
 <h2 id="experience">Опыт работы</h2>
 
 ### OXSIONSOFT / Lizerium
+
 **Unity Developer**  
 **Март 2021 - 2026, 5+ лет**
 
@@ -124,6 +129,7 @@ published: true
 - Multiplayer на Photon Engine, клиент-серверные API улучшения, технические спецификации.
 
 ### Московский институт психоанализа
+
 **Технический специалист**  
 **Февраль 2020 - настоящее время, 6+ лет**
 
@@ -131,6 +137,7 @@ published: true
 - Помощь 1000+ пользователям разных возрастов и устройств в подключении к образовательным мероприятиям.
 
 ### NPC Reagent / SIGMA / CMK Consulting
+
 **.NET Developer**  
 **2019 - 2025, 5+ лет суммарно**
 
@@ -140,6 +147,7 @@ published: true
 - Системы мониторинга, аналитики и визуализации для security/pentest процессов.
 
 ### Freelancer Rebirth
+
 **C++ Developer**  
 **Ноябрь 2020 - ноябрь 2023, 3 года**
 
@@ -148,6 +156,7 @@ published: true
 - 3 крупные миграции проекта между поколениями Visual Studio.
 
 ### ИнтерЭВМ / ЦИТиС
+
 **Системный инженер**  
 **Февраль 2020 - июнь 2023, 3+ года**
 
@@ -161,15 +170,15 @@ published: true
 
 <h2 id="projects">Избранные проекты</h2>
 
-| Проект | Что показывает работодателю | Технологии |
-|---|---|---|
-| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, совместимые DLL, восстановление поведения legacy engine | C, C++, ASM x86, Ghidra, x32dbg |
-| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL) | Генерация proxy DLL scaffold для старых Windows x86 библиотек | Python, C++ |
-| [BinNexus](https://github.com/Dvurechensky/BinNexus) | Анализ DLL/EXE, граф зависимостей, export explorer, web-visualization | Python, JavaScript, C++, HTML/CSS |
-| [Lizerium Server](https://github.com/Lizerium/LizeriumServer) | Модульная серверная платформа для портала, админки, документации и сервисов | ASP.NET Core MVC, EF Core, PostgreSQL |
-| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel) | Desktop-инструмент для мониторинга, diff и синхронизации файлов | .NET 8, WinForms, DiffPlex |
-| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus) | WPF/MVVM приложение для сценариев демонстраций и Markdown workflow | WPF, Prism MVVM, HandyControl |
-| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate) | NuGet-библиотека для автоматизации локализации .NET приложений | C#, .NET, RESX, LibreTranslate |
+| Проект                                                                                   | Что показывает работодателю                                                                     | Технологии                            |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, совместимые DLL, восстановление поведения legacy engine | C, C++, ASM x86, Ghidra, x32dbg       |
+| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL)                       | Генерация proxy DLL scaffold для старых Windows x86 библиотек                                   | Python, C++                           |
+| [BinNexus](https://github.com/Dvurechensky/BinNexus)                                     | Анализ DLL/EXE, граф зависимостей, export explorer, web-visualization                           | Python, JavaScript, C++, HTML/CSS     |
+| [Lizerium Server](https://github.com/Lizerium/LizeriumServer)                            | Модульная серверная платформа для портала, админки, документации и сервисов                     | ASP.NET Core MVC, EF Core, PostgreSQL |
+| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel)              | Desktop-инструмент для мониторинга, diff и синхронизации файлов                                 | .NET 8, WinForms, DiffPlex            |
+| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus)                             | WPF/MVVM приложение для сценариев демонстраций и Markdown workflow                              | WPF, Prism MVVM, HandyControl         |
+| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate)           | NuGet-библиотека для автоматизации локализации .NET приложений                                  | C#, .NET, RESX, LibreTranslate        |
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">

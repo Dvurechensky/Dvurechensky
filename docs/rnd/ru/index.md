@@ -7,24 +7,33 @@ lang: ru
 published: true
 ---
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+{% raw %}
+
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;"
+class="lang-switch">
   <strong>R&D версия резюме:</strong>
-  <a href="/Dvurechensky/ru.html" style="color: #F5F752; margin: 0 10px;">Основная RU</a>
+  <a href="/Dvurechensky/ru/" style="color: #F5F752; margin: 0 10px;">Основная RU</a>
   |
-  <a href="/Dvurechensky/rnd.html" style="color: #0891b2; margin: 0 10px;">R&D EN</a>
+  <a href="/Dvurechensky/rnd/en/" style="color: #0891b2; margin: 0 10px;">R&D EN</a>
 </div>
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+{% endraw %}
+
+{% raw %}
+
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;" class="lang-switch">
   <strong>🌐 Язык: </strong>
   
   <span style="color: #F5F752; margin: 0 10px;">
     ✅ 🇷🇺 Русский (текущий)
   </span>
   | 
-  <a href="/Dvurechensky/rnd.html" style="color: #0891b2; margin: 0 10px;">
+  <a href="/Dvurechensky/rnd/en/" style="color: #0891b2; margin: 0 10px;">
     🇺🇸 English
   </a>
 </div>
+
+{% endraw %}
 
 <div align="center">
   <picture>

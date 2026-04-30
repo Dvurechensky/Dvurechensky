@@ -316,3 +316,38 @@
 		}
 	})
 </script>
+<script>
+	;(function () {
+		const path = window.location.pathname
+
+		// определяем base автоматически
+		const parts = path.split('/').filter(Boolean)
+		const base = parts.length > 0 ? '/' + parts[0] : ''
+
+		// если уже на языке — не трогаем
+		if (
+			path.includes('/ru/') ||
+			path.includes('/en/') ||
+			path.includes('/rnd/')
+		) {
+			return
+		}
+
+		// сохранённый выбор
+		const saved = localStorage.getItem('lang')
+		if (saved) {
+			window.location.replace(base + '/' + saved + '/')
+			return
+		}
+
+		const lang = navigator.language || navigator.userLanguage
+
+		if (lang.startsWith('ru')) {
+			localStorage.setItem('lang', 'ru')
+			window.location.replace(base + '/ru/')
+		} else {
+			localStorage.setItem('lang', 'en')
+			window.location.replace(base + '/en/')
+		}
+	})()
+</script>

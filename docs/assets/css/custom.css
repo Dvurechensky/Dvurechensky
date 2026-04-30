@@ -41,11 +41,20 @@ body {
 	padding: 0;
 	min-height: 100vh;
 	background:
-		radial-gradient(circle at var(--spot-x, 50%) var(--spot-y, 0%), rgba(36, 145, 255, 0.12), transparent 32rem),
-		radial-gradient(circle at 80% 12%, rgba(245, 217, 77, 0.08), transparent 30rem),
+		radial-gradient(
+			circle at var(--spot-x, 50%) var(--spot-y, 0%),
+			rgba(36, 145, 255, 0.12),
+			transparent 32rem
+		),
+		radial-gradient(
+			circle at 80% 12%,
+			rgba(245, 217, 77, 0.08),
+			transparent 30rem
+		),
 		linear-gradient(180deg, #16171d 0%, #07090d 42%, #000 100%);
 	color: var(--text);
-	font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif;
 	text-rendering: optimizeLegibility;
 }
 
@@ -70,12 +79,20 @@ body::after {
 	pointer-events: none;
 	background:
 		linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent 16rem),
-		radial-gradient(circle at 50% 0, rgba(255, 255, 255, 0.08), transparent 34rem);
+		radial-gradient(
+			circle at 50% 0,
+			rgba(255, 255, 255, 0.08),
+			transparent 34rem
+		);
 }
 
 body.is-enhanced::after {
 	background:
-		radial-gradient(circle at var(--spot-x, 50%) var(--spot-y, 20%), rgba(64, 212, 255, 0.11), transparent 22rem),
+		radial-gradient(
+			circle at var(--spot-x, 50%) var(--spot-y, 20%),
+			rgba(64, 212, 255, 0.11),
+			transparent 22rem
+		),
 		linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent 16rem);
 }
 
@@ -111,8 +128,15 @@ body.is-enhanced::after {
 	inset: 0;
 	border-radius: inherit;
 	padding: 1px;
-	background: linear-gradient(90deg, transparent, rgba(36, 145, 255, 0.32), transparent);
-	mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+	background: linear-gradient(
+		90deg,
+		transparent,
+		rgba(36, 145, 255, 0.32),
+		transparent
+	);
+	mask:
+		linear-gradient(#000 0 0) content-box,
+		linear-gradient(#000 0 0);
 	mask-composite: exclude;
 	pointer-events: none;
 }
@@ -149,7 +173,11 @@ nav {
 	font-size: 15px;
 	font-weight: 700;
 	text-decoration: none;
-	transition: transform 0.22s ease, background 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+	transition:
+		transform 0.22s ease,
+		background 0.22s ease,
+		border-color 0.22s ease,
+		box-shadow 0.22s ease;
 }
 
 #header nav ul li a:hover {
@@ -300,7 +328,10 @@ section {
 	padding: 4px 8px;
 	border-radius: 999px;
 	text-decoration: none;
-	transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+	transition:
+		background 0.2s ease,
+		color 0.2s ease,
+		transform 0.2s ease;
 }
 
 #content > div[align='center']:nth-of-type(4) a:hover {
@@ -328,7 +359,9 @@ section {
 a {
 	color: #f6c700;
 	text-underline-offset: 0.18em;
-	transition: color 0.18s ease, text-shadow 0.18s ease;
+	transition:
+		color 0.18s ease,
+		text-shadow 0.18s ease;
 }
 
 a:hover {
@@ -408,7 +441,9 @@ a:hover {
 .reveal-ready {
 	opacity: 0;
 	transform: translateY(14px);
-	transition: opacity 0.55s ease, transform 0.55s ease;
+	transition:
+		opacity 0.55s ease,
+		transform 0.55s ease;
 }
 
 .reveal-ready.is-visible {
@@ -436,7 +471,11 @@ a:hover {
 }
 
 table th {
-	background: linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.035));
+	background: linear-gradient(
+		180deg,
+		rgba(255, 255, 255, 0.08),
+		rgba(255, 255, 255, 0.035)
+	);
 	color: #fff8c6;
 }
 
@@ -452,7 +491,9 @@ details {
 	border-radius: var(--radius);
 	background: rgba(20, 22, 26, 0.72);
 	box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
-	transition: border-color 0.2s ease, background 0.2s ease;
+	transition:
+		border-color 0.2s ease,
+		background 0.2s ease;
 }
 
 details:hover,
@@ -475,7 +516,9 @@ details summary::before {
 	position: absolute;
 	left: 0;
 	color: var(--muted);
-	transition: transform 0.2s ease, color 0.2s ease;
+	transition:
+		transform 0.2s ease,
+		color 0.2s ease;
 }
 
 details[open] summary::before {
@@ -510,8 +553,17 @@ img[alt='separator'] {
 		position: absolute;
 		inset: 0;
 		background:
-			linear-gradient(var(--shine-angle), transparent 15%, rgba(255, 255, 255, 0.07), transparent 42%),
-			radial-gradient(circle at 50% 0, rgba(36, 145, 255, 0.13), transparent 32rem);
+			linear-gradient(
+				var(--shine-angle),
+				transparent 15%,
+				rgba(255, 255, 255, 0.07),
+				transparent 42%
+			),
+			radial-gradient(
+				circle at 50% 0,
+				rgba(36, 145, 255, 0.13),
+				transparent 32rem
+			);
 		animation: hero-shine 12s linear infinite;
 		pointer-events: none;
 	}
@@ -669,4 +721,79 @@ img[alt='separator'] {
 	a {
 		color: #111;
 	}
+}
+
+.lang-switch {
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	gap: 10px !important;
+	font-size: 16px !important;
+}
+
+.lang-switch a,
+.lang-switch span {
+	display: inline-block;
+	padding: 6px 14px;
+	border-radius: 999px;
+	background: rgba(255, 255, 255, 0.05);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	backdrop-filter: blur(6px);
+
+	transition: all 0.25s ease;
+}
+
+.lang-switch span {
+	animation: none;
+}
+
+.lang-switch a {
+	color: #22d3ee !important;
+	text-decoration: none !important;
+	margin: 0 10px !important;
+	transition: 0.2s !important;
+}
+
+.lang-switch a:hover {
+	background: rgba(34, 211, 238, 0.15);
+	border-color: #22d3ee;
+	box-shadow: 0 0 10px rgba(34, 211, 238, 0.4);
+	transform: translateY(-1px);
+}
+
+.lang-switch a.active {
+	color: #f5f752;
+	font-weight: bold !important;
+	transform: scale(0.95);
+}
+
+.lang-switch span {
+	background: rgba(245, 247, 82, 0.12);
+	border-color: #f5f752;
+	box-shadow: 0 0 8px rgba(245, 247, 82, 0.4);
+}
+
+.lang-switch span:hover {
+	color: #f5f752 !important;
+}
+
+.lang-switch span.active {
+	color: #67e8f9;
+	font-weight: bold !important;
+}
+
+@keyframes pulseGlow {
+	0% {
+		box-shadow: 0 0 5px rgba(34, 211, 238, 0.3);
+	}
+	50% {
+		box-shadow: 0 0 15px rgba(34, 211, 238, 0.8);
+	}
+	100% {
+		box-shadow: 0 0 5px rgba(34, 211, 238, 0.3);
+	}
+}
+
+.lang-switch a {
+	animation: pulseGlow 2s infinite;
 }
