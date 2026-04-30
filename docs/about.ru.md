@@ -8,8 +8,6 @@
   </picture>
 </div>
 
-{% endraw %}
-
 {% raw %}
 
 <div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" class="lang-switch">
