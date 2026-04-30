@@ -9,27 +9,27 @@ published: true
 
 {% raw %}
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;"
+<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
 class="lang-switch">
   <strong>R&D resume version:</strong>
-  <a href="/Dvurechensky/en/" style="color: #0891b2; margin: 0 10px;">Main EN</a>
+  <a href="/Dvurechensky/en/">Main EN</a>
   |
-  <a href="/Dvurechensky/rnd/ru/" style="color: #F5F752; margin: 0 10px;">R&D RU</a>
+  <a href="/Dvurechensky/rnd/ru/">R&D RU</a>
 </div>
 
 {% endraw %}
 
 {% raw %}
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;"
+<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
 class="lang-switch">
   <strong>🌐 Language: </strong>
   
-  <a href="/Dvurechensky/rnd/ru/" style="color: #F5F752; margin: 0 10px;">
+  <a href="/Dvurechensky/rnd/ru/">
     🇷🇺 Russian
   </a>
   | 
-  <span style="color: #0891b2; margin: 0 10px;">
+  <span>
     ✅ 🇺🇸 English (current)
   </span>
 </div>

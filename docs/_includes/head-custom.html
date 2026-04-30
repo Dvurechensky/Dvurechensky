@@ -320,33 +320,39 @@
 	;(function () {
 		const path = window.location.pathname
 
-		// определяем base автоматически
+		if (path.includes('/ru/') || path.includes('/en/')) {
+			localStorage.setItem('lang_path', path)
+		}
+
+		document.querySelectorAll('.lang-switch a').forEach(link => {
+			link.addEventListener('click', () => {
+				localStorage.setItem('lang_path', new URL(link.href).pathname)
+			})
+		})
+	})()
+	;(function () {
+		const path = window.location.pathname
+
 		const parts = path.split('/').filter(Boolean)
 		const base = parts.length > 0 ? '/' + parts[0] : ''
 
-		// если уже на языке — не трогаем
-		if (
-			path.includes('/ru/') ||
-			path.includes('/en/') ||
-			path.includes('/rnd/')
-		) {
+		const savedPath = localStorage.getItem('lang_path')
+		if (savedPath) {
+			if (path !== savedPath) {
+				window.location.replace(savedPath)
+			}
 			return
 		}
 
-		// сохранённый выбор
-		const saved = localStorage.getItem('lang')
-		if (saved) {
-			window.location.replace(base + '/' + saved + '/')
+		if (path.includes('/ru/') || path.includes('/en/')) {
 			return
 		}
 
 		const lang = navigator.language || navigator.userLanguage
 
 		if (lang.startsWith('ru')) {
-			localStorage.setItem('lang', 'ru')
 			window.location.replace(base + '/ru/')
 		} else {
-			localStorage.setItem('lang', 'en')
 			window.location.replace(base + '/en/')
 		}
 	})()

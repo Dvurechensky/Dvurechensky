@@ -734,13 +734,18 @@ img[alt='separator'] {
 .lang-switch a,
 .lang-switch span {
 	display: inline-block;
-	padding: 6px 14px;
+	padding: 5px 12px;
 	border-radius: 999px;
 	background: rgba(255, 255, 255, 0.05);
 	border: 1px solid rgba(255, 255, 255, 0.08);
 	backdrop-filter: blur(6px);
 
 	transition: all 0.25s ease;
+}
+
+.lang-switch .current {
+	color: #f5f752 !important;
+	box-shadow: 0 0 10px rgba(245, 247, 82, 0.6);
 }
 
 .lang-switch span {
@@ -764,7 +769,6 @@ img[alt='separator'] {
 .lang-switch a.active {
 	color: #f5f752;
 	font-weight: bold !important;
-	transform: scale(0.95);
 }
 
 .lang-switch span {
@@ -782,15 +786,25 @@ img[alt='separator'] {
 	font-weight: bold !important;
 }
 
+.lang-switch a:not(:last-child)::after,
+.lang-switch span:not(:last-child)::after {
+	content: '';
+	display: inline-block;
+	width: 1px;
+	height: 16px;
+	margin: 0 8px;
+	background: rgba(255, 255, 255, 0.2);
+}
+
 @keyframes pulseGlow {
 	0% {
-		box-shadow: 0 0 5px rgba(34, 211, 238, 0.3);
+		box-shadow: 0 0 3px rgba(34, 211, 238, 0.3);
 	}
 	50% {
-		box-shadow: 0 0 15px rgba(34, 211, 238, 0.8);
+		box-shadow: 0 0 8px rgba(34, 211, 238, 0.8);
 	}
 	100% {
-		box-shadow: 0 0 5px rgba(34, 211, 238, 0.3);
+		box-shadow: 0 0 3px rgba(34, 211, 238, 0.3);
 	}
 }
 

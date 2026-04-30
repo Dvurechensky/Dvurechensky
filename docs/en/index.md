@@ -9,14 +9,14 @@ published: true
 
 {% raw %}
 
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;" 
+<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" 
 class="lang-switch">
   <strong>Language:</strong>
-  <a href="/Dvurechensky/ru/" style="color: #F5F752; margin: 0 10px;">Russian</a>
+  <a href="/Dvurechensky/ru/">Russian</a>
   |
   <span style="color: #0891b2; margin: 0 10px;">English current</span>
   |
-  <a href="/Dvurechensky/rnd/en/" style="color: #a3e635; margin: 0 10px;">R&D version</a>
+  <a href="/Dvurechensky/rnd/en/">R&D version</a>
 </div>
 
 {% endraw %}
