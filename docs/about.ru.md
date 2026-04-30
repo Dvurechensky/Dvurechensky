@@ -1,6 +1,15 @@
+---
+layout: default
+title: 'О проекте'
+description: Github путеводитель-резюме Николая Двуреченского
+date: 2025-08-23
+lang: ru
+published: true
+---
+
 <div align="center">
   <h2>
-    <span style="color:#F5F752;">About the project</span>
+    <span style="color:#F5F752;">О проекте</span>
     • Nikolai Dvurechensky
   </h2>
   <picture>
@@ -23,6 +32,8 @@
 </div>
 
 {% endraw %}
+
+[← Назад на главную](/Dvurechensky/)
 
 ## О проекте
 
@@ -64,8 +75,33 @@
 - исследовать системы глубоко, а не поверхностно
 - создавать переиспользуемые и расширяемые решения
 
-> [!TIP]
-> Все инструменты работают без установки и доступны прямо в браузере.
+<div class="alert tip">
+  <b>🈲</b><br>
+  Все инструменты работают без установки и доступны прямо в браузере.
+</div>
 
-> [!NOTE]
-> Проект активно развивается и является одновременно публичным набором инструментов и исследовательской платформой.
+<div class="alert tip">
+  <b>🈳</b><br>
+  Проект активно развивается и является одновременно публичным набором инструментов и исследовательской платформой.
+</div>
+
+[← Назад на главную](/Dvurechensky/)
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <br><br>
+  <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

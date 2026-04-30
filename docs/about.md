@@ -1,3 +1,12 @@
+---
+layout: default
+title: 'Николай Двуреченский 👋'
+description: Github путеводитель-резюме Николая Двуреченского
+date: 2025-08-23
+lang: ru
+published: true
+---
+
 <div align="center">
   <h2>
     <span style="color:#F5F752;">About the project</span>
@@ -24,6 +33,8 @@ class="lang-switch">
 </div>
 
 {% endraw %}
+
+[← Back to Home](/Dvurechensky/)
 
 This website was created by Nikolay Dvurechensky.
 
@@ -63,8 +74,33 @@ The goal of this platform is to:
 - explore systems deeply rather than superficially
 - build reusable and extensible solutions
 
-> [!TIP]
-> All tools are designed to work without installation and can be used directly in the browser.
+<div class="alert tip">
+  <b>🈲</b><br>
+  All tools are designed to work without installation and can be used directly in the browser.
+</div>
 
-> [!NOTE]
-> The project is actively evolving and serves both as a public toolkit and a research platform.
+<div class="alert tip">
+  <b>🈳</b><br>
+  The project is actively evolving and serves both as a public toolkit and a research platform.
+</div>
+
+[← Back to Home](/Dvurechensky/)
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
+  <a href="{{ site.baseurl }}/contact.html">Contact</a>
+  <br><br>
+  <span>This website provides tools and technical resources for developers.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

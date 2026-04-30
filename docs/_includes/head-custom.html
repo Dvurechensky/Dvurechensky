@@ -318,60 +318,68 @@
 </script>
 <script>
 	;(function () {
-		const path = window.location.pathname
-		const savedLang = localStorage.getItem('lang') // 'ru' or 'en'
+		document.querySelectorAll('.lang-switch a').forEach(link => {
+			link.addEventListener('click', () => {
+				const path = new URL(link.href).pathname
+				const lang = detectLang(path)
 
-		// check lang
-		let lang = savedLang
+				if (lang) {
+					localStorage.setItem('lang', lang)
+				}
+			})
+		})
+	})()
+	;(function () {
+		function detectLang(path) {
+			// папки
+			if (path.includes('/ru/')) return 'ru'
+			if (path.includes('/en/')) return 'en'
+
+			// файлы
+			if (path.endsWith('.ru.html')) return 'ru'
+			if (path.endsWith('.html')) return 'en'
+
+			return null
+		}
+
+		// 🔹 1. СИНХРОНИЗАЦИЯ С URL (ГЛАВНОЕ)
+		const path = window.location.pathname
+		const urlLang = detectLang(path)
+
+		if (urlLang) {
+			localStorage.setItem('lang', urlLang)
+		}
+
+		// 🔹 2. КЛИК ПО ПЕРЕКЛЮЧАТЕЛЮ
+		document.querySelectorAll('.lang-switch a').forEach(link => {
+			link.addEventListener('click', () => {
+				const targetPath = new URL(link.href).pathname
+				const lang = detectLang(targetPath)
+
+				if (lang) {
+					localStorage.setItem('lang', lang)
+				}
+			})
+		})
+
+		// 🔹 3. РЕДИРЕКТ ТОЛЬКО НА КОРНЕ
+		const isRoot =
+			path === '/' || path === '/Dvurechensky/' || path === '/Dvurechensky'
+
+		if (!isRoot) return
+
+		let lang = localStorage.getItem('lang')
 
 		if (!lang) {
-			const browserLang = navigator.language || navigator.userLanguage
+			const browserLang = navigator.language || ''
 			lang = browserLang.startsWith('ru') ? 'ru' : 'en'
 			localStorage.setItem('lang', lang)
 		}
 
-		// save lang to ru page
-		if (path.includes('.ru.html')) {
-			localStorage.setItem('lang', 'ru')
-			return
-		}
-
-		if (!path.includes('.ru.html') && path.endsWith('.html')) {
-			localStorage.setItem('lang', 'en')
-		}
-
-		// main pages
-		const isRoot =
-			path === '/' ||
-			path.endsWith('/Dvurechensky/') ||
-			path.endsWith('/Dvurechensky')
-
-		if (isRoot) {
-			if (lang === 'ru') {
-				window.location.replace('/Dvurechensky/ru/')
-			} else {
-				window.location.replace('/Dvurechensky/en/')
-			}
-			return
-		}
-
-		// other pages
-		const pages = ['about', 'contact', 'privacy']
-
-		for (const page of pages) {
-			if (path.endsWith(`/${page}.html`)) {
-				if (lang === 'ru') {
-					window.location.replace(`/${page}.ru.html`)
-				}
-				return
-			}
-
-			if (path.endsWith(`/${page}.ru.html`)) {
-				if (lang === 'en') {
-					window.location.replace(`/${page}.html`)
-				}
-				return
-			}
+		if (lang === 'ru') {
+			window.location.replace('/Dvurechensky/ru/')
+		} else {
+			window.location.replace('/Dvurechensky/en/')
 		}
 	})()
 </script>

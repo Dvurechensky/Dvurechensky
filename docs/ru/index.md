@@ -7,19 +7,6 @@ lang: ru
 published: true
 ---
 
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" class="lang-switch">
-  <strong>Language:</strong>
-  <span>Russian current</span>
-  |
-  <a href="/Dvurechensky/en/">English</a>
-  |
-  <a href="/Dvurechensky/rnd/ru/">R&D версия</a>
-</div>
-
-{% endraw %}
-
 <div align="center">
   <picture>
     <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px" alt="Nikolai Dvurechensky">
@@ -28,9 +15,26 @@ published: true
     Привет, я <span style="color:#F5F752;">Николай Двуреченский</span><br>
     Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
+
+  <div align="center">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+  </div>
+
   <h4>Инженер для сложных систем, legacy, backend-платформ, tooling и R&D-задач</h4>
   <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
 </div>
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <span>✅ 🇷🇺</span>
+  |
+  <a href="/Dvurechensky/en/">🇺🇸</a>
+  |
+  <a href="/Dvurechensky/rnd/ru/">R&D</a>
+</div>
+
+{% endraw %}
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -206,4 +210,18 @@ published: true
 - [Открыть R&D версию](/Dvurechensky/rnd.ru.html)
 - [Open English version](/Dvurechensky/)
 
-> 2026
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
+  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <br><br>
+  <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

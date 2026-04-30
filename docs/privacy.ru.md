@@ -1,3 +1,12 @@
+---
+layout: default
+title: 'Политика конфиденциальности'
+description: Github путеводитель-резюме Николая Двуреченского
+date: 2025-08-23
+lang: ru
+published: true
+---
+
 <div align="center">
   <h2>
     <span style="color:#F5F752;">Политика конфиденциальности</span>
@@ -23,6 +32,8 @@
 </div>
 
 {% endraw %}
+
+[← Назад на главную](/Dvurechensky/)
 
 Настоящая политика конфиденциальности описывает, как используется информация на данном сайте.
 
@@ -83,3 +94,24 @@
 Политика конфиденциальности может обновляться без предварительного уведомления.
 
 Актуальная версия всегда доступна на данной странице.
+
+[← Назад на главную](/Dvurechensky/)
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
+  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <br><br>
+  <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

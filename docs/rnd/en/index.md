@@ -7,35 +7,6 @@ lang: en
 published: true
 ---
 
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
-class="lang-switch">
-  <strong>R&D resume version:</strong>
-  <a href="/Dvurechensky/en/">Main EN</a>
-  |
-  <a href="/Dvurechensky/rnd/ru/">R&D RU</a>
-</div>
-
-{% endraw %}
-
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
-class="lang-switch">
-  <strong>🌐 Language: </strong>
-  
-  <a href="/Dvurechensky/rnd/ru/">
-    🇷🇺 Russian
-  </a>
-  | 
-  <span>
-    ✅ 🇺🇸 English (current)
-  </span>
-</div>
-
-{% endraw %}
-
 <div align="center">
   <picture>
     <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px">
@@ -44,9 +15,13 @@ class="lang-switch">
   Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
   Systems Engineer • Reverse Developer • Full Stack Engineer
   </h2>
+
+  <div align="center">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+  </div>
+
   <h4>
-  Available for <b>strong</b> teams &
-  <u><b>interesting products</b></u>
+  <u>Available for <b>strong</b> teams</u>
 </h4>
 
 <span>
@@ -61,6 +36,30 @@ class="lang-switch">
   Windows
 </span>
 </div>
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <a class="back" href="/Dvurechensky/en/">← Go to main</a>
+</div>
+
+{% endraw %}
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <strong>R&D:</strong>
+  <a href="/Dvurechensky/rnd/ru/">
+    🇷🇺
+  </a>
+  | 
+  <span>
+    ✅ 🇺🇸
+  </span>
+</div>
+
+{% endraw %}
+
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
@@ -761,4 +760,18 @@ Rota
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-> 2026
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.html">About</a> ·
+  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
+  <a href="{{ site.baseurl }}/contact.html">Contact</a>
+  <br><br>
+  <span>This website provides tools and technical resources for developers.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

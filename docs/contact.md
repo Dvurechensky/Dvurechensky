@@ -1,3 +1,12 @@
+---
+layout: default
+title: 'Contacts'
+description: Github путеводитель-резюме Николая Двуреченского
+date: 2025-08-23
+lang: ru
+published: true
+---
+
 <div align="center">
   <h2>
     <span style="color:#F5F752;">Contacts</span>
@@ -24,6 +33,8 @@ class="lang-switch">
 </div>
 
 {% endraw %}
+
+[← Back to Home](/Dvurechensky/)
 
 ### ◇ Main Links
 
@@ -62,8 +73,29 @@ class="lang-switch">
 
 - [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
-> [!TIP]
-> All links are official profiles and can be used for direct contact or project navigation.
+<div class="alert tip">
+  <b>🈲</b><br>
+  All links are official profiles and can be used for direct contact or project navigation.
+</div>
 
-> [!NOTE]
-> For collaboration or technical inquiries, use Telegram or GitHub as primary channels.
+<div class="alert tip">
+  <b>🈳</b><br>
+  For collaboration or technical inquiries, use Telegram or GitHub as primary channels.
+</div>
+
+[← Back to Home](/Dvurechensky/)
+
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.html">About</a> ·
+  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
+  <br><br>
+  <span>This website provides tools and technical resources for developers.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

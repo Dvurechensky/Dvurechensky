@@ -7,20 +7,6 @@ lang: en
 published: true
 ---
 
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" 
-class="lang-switch">
-  <strong>Language:</strong>
-  <a href="/Dvurechensky/ru/">Russian</a>
-  |
-  <span style="color: #0891b2; margin: 0 10px;">English current</span>
-  |
-  <a href="/Dvurechensky/rnd/en/">R&D version</a>
-</div>
-
-{% endraw %}
-
 <div align="center">
   <picture>
     <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px" alt="Nikolai Dvurechensky">
@@ -29,9 +15,26 @@ class="lang-switch">
     Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
     Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
+
+  <div align="center">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+  </div>
+
   <h4>Engineer for complex systems, legacy code, backend platforms, tooling, and R&D-heavy work</h4>
   <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
 </div>
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <a href="/Dvurechensky/ru/">🇷🇺</a>
+  |
+  <span style="color: #0891b2; margin: 0 10px;">✅ 🇺🇸</span>
+  |
+  <a href="/Dvurechensky/rnd/en/">R&D</a>
+</div>
+
+{% endraw %}
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -207,4 +210,18 @@ This is the main HR/product-oriented resume. A fuller experimental version with 
 - [Open R&D version](/Dvurechensky/rnd.html)
 - [Открыть русскую версию](/Dvurechensky/ru.html)
 
-> 2026
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.html">About</a> ·
+  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
+  <a href="{{ site.baseurl }}/contact.html">Contact</a>
+  <br><br>
+  <span>This website provides tools and technical resources for developers.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>

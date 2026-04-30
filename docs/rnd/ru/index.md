@@ -7,34 +7,6 @@ lang: ru
 published: true
 ---
 
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
-class="lang-switch">
-  <strong>R&D версия резюме:</strong>
-  <a href="/Dvurechensky/ru/">Основная RU</a>
-  |
-  <a href="/Dvurechensky/rnd/en/">R&D EN</a>
-</div>
-
-{% endraw %}
-
-{% raw %}
-
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" class="lang-switch">
-  <strong>🌐 Язык: </strong>
-  
-  <span>
-    ✅ 🇷🇺 Русский (текущий)
-  </span>
-  | 
-  <a href="/Dvurechensky/rnd/en/">
-    🇺🇸 English
-  </a>
-</div>
-
-{% endraw %}
-
 <div align="center">
   <picture>
     <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/me.gif?raw=true" width="150px">
@@ -43,7 +15,12 @@ class="lang-switch">
   Привет, я <span style="color:#F5F752;">Николай Двуреченский</span><br>
   Systems Engineer • Reverse Developer • Full Stack Engineer
   </h2>
-  <h4>Открыт для <b>сильных</b> команд и <u><b>интересных продуктов</b></u></h4>
+
+  <div align="center">
+    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+  </div>
+
+  <h4><u>Открыт для <b>сильных</b> команд</u></h4>
 
   <span>
     <b>.NET</b> • 
@@ -57,6 +34,29 @@ class="lang-switch">
     Windows
   </span>
 </div>
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <a class="back" href="/Dvurechensky/ru/">← На главную</a>
+</div>
+
+{% endraw %}
+
+{% raw %}
+
+<div align="center" class="lang-switch"> 
+  <strong>R&D:</strong>
+  <span>
+    ✅ 🇷🇺
+  </span>
+  | 
+  <a href="/Dvurechensky/rnd/en/">
+    🇺🇸
+  </a>
+</div>
+
+{% endraw %}
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -750,4 +750,18 @@ Rota
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-> 2026
+<div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
+  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
+  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <br><br>
+  <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  2026
+</div>
