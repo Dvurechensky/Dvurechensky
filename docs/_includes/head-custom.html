@@ -319,41 +319,59 @@
 <script>
 	;(function () {
 		const path = window.location.pathname
+		const savedLang = localStorage.getItem('lang') // 'ru' or 'en'
 
-		if (path.includes('/ru/') || path.includes('/en/')) {
-			localStorage.setItem('lang_path', path)
+		// check lang
+		let lang = savedLang
+
+		if (!lang) {
+			const browserLang = navigator.language || navigator.userLanguage
+			lang = browserLang.startsWith('ru') ? 'ru' : 'en'
+			localStorage.setItem('lang', lang)
 		}
 
-		document.querySelectorAll('.lang-switch a').forEach(link => {
-			link.addEventListener('click', () => {
-				localStorage.setItem('lang_path', new URL(link.href).pathname)
-			})
-		})
-	})()
-	;(function () {
-		const path = window.location.pathname
+		// save lang to ru page
+		if (path.includes('.ru.html')) {
+			localStorage.setItem('lang', 'ru')
+			return
+		}
 
-		const parts = path.split('/').filter(Boolean)
-		const base = parts.length > 0 ? '/' + parts[0] : ''
+		if (!path.includes('.ru.html') && path.endsWith('.html')) {
+			localStorage.setItem('lang', 'en')
+		}
 
-		const savedPath = localStorage.getItem('lang_path')
-		if (savedPath) {
-			if (path !== savedPath) {
-				window.location.replace(savedPath)
+		// main pages
+		const isRoot =
+			path === '/' ||
+			path.endsWith('/Dvurechensky/') ||
+			path.endsWith('/Dvurechensky')
+
+		if (isRoot) {
+			if (lang === 'ru') {
+				window.location.replace('/Dvurechensky/ru/')
+			} else {
+				window.location.replace('/Dvurechensky/en/')
 			}
 			return
 		}
 
-		if (path.includes('/ru/') || path.includes('/en/')) {
-			return
-		}
+		// other pages
+		const pages = ['about', 'contact', 'privacy']
 
-		const lang = navigator.language || navigator.userLanguage
+		for (const page of pages) {
+			if (path.endsWith(`/${page}.html`)) {
+				if (lang === 'ru') {
+					window.location.replace(`/${page}.ru.html`)
+				}
+				return
+			}
 
-		if (lang.startsWith('ru')) {
-			window.location.replace(base + '/ru/')
-		} else {
-			window.location.replace(base + '/en/')
+			if (path.endsWith(`/${page}.ru.html`)) {
+				if (lang === 'en') {
+					window.location.replace(`/${page}.html`)
+				}
+				return
+			}
 		}
 	})()
 </script>
