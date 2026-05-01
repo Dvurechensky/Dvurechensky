@@ -584,11 +584,11 @@ graph TD
 - [ ◇ ] `Рост экосистемы GitHub`
 - [ ◇ ] `Возможности для разработки продуктов`
 
-<div align="center">
+<div  class="stats" align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
-<div align="center">
+<div class="stats" align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=false&hide_border=true&theme=github_dark&include_all_commits=true"
     alt="GitHub Stats"
