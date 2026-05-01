@@ -277,10 +277,6 @@ section {
 	margin: 0 auto;
 }
 
-div > img {
-	width: 100%;
-}
-
 #content > div[align='center']:first-child {
 	display: flex;
 	flex-wrap: wrap;
@@ -621,6 +617,10 @@ img[alt='separator'] {
 ========================== */
 
 @media print, screen and (max-width: 768px) {
+	div > img {
+		width: 100%;
+	}
+
 	html {
 		scroll-padding-top: 94px;
 		width: 100%;
@@ -702,6 +702,10 @@ img[alt='separator'] {
 }
 
 @media (max-width: 480px) {
+	div > img {
+		width: 100%;
+	}
+
 	html {
 		scroll-padding-top: 94px;
 		width: 100%;

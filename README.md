@@ -13,7 +13,7 @@
   </picture>
   <h2>
     Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
-    Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
+    Systems Engineer • NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
   <h4>Engineer for complex systems, legacy code, backend platforms, tooling, and R&D-heavy work</h4>
   <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
@@ -117,6 +117,7 @@ I am especially useful where a product needs an engineer who can:
 ## Experience
 
 ### OXSIONSOFT / Lizerium
+
 **Unity Developer**  
 **March 2021 - 2026, 5+ years**
 
@@ -126,6 +127,7 @@ I am especially useful where a product needs an engineer who can:
 - Stack: Unity3D, C#, HDRP, VFX Graph, Zenject, Addressables, Photon, Docker, Blender, Substance, Photoshop.
 
 ### Moscow Institute of Psychoanalysis
+
 **Technical Specialist**  
 **February 2020 - Present, 6+ years**
 
@@ -134,6 +136,7 @@ I am especially useful where a product needs an engineer who can:
 - Stack: Windows, macOS, MTS-Link, user diagnostics, live-event support.
 
 ### NPC Reagent / SIGMA / CMK Consulting
+
 **.NET Developer**  
 **2019 - 2025, 5+ years total**
 
@@ -144,6 +147,7 @@ I am especially useful where a product needs an engineer who can:
 - CI/CD and build automation with Jenkins, Git/SVN.
 
 ### Freelancer Rebirth
+
 **C++ Developer**  
 **November 2020 - November 2023, 3 years**
 
@@ -153,6 +157,7 @@ I am especially useful where a product needs an engineer who can:
 - Stack: C++, Boost, x86 Assembly, Git, legacy Windows tooling.
 
 ### InterEVM / CITIS
+
 **Systems Engineer**  
 **February 2020 - June 2023, 3+ years**
 
@@ -161,6 +166,7 @@ I am especially useful where a product needs an engineer who can:
 - Worked across Astra Linux, Ubuntu, Debian, and Windows environments.
 
 ### Earlier Roles
+
 **2017 - 2020**
 
 - Automation engineer: Siemens controllers, SCADA, embedded systems.
@@ -174,18 +180,18 @@ I am especially useful where a product needs an engineer who can:
 
 ## Selected Projects
 
-| Project | What it proves | Technologies |
-|---|---|---|
-| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, compatible DLLs, legacy engine behavior recovery | C, C++, ASM x86, Ghidra, x32dbg |
-| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL) | Proxy DLL scaffold generation for old Windows x86 libraries | Python, C++ |
-| [BinNexus](https://github.com/Dvurechensky/BinNexus) | DLL/EXE analysis, dependency graph, export explorer, web visualization | Python, JavaScript, C++, HTML/CSS |
-| [Lizerium Server](https://github.com/Lizerium/LizeriumServer) | Modular server platform for portal, admin, documentation, and services | ASP.NET Core MVC, EF Core, PostgreSQL |
-| [Lizerium / Freelancer Lizerium](https://lizup.ru/Home/Game) | C++/ASM game server engineering, 50+ plugin ecosystem, multiplayer tooling | C++, ASM x86, WPF, .NET |
-| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel) | Desktop tool for file monitoring, diff, and synchronization | .NET 8, WinForms, DiffPlex |
-| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus) | WPF/MVVM app for demo scenarios and Markdown workflow | WPF, Prism MVVM, HandyControl |
-| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate) | NuGet library for automated .NET localization | C#, .NET, RESX, LibreTranslate |
-| [Telegram Bot Template](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Clean layered architecture for scalable Telegram bots | Python, asyncio, APIs |
-| [NetCoreTemplate](https://github.com/Dvurechensky-Templates/NetCoreTemplate) | Base for ASP.NET Core MVC projects | ASP.NET Core, TypeScript |
+| Project                                                                                  | What it proves                                                                           | Technologies                          |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, compatible DLLs, legacy engine behavior recovery | C, C++, ASM x86, Ghidra, x32dbg       |
+| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL)                       | Proxy DLL scaffold generation for old Windows x86 libraries                              | Python, C++                           |
+| [BinNexus](https://github.com/Dvurechensky/BinNexus)                                     | DLL/EXE analysis, dependency graph, export explorer, web visualization                   | Python, JavaScript, C++, HTML/CSS     |
+| [Lizerium Server](https://github.com/Lizerium/LizeriumServer)                            | Modular server platform for portal, admin, documentation, and services                   | ASP.NET Core MVC, EF Core, PostgreSQL |
+| [Lizerium / Freelancer Lizerium](https://lizup.ru/Home/Game)                             | C++/ASM game server engineering, 50+ plugin ecosystem, multiplayer tooling               | C++, ASM x86, WPF, .NET               |
+| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel)              | Desktop tool for file monitoring, diff, and synchronization                              | .NET 8, WinForms, DiffPlex            |
+| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus)                             | WPF/MVVM app for demo scenarios and Markdown workflow                                    | WPF, Prism MVVM, HandyControl         |
+| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate)           | NuGet library for automated .NET localization                                            | C#, .NET, RESX, LibreTranslate        |
+| [Telegram Bot Template](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)   | Clean layered architecture for scalable Telegram bots                                    | Python, asyncio, APIs                 |
+| [NetCoreTemplate](https://github.com/Dvurechensky-Templates/NetCoreTemplate)             | Base for ASP.NET Core MVC projects                                                       | ASP.NET Core, TypeScript              |
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">

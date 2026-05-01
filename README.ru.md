@@ -13,7 +13,7 @@
   </picture>
   <h2>
     Привет, я <span style="color:#F5F752;">Николай Двуреченский</span><br>
-    Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
+    Systems Engineer • NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
   <h4>Инженер для сложных систем, legacy, backend-платформ, tooling и R&D-задач</h4>
   <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
@@ -117,6 +117,7 @@
 ## Опыт работы
 
 ### OXSIONSOFT / Lizerium
+
 **Unity Developer**  
 **Март 2021 - 2026, 5+ лет**
 
@@ -126,6 +127,7 @@
 - Стек: Unity3D, C#, HDRP, VFX Graph, Zenject, Addressables, Photon, Docker, Blender, Substance, Photoshop.
 
 ### Московский институт психоанализа
+
 **Технический специалист**  
 **Февраль 2020 - настоящее время, 6+ лет**
 
@@ -134,6 +136,7 @@
 - Стек: Windows, macOS, MTS-Link, пользовательская диагностика, поддержка live-событий.
 
 ### NPC Reagent / SIGMA / CMK Consulting
+
 **.NET Developer**  
 **2019 - 2025, 5+ лет суммарно**
 
@@ -144,6 +147,7 @@
 - CI/CD и сборки через Jenkins, работа с Git/SVN.
 
 ### Freelancer Rebirth
+
 **C++ Developer**  
 **Ноябрь 2020 - ноябрь 2023, 3 года**
 
@@ -153,6 +157,7 @@
 - Стек: C++, Boost, Assembler x86, Git, legacy Windows tooling.
 
 ### ИнтерЭВМ / ЦИТиС
+
 **Системный инженер**  
 **Февраль 2020 - июнь 2023, 3+ года**
 
@@ -161,6 +166,7 @@
 - Работа в окружениях Astra Linux, Ubuntu, Debian, Windows.
 
 ### Ранние роли
+
 **2017 - 2020**
 
 - Инженер по автоматизации: Siemens controllers, SCADA, embedded systems.
@@ -174,18 +180,18 @@
 
 ## Избранные проекты
 
-| Проект | Что показывает работодателю | Технологии |
-|---|---|---|
-| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, совместимые DLL, восстановление поведения legacy engine | C, C++, ASM x86, Ghidra, x32dbg |
-| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL) | Генерация proxy DLL scaffold для старых Windows x86 библиотек | Python, C++ |
-| [BinNexus](https://github.com/Dvurechensky/BinNexus) | Анализ DLL/EXE, граф зависимостей, export explorer, web-visualization | Python, JavaScript, C++, HTML/CSS |
-| [Lizerium Server](https://github.com/Lizerium/LizeriumServer) | Модульная серверная платформа для портала, админки, документации и сервисов | ASP.NET Core MVC, EF Core, PostgreSQL |
-| [Lizerium / Freelancer Lizerium](https://lizup.ru/Home/Game) | C++/ASM game server engineering, 50+ plugin ecosystem, multiplayer tooling | C++, ASM x86, WPF, .NET |
-| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel) | Desktop-инструмент для мониторинга, diff и синхронизации файлов | .NET 8, WinForms, DiffPlex |
-| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus) | WPF/MVVM приложение для сценариев демонстраций и Markdown workflow | WPF, Prism MVVM, HandyControl |
-| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate) | NuGet-библиотека для автоматизации локализации .NET приложений | C#, .NET, RESX, LibreTranslate |
-| [Telegram Bot Template](https://github.com/Dvurechensky-Templates/TelegramBotTemplate) | Чистая многослойная архитектура для масштабируемых Telegram-ботов | Python, asyncio, APIs |
-| [NetCoreTemplate](https://github.com/Dvurechensky-Templates/NetCoreTemplate) | База для ASP.NET Core MVC проектов | ASP.NET Core, TypeScript |
+| Проект                                                                                   | Что показывает работодателю                                                                     | Технологии                            |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Freelancer.Reverse.Runtime](https://github.com/Dvurechensky/Freelancer.Reverse.Runtime) | Reverse engineering, C++ runtime layer, совместимые DLL, восстановление поведения legacy engine | C, C++, ASM x86, Ghidra, x32dbg       |
+| [ReverseProxyDLL](https://github.com/Dvurechensky/ReverseProxyDLL)                       | Генерация proxy DLL scaffold для старых Windows x86 библиотек                                   | Python, C++                           |
+| [BinNexus](https://github.com/Dvurechensky/BinNexus)                                     | Анализ DLL/EXE, граф зависимостей, export explorer, web-visualization                           | Python, JavaScript, C++, HTML/CSS     |
+| [Lizerium Server](https://github.com/Lizerium/LizeriumServer)                            | Модульная серверная платформа для портала, админки, документации и сервисов                     | ASP.NET Core MVC, EF Core, PostgreSQL |
+| [Lizerium / Freelancer Lizerium](https://lizup.ru/Home/Game)                             | C++/ASM game server engineering, 50+ plugin ecosystem, multiplayer tooling                      | C++, ASM x86, WPF, .NET               |
+| [FileSync Sentinel](https://github.com/Dvurechensky-Tools/FileSyncSentinel)              | Desktop-инструмент для мониторинга, diff и синхронизации файлов                                 | .NET 8, WinForms, DiffPlex            |
+| [Herodotus](https://github.com/Dvurechensky-Tools/Heradotus)                             | WPF/MVVM приложение для сценариев демонстраций и Markdown workflow                              | WPF, Prism MVVM, HandyControl         |
+| [LibreResxTranslate](https://github.com/Dvurechensky-Tools/LibreResxTranslate)           | NuGet-библиотека для автоматизации локализации .NET приложений                                  | C#, .NET, RESX, LibreTranslate        |
+| [Telegram Bot Template](https://github.com/Dvurechensky-Templates/TelegramBotTemplate)   | Чистая многослойная архитектура для масштабируемых Telegram-ботов                               | Python, asyncio, APIs                 |
+| [NetCoreTemplate](https://github.com/Dvurechensky-Templates/NetCoreTemplate)             | База для ASP.NET Core MVC проектов                                                              | ASP.NET Core, TypeScript              |
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
