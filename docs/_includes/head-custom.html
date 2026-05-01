@@ -343,22 +343,6 @@
 			return null
 		}
 
-		if (
-			location.hostname !== 'dvurechensky.pro' &&
-			location.hostname !== 'localhost' &&
-			location.hostname !== '127.0.0.1'
-		) {
-			const canonicalPath =
-				location.pathname.replace(/^\/Dvurechensky(?=\/|$)/, '') || '/'
-			window.location.replace(
-				'https://dvurechensky.pro' +
-					canonicalPath +
-					location.search +
-					location.hash
-			)
-			return
-		}
-
 		// 🔹 1. СИНХРОНИЗАЦИЯ С URL (ГЛАВНОЕ)
 		const path = window.location.pathname
 		const urlLang = detectLang(path)
@@ -380,7 +364,9 @@
 		})
 
 		// 🔹 3. РЕДИРЕКТ ТОЛЬКО НА КОРНЕ
-		const isRoot = path === '/'
+		const isGithubPagesRoot =
+			path === '/Dvurechensky/' || path === '/Dvurechensky'
+		const isRoot = path === '/' || isGithubPagesRoot
 
 		if (!isRoot) return
 
@@ -392,10 +378,12 @@
 			localStorage.setItem('lang', lang)
 		}
 
+		const basePath = isGithubPagesRoot ? '/Dvurechensky' : ''
+
 		if (lang === 'ru') {
-			window.location.replace('https://dvurechensky.pro/ru/')
+			window.location.replace(basePath + '/ru/')
 		} else {
-			window.location.replace('https://dvurechensky.pro/en/')
+			window.location.replace(basePath + '/en/')
 		}
 	})()
 </script>
