@@ -28,9 +28,9 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="/Dvurechensky/">← Back to Home</a>
+  <a class="back" href="https://dvurechensky.pro/">← Back to Home</a>
   
-  <a href="/Dvurechensky/contact.ru.html">
+  <a href="https://dvurechensky.pro/contact.ru.html">
     🇷🇺
   </a>
   | 
@@ -83,11 +83,11 @@ published: true
   All links are <code>official profiles</code> and can be used for <code>direct contact</code> or <code>project navigation</code>.
 </div>
 
-[← Back to Home](/Dvurechensky/)
+[← Back to Home](https://dvurechensky.pro/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/about.html">About</a> ·
-  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
+  <a href="https://dvurechensky.pro/about.html">About</a> ·
+  <a href="https://dvurechensky.pro/privacy.html">Privacy</a> ·
   <br><br>
   <span>This website provides <code>tools</code> and <code>technical resources</code> for developers.</span>
 </div>

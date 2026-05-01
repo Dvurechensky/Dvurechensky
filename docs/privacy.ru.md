@@ -27,13 +27,13 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="/Dvurechensky/">← Назад на главную</a>
+  <a class="back" href="https://dvurechensky.pro/">← Назад на главную</a>
 
   <span>
     ✅ 🇷🇺
   </span>
   | 
-  <a href="/Dvurechensky/privacy.html">
+  <a href="https://dvurechensky.pro/privacy.html">
     🇺🇸
   </a>
 </div>
@@ -100,15 +100,15 @@ published: true
 
 `Актуальная версия` всегда доступна на данной странице.
 
-[← Назад на главную](/Dvurechensky/)
+[← Назад на главную](https://dvurechensky.pro/)
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
-  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
 </div>
 
 <div align="center">

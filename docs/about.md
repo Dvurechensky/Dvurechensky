@@ -28,9 +28,9 @@ published: true
 </div>
 
 <div align="center" class="lang-switch">
-  <a class="back" href="/Dvurechensky/">← Back to Home</a>
+  <a class="back" href="https://dvurechensky.pro/">← Back to Home</a>
   
-  <a href="/Dvurechensky/about.ru.html">
+  <a href="https://dvurechensky.pro/about.ru.html">
     🇷🇺
   </a>
   | 
@@ -84,15 +84,15 @@ The goal of this platform is to:
   All <code>tools</code> are designed to work <code>without installation</code> and can be used directly in the <code>browser</code>.
 </div>
 
-[← Back to Home](/Dvurechensky/)
+[← Back to Home](https://dvurechensky.pro/)
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
-  <a href="{{ site.baseurl }}/contact.html">Contact</a>
+  <a href="https://dvurechensky.pro/privacy.html">Privacy</a> ·
+  <a href="https://dvurechensky.pro/contact.html">Contact</a>
   <br><br>
   <span>This website provides <code>tools</code> and <code>technical resources</code> for developers.</span>
 </div>

@@ -29,9 +29,9 @@ published: true
   <div align="center" class="lang-switch">
     <span>✅ 🇷🇺</span>
     |
-    <a href="/Dvurechensky/en/">🇺🇸</a>
+    <a href="https://dvurechensky.pro/en/">🇺🇸</a>
     |
-    <a href="/Dvurechensky/rnd/ru/">R&D</a>
+    <a href="https://dvurechensky.pro/rnd/ru/">R&D</a>
   </div>
 
 </div>
@@ -209,13 +209,13 @@ published: true
 
 Это основная `HR/product-oriented версия` резюме. Более полная `экспериментальная версия` со старым `GitHub-дизайном`, `диаграммами`, `social-блоками` и `расширенным каталогом проектов` сохранена отдельно:
 
-- [Открыть R&D версию](/Dvurechensky/rnd/ru/)
-- [Open English version](/Dvurechensky/en/)
+- [Открыть R&D версию](https://dvurechensky.pro/rnd/ru/)
+- [Open English version](https://dvurechensky.pro/en/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
-  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
-  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
   <br><br>
   <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
 </div>

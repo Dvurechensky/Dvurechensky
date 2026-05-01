@@ -28,12 +28,12 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="/Dvurechensky/">← Назад на главную</a>
+  <a class="back" href="https://dvurechensky.pro/">← Назад на главную</a>
   <span>
     ✅ 🇷🇺
   </span>
   | 
-  <a href="/Dvurechensky/about.html">
+  <a href="https://dvurechensky.pro/about.html">
     🇺🇸
   </a>
 </div>
@@ -85,15 +85,15 @@ published: true
   Все <code>инструменты</code> работают <code>без установки</code> и доступны прямо в <code>браузере</code>.
 </div>
 
-[← Назад на главную](/Dvurechensky/)
+[← Назад на главную](https://dvurechensky.pro/)
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
-  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
   <br><br>
   <span>Сайт предоставляет <code>инструменты</code> и <code>технические ресурсы</code> для разработчиков.</span>
 </div>

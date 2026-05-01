@@ -1,13 +1,14 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
 <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
 <link
 	rel="icon"
 	type="image/png"
-	href="https://dvurechensky.github.io/Dvurechensky/assets/favicon.png"
+	href="{{ '/assets/favicon.png' | absolute_url }}"
 />
 <link
 	rel="shortcut icon"
-	href="https://dvurechensky.github.io/Dvurechensky/assets/favicon.png"
+	href="{{ '/assets/favicon.png' | absolute_url }}"
 />
 <meta
 	name="keywords"
@@ -40,7 +41,7 @@
 	property="og:image"
 	content="https://avatars.githubusercontent.com/u/46356631?v=4"
 />
-<meta property="og:url" content="https://dvurechensky.pro" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Dvurechensky Pro" />
 <!-- Управление роботами -->
@@ -65,7 +66,7 @@
 				"@type": "ListItem",
 				"position": 1,
 				"name": "Главная",
-				"item": "https://dvurechensky.github.io/Dvurechensky/"
+				"item": "{{ '/' | absolute_url }}"
 			}
 		]
 	}
@@ -76,7 +77,7 @@
 		"@graph": [
 			{
 				"@type": "Person",
-				"@id": "{{page.url}}#person",
+				"@id": "{{ page.url | absolute_url }}#person",
 				"name": "Dvurechensky Pro",
 				"alternateName": ["Lizerium", "Unifier", "Rota", "Dvurechensky"],
 				"url": "https://github.com/Dvurechensky",
@@ -123,7 +124,7 @@
 				"jobTitle": "Software Engineer, Founder of Unifier and Lizerium",
 				"description": "Full-stack .NET & TypeScript developer. Опыт в ASP.NET Core, RabbitMQ, PostgreSQL, Unity, Flutter. Автор проекта Unifier.",
 				"email": "mailto:dvurechenskysoft@gmail.com",
-				"mainEntityOfPage": "https://dvurechensky.pro",
+				"mainEntityOfPage": "{{ page.url | absolute_url }}",
 				"contactPoint": {
 					"@type": "ContactPoint",
 					"contactType": "Job offers",
@@ -219,7 +220,7 @@
 				"validThrough": "2025-12-31T23:59",
 				"hiringOrganization": {
 					"@type": "Organization",
-					"founder": { "@id": "{{page.url}}#person" },
+					"founder": { "@id": "{{ page.url | absolute_url }}#person" },
 					"name": "Dvurechensky Pro / Unifier / Lizerium",
 					"sameAs": "https://github.com/Dvurechensky",
 					"contactPoint": {
@@ -235,7 +236,7 @@
 				"url": "https://github.com/Unifier-of-Systems",
 				"logo": "https://avatars.githubusercontent.com/u/227248375?s=200&v=4",
 				"founder": {
-					"@id": "{{page.url}}#person",
+					"@id": "{{ page.url | absolute_url }}#person",
 					"@type": "Person",
 					"name": "Dvurechensky Pro",
 					"url": "https://dvurechensky.pro"
@@ -253,7 +254,7 @@
 				"url": "https://github.com/Lizerium",
 				"logo": "https://avatars.githubusercontent.com/u/213873170?s=200&v=4",
 				"founder": {
-					"@id": "{{page.url}}#person",
+					"@id": "{{ page.url | absolute_url }}#person",
 					"@type": "Person",
 					"name": "Dvurechensky Pro",
 					"url": "https://dvurechensky.pro"
@@ -342,6 +343,22 @@
 			return null
 		}
 
+		if (
+			location.hostname !== 'dvurechensky.pro' &&
+			location.hostname !== 'localhost' &&
+			location.hostname !== '127.0.0.1'
+		) {
+			const canonicalPath =
+				location.pathname.replace(/^\/Dvurechensky(?=\/|$)/, '') || '/'
+			window.location.replace(
+				'https://dvurechensky.pro' +
+					canonicalPath +
+					location.search +
+					location.hash
+			)
+			return
+		}
+
 		// 🔹 1. СИНХРОНИЗАЦИЯ С URL (ГЛАВНОЕ)
 		const path = window.location.pathname
 		const urlLang = detectLang(path)
@@ -363,8 +380,7 @@
 		})
 
 		// 🔹 3. РЕДИРЕКТ ТОЛЬКО НА КОРНЕ
-		const isRoot =
-			path === '/' || path === '/Dvurechensky/' || path === '/Dvurechensky'
+		const isRoot = path === '/'
 
 		if (!isRoot) return
 
@@ -377,9 +393,9 @@
 		}
 
 		if (lang === 'ru') {
-			window.location.replace('/Dvurechensky/ru/')
+			window.location.replace('https://dvurechensky.pro/ru/')
 		} else {
-			window.location.replace('/Dvurechensky/en/')
+			window.location.replace('https://dvurechensky.pro/en/')
 		}
 	})()
 </script>

@@ -27,9 +27,9 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="/Dvurechensky/">← Back to Home</a>
+  <a class="back" href="https://dvurechensky.pro/">← Back to Home</a>
 
-  <a href="/Dvurechensky/privacy.ru.html">
+  <a href="https://dvurechensky.pro/privacy.ru.html">
     🇷🇺
   </a>
   | 
@@ -100,15 +100,15 @@ This `privacy policy` may be updated without prior notice.
 
 The `current version` is always available on this page.
 
-[← Back to Home](/Dvurechensky/)
+[← Back to Home](https://dvurechensky.pro/)
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/about.html">About</a> ·
-  <a href="{{ site.baseurl }}/contact.html">Contact</a>
+  <a href="https://dvurechensky.pro/about.html">About</a> ·
+  <a href="https://dvurechensky.pro/contact.html">Contact</a>
   <br><br>
 
 </div>

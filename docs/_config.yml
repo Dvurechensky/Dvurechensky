@@ -1,4 +1,6 @@
 title: Nikolai Dvurechensky
+url: "https://dvurechensky.pro"
+baseurl: ""
 description: ⭐
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:

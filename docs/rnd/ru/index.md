@@ -37,14 +37,14 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch"> 
-  <a class="back" href="/Dvurechensky/ru/">← На главную</a>
+  <a class="back" href="https://dvurechensky.pro/ru/">← На главную</a>
   <div align="center" class="lang-switch">
     <strong>R&D:</strong>
     <span>
       ✅ 🇷🇺
     </span>
     | 
-    <a href="/Dvurechensky/rnd/en/">
+    <a href="https://dvurechensky.pro/rnd/en/">
       🇺🇸
     </a>
   </div>
@@ -737,9 +737,9 @@ Rota
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
-  <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
-  <a href="{{ site.baseurl }}/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
   <br><br>
   <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
 </div>

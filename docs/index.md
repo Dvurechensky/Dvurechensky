@@ -9,11 +9,11 @@ published: true
 
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
   <strong>Language:</strong>
-  <a href="/Dvurechensky/ru/" style="color: #F5F752; margin: 0 10px;">Russian</a>
+  <a href="https://dvurechensky.pro/ru/" style="color: #F5F752; margin: 0 10px;">Russian</a>
   |
   <span style="color: #0891b2; margin: 0 10px;">English current</span>
   |
-  <a href="/Dvurechensky/rnd/en/" style="color: #a3e635; margin: 0 10px;">R&D version</a>
+  <a href="https://dvurechensky.pro/rnd/en/" style="color: #a3e635; margin: 0 10px;">R&D version</a>
 </div>
 
 <div align="center">
@@ -199,7 +199,7 @@ I am looking for a strong team and a product where the job is not only to "write
 
 This is the main HR/product-oriented resume. A fuller experimental version with the old GitHub design, diagrams, social blocks, and extended project catalog is preserved separately:
 
-- [Open R&D version](/Dvurechensky/rnd.html)
-- [Открыть русскую версию](/Dvurechensky/ru.html)
+- [Open R&D version](https://dvurechensky.pro/rnd.html)
+- [Открыть русскую версию](https://dvurechensky.pro/ru.html)
 
 > 2026
