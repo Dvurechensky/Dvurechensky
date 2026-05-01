@@ -19,69 +19,69 @@ published: true
 
 {% raw %}
 
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
-class="lang-switch">
-  <strong>🌐 Language: </strong>
+<div class="alert tip">
+  <b>🈳</b><br>
+  The project is actively evolving and serves both as a <code>public toolkit</code> and a <code>research platform</code>.
+</div>
+
+<div align="center">
+</div>
+
+<div align="center" class="lang-switch">
+  <a class="back" href="/Dvurechensky/">← Back to Home</a>
   
   <a href="/Dvurechensky/about.ru.html">
-    🇷🇺 Russian
+    🇷🇺
   </a>
   | 
   <span>
-    ✅ 🇺🇸 English (current)
+    ✅ 🇺🇸
   </span>
 </div>
 
 {% endraw %}
 
-[← Back to Home](/Dvurechensky/)
+This website was created by `Nikolay Dvurechensky`.
 
-This website was created by Nikolay Dvurechensky.
-
-It provides a collection of tools, experiments, and documentation focused on advanced software engineering, reverse engineering, and data processing.
+It provides a collection of `tools`, `experiments`, and `documentation` focused on `advanced software engineering`, `reverse engineering`, and `data processing`.
 
 ### Core Areas
 
-- Reverse engineering and runtime analysis
-- Data processing and structure analysis
-- Binary format conversion and tooling
-- Programming language exploration and abstraction
-- Technical portals and knowledge systems
-- Automation and developer productivity tools
+- `Reverse engineering` and `runtime analysis`
+- `Data processing` and `structure analysis`
+- `Binary format conversion` and `tooling`
+- `Programming language exploration` and `abstraction`
+- `Technical portals` and `knowledge systems`
+- `Automation` and `developer productivity tools`
 
 ### What You Can Find Here
 
-- Online tools that run directly in the browser
-- Research-oriented utilities for working with complex data formats
-- Experiments related to system analysis and architecture
-- Documentation and technical insights based on real-world projects
+- `Online tools` that run directly in the browser
+- `Research-oriented utilities` for working with `complex data formats`
+- `Experiments` related to `system analysis` and `architecture`
+- `Documentation` and `technical insights` based on `real-world projects`
 
 ### Target Audience
 
 This project is designed for:
 
-- Software developers
-- Reverse engineers
-- Modders and game researchers
-- Engineers interested in low-level systems and data formats
+- `Software developers`
+- `Reverse engineers`
+- `Modders` and `game researchers`
+- `Engineers` interested in `low-level systems` and `data formats`
 
 ### Philosophy
 
 The goal of this platform is to:
 
-- simplify complex technical processes
-- provide practical tools instead of theory
-- explore systems deeply rather than superficially
-- build reusable and extensible solutions
+- simplify `complex technical processes`
+- provide `practical tools` instead of theory
+- explore `systems` deeply rather than superficially
+- build `reusable` and `extensible solutions`
 
 <div class="alert tip">
   <b>🈲</b><br>
-  All tools are designed to work without installation and can be used directly in the browser.
-</div>
-
-<div class="alert tip">
-  <b>🈳</b><br>
-  The project is actively evolving and serves both as a public toolkit and a research platform.
+  All <code>tools</code> are designed to work <code>without installation</code> and can be used directly in the <code>browser</code>.
 </div>
 
 [← Back to Home](/Dvurechensky/)
@@ -94,7 +94,7 @@ The goal of this platform is to:
   <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
   <a href="{{ site.baseurl }}/contact.html">Contact</a>
   <br><br>
-  <span>This website provides tools and technical resources for developers.</span>
+  <span>This website provides <code>tools</code> and <code>technical resources</code> for developers.</span>
 </div>
 
 <div align="center">

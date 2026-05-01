@@ -16,49 +16,55 @@ published: true
   Systems Engineer • Reverse Developer • Full Stack Engineer
   </h2>
 
-  <div align="center">
-    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-  </div>
+</div>
 
+<div align="center">
   <h4>
   <u>Available for <b>strong</b> teams</u>
-</h4>
+  </h4>
 
-<span>
-  <b>.NET</b> •
-  C/<b>C++</b> •
-  C# •
-  <b><u>Python</u></b> •
-  Unity •
-  TypeScript •
-  <b><u>Reverse</u></b> •
-  Linux •
-  Windows
-</span>
+  <span>
+    <b>.NET</b> •
+    <code>C</code>/<b>C++</b> •
+    <code>C#</code> •
+    <b><u>Python</u></b> •
+    <code>Unity</code> •
+    <code>TypeScript</code> •
+    <b><u>Reverse</u></b> •
+    <code>Linux</code> •
+    <code>Windows</code>
+  </span>
 </div>
 
 {% raw %}
 
 <div align="center" class="lang-switch">
   <a class="back" href="/Dvurechensky/en/">← Go to main</a>
+
+  <div align="center" class="lang-switch">
+    <strong>R&D:</strong>
+    <a href="/Dvurechensky/rnd/ru/">
+      🇷🇺
+    </a>
+    | 
+    <span>
+      ✅ 🇺🇸
+    </span>
+  </div>
 </div>
 
 {% endraw %}
 
-{% raw %}
+<div align="center">
+<a id="top"></a>
 
-<div align="center" class="lang-switch">
-  <strong>R&D:</strong>
-  <a href="/Dvurechensky/rnd/ru/">
-    🇷🇺
-  </a>
-  | 
-  <span>
-    ✅ 🇺🇸
-  </span>
+<a href="#organizations">Organizations</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#tech-stack">Stack</a> ·
+<a href="#utilities">Utilities</a> ·
+<a href="#focus">Focus</a>
+
 </div>
-
-{% endraw %}
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -80,26 +86,6 @@ published: true
   - [ ✓ ] `Contact`...▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) ◇ [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
   - [ ✓ ] `Website`...▸ [dvurechensky.pro](https://dvurechensky.pro)
   - [ ✓ ] `ORCID`...▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
-
-<div align="center">
-  <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
-</div>
-
-<div align="center">
-<a id="top"></a>
-
-<a href="#organizations">Organizations</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#tech-stack">Stack</a>
-
-<br>
-◇
-<br>
-
-<a href="#utilities">Utilities</a> ·
-<a href="#focus">Focus</a>
-
-</div>
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -168,15 +154,15 @@ graph TD
 <h4 align="center"><strong>OXSIONSOFT, Lizerium <br> (Mar 2021 – 2026, 5+ years)</strong></h4>
 <p align="center"><i>Unity Developer</i></p>
 
-- Worked on <strong>Ceek Virtual Reality</strong> project: feature development, bug fixing, UI redesigns
+- Worked on <strong>Ceek Virtual Reality</strong> project: <code>feature development</code>, <code>bug fixing</code>, <code>UI redesigns</code>
   <br>
-- Implemented memory optimization via <strong>Addressables</strong> → stable performance on Android 7+
+- Implemented <code>memory optimization</code> via <strong>Addressables</strong> → <code>stable performance</code> on <code>Android 7+</code>
   <br>
-- Delivered 3+ major UI evolutions, multiplayer on <strong>Photon Engine</strong>, client-server API improvements
+- Delivered <code>3+ major UI evolutions</code>, <code>multiplayer</code> on <strong>Photon Engine</strong>, <code>client-server API improvements</code>
   <br>
 - Wrote technical specifications, collaborated across teams
   <br>
-- <strong>Stack:</strong> Unity3D, HDRP, VFX Graph, Zenject, Addressables, Blender, Substance, Photoshop, Docker, Photon Engine
+- <strong>Stack:</strong> <code>Unity3D</code>, <code>HDRP</code>, <code>VFX Graph</code>, <code>Zenject</code>, <code>Addressables</code>, <code>Blender</code>, <code>Substance</code>, <code>Photoshop</code>, <code>Docker</code>, <code>Photon Engine</code>
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -198,17 +184,17 @@ graph TD
 <h4 align="center"><strong>NPC Reagent / SIGMA / CMK Consulting <br> (2019 – 2025, 5+ years total)</strong></h4>
 <p align="center"><i>.NET Developer</i></p>
 
-- Built <strong>ASP.NET Core MVC</strong> apps with PostgreSQL, EF Core, RabbitMQ
+- Built <strong>ASP.NET Core MVC</strong> apps with <code>PostgreSQL</code>, <code>EF Core</code>, <code>RabbitMQ</code>
   <br>
-- Developed visualization systems for C# / C++ projects and dependencies (NuGet)
+- Developed <code>visualization systems</code> for <code>C# / C++ projects</code> and <code>dependencies</code> (<code>NuGet</code>)
   <br>
-- Migrated projects across .NET Framework → .NET 6/7/8, applied SOLID, DRY, KISS principles
+- Migrated projects across <code>.NET Framework → .NET 6/7/8</code>, applied <code>SOLID</code>, <code>DRY</code>, <code>KISS</code> principles
   <br>
-- Designed pentest monitoring system (data collection, visualization, analytics)
+- Designed <code>pentest monitoring system</code> (<code>data collection</code>, <code>visualization</code>, <code>analytics</code>)
   <br>
 - Deployed microservices in <strong>Docker</strong>, automated builds with Jenkins
   <br>
-- <strong>Stack:</strong> C#, ASP.NET Core (6–8), PostgreSQL, RabbitMQ, EF Core, Cytoscape.js, Three.js, Docker, Jenkins, Git, SVN
+- <strong>Stack:</strong> <code>C#</code>, <code>ASP.NET Core (6–8)</code>, <code>PostgreSQL</code>, <code>RabbitMQ</code>, <code>EF Core</code>, <code>Cytoscape.js</code>, <code>Three.js</code>, <code>Docker</code>, <code>Jenkins</code>, <code>Git</code>, <code>SVN</code>
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -272,7 +258,7 @@ graph TD
 
 <h4><strong>◆ Core Engineering</strong></h4>
 
-C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, Systems Design, Full Stack Development, Reverse Engineering
+<code>C#</code>, <code>.NET 3–8</code>, <code>ASP.NET Core (MVC, SignalR)</code>, <code>EF Core</code>, <code>Systems Design</code>, <code>Full Stack Development</code>, <code>Reverse Engineering</code>
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -280,7 +266,7 @@ C#, .NET 3–8, ASP.NET Core (MVC, SignalR), EF Core, Systems Design, Full Stack
 
 <h4><strong>◆ Backend & Infrastructure</strong></h4>
 
-RabbitMQ, Redis, PostgreSQL, SQL Server, MySQL, Docker, Jenkins, nginx, Linux (Astra / Ubuntu / Debian / Kali / Parrot OS), Git, SVN, Gitea
+<code>RabbitMQ</code>, <code>Redis</code>, <code>PostgreSQL</code>, <code>SQL Server</code>, <code>MySQL</code>, <code>Docker</code>, <code>Jenkins</code>, <code>nginx</code>, <code>Linux (Astra / Ubuntu / Debian / Kali / Parrot OS)</code>, <code>Git</code>, <code>SVN</code>, <code>Gitea</code>
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -288,7 +274,7 @@ RabbitMQ, Redis, PostgreSQL, SQL Server, MySQL, Docker, Jenkins, nginx, Linux (A
 
 <h4><strong>◆ Frontend & Desktop UI</strong></h4>
 
-TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, Prism (MVVM WPF), HandyControl (WPF), HTML5, SCSS/CSS, Markdown
+<code>TypeScript</code>, <code>Cytoscape.js</code>, <code>Three.js</code>, <code>Webpack</code>, <code>Grunt</code>, <code>Prism (MVVM WPF)</code>, <code>HandyControl (WPF)</code>, <code>HTML5</code>, <code>SCSS/CSS</code>, <code>Markdown</code>
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -296,7 +282,7 @@ TypeScript, Cytoscape.js, Three.js, Webpack, Grunt, Prism (MVVM WPF), HandyContr
 
 <h4><strong>◆ Game Development</strong></h4>
 
-Unity (HDRP / URP), Zenject, Addressables, Photon, Object Pooling, ECS (Leo / Unity / Custom), Blender, Substance Painter, Photoshop
+<code>Unity (HDRP / URP)</code>, <code>Zenject</code>, <code>Addressables</code>, <code>Photon</code>, <code>Object Pooling</code>, <code>ECS (Leo / Unity / Custom)</code>, <code>Blender</code>, <code>Substance Painter</code>, <code>Photoshop</code>
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -304,7 +290,7 @@ Unity (HDRP / URP), Zenject, Addressables, Photon, Object Pooling, ECS (Leo / Un
 
 <h4><strong>◆ Languages & Low-Level</strong></h4>
 
-Python, Go, PHP, C, C++, C#, ASM x86, Shell, Bash, Qt, Boost, Elixir, Fortran77
+<code>Python</code>, <code>Go</code>, <code>PHP</code>, <code>C</code>, <code>C++</code>, <code>C#</code>, <code>ASM x86</code>, <code>Shell</code>, <code>Bash</code>, <code>Qt</code>, <code>Boost</code>, <code>Elixir</code>, <code>Fortran77</code>
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">
@@ -312,7 +298,7 @@ Python, Go, PHP, C, C++, C#, ASM x86, Shell, Bash, Qt, Boost, Elixir, Fortran77
 
 <h4><strong>◆ Testing & Diagnostics</strong></h4>
 
-xUnit, nUnit, Integration Testing, IDA Pro, OllyDbg, Burp Suite Pro
+<code>xUnit</code>, <code>nUnit</code>, <code>Integration Testing</code>, <code>IDA Pro</code>, <code>OllyDbg</code>, <code>Burp Suite Pro</code>
 
 </details>
 
@@ -373,17 +359,17 @@ graph TD
   <tbody>
     <tr>
       <td data-label="Project"><a href="https://github.com/Dvurechensky/BinNexus">BinNexus</a></td>
-      <td data-label="Description">BinNexus is a tool for analyzing Windows binaries (DLL/EXE) that builds an interactive web portal with a dependency graph and export exploration.</td>
+      <td data-label="Description">BinNexus is a tool for analyzing <code>Windows binaries (DLL/EXE)</code> that builds an <code>interactive web portal</code> with a <code>dependency graph</code> and <code>export exploration</code>.</td>
       <td data-label="Languages"><code>Python · JavaScript · CSS · HTML · C++</code></td>
     </tr>
     <tr>
       <td data-label="Project"><a href="https://github.com/Dvurechensky/ReverseProxyDLL">ReverseProxyDLL</a></td>
-      <td data-label="Description">Reverse-aware proxy DLL framework generator for legacy x86 Windows binaries based on export dumps and decompiler output.</td>
+      <td data-label="Description"><code>Reverse-aware proxy DLL framework generator</code> for <code>legacy x86 Windows binaries</code> based on <code>export dumps</code> and <code>decompiler output</code>.</td>
       <td data-label="Languages"><code>Python · C++</code></td>
     </tr>
     <tr>
       <td data-label="Project"><a href="https://github.com/Dvurechensky/Freelancer.Reverse.Runtime">Freelancer.Reverse.Runtime</a></td>
-      <td data-label="Description">I'm building a runtime layer on top of Freelancer (2003), restoring and overriding system DLLs to safely explore, extend, and document the behavior of the original engine.</td>
+      <td data-label="Description">I'm building a <code>runtime layer</code> on top of <code>Freelancer (2003)</code>, restoring and overriding <code>system DLLs</code> to safely <code>explore</code>, <code>extend</code>, and <code>document</code> the behavior of the original engine.</td>
       <td data-label="Languages"><code>C · C++ · Batchfile · Asm x86 · Ghidra · x32dbg</code></td>
     </tr>
     <tr>
@@ -603,10 +589,10 @@ graph TD
 
 </div>
 
-- [ ◇ ] Runtime systems & reverse research
-- [ ◇ ] .NET tools for Windows / Linux
-- [ ◇ ] GitHub ecosystem growth
-- [ ◇ ] Product engineering opportunities
+- [ ◇ ] `Runtime systems` & `reverse research`
+- [ ◇ ] `.NET tools` for `Windows / Linux`
+- [ ◇ ] `GitHub ecosystem growth`
+- [ ◇ ] `Product engineering opportunities`
 
 <div align="center">
   <img align="center" src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px">

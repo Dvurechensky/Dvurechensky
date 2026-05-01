@@ -19,49 +19,63 @@ published: true
 
 {% raw %}
 
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;" class="lang-switch">
-  <strong>🌐 Язык: </strong>
+<div class="alert tip">
+  <b>🈳</b><br>
+  Для <code>сотрудничества</code> и <code>технических вопросов</code> рекомендуется использовать <code>Telegram</code>, <code>VK</code> или <code>GitHub</code>.
+</div>
+
+{% endraw %}
+
+{% raw %}
+
+<div align="center">
+</div>
+
+{% endraw %}
+
+{% raw %}
+
+<div align="center" class="lang-switch">
+  <a class="back" href="/Dvurechensky/">← Назад на главную</a>
   
   <span>
-    ✅ 🇷🇺 Русский (текущий)
+    ✅ 🇷🇺
   </span>
   | 
-  <a href="/Dvurechensky/about.html">
-    🇺🇸 English
+  <a href="/Dvurechensky/contact.html">
+    🇺🇸
   </a>
 </div>
 
 {% endraw %}
 
-[← Назад на главную](/Dvurechensky/)
-
 ### ◇ Основные ссылки
 
-- Сайт: https://www.dvurechensky.pro
-- GitHub: https://github.com/Dvurechensky
-- GitLab: https://gitlab.com/Dvurechensky
-- Codeberg: https://codeberg.org/Dvurechensky
+- `Сайт`: [dvurechensky.pro](https://dvurechensky.pro)
+- `GitHub`: [github.com](https://github.com/Dvurechensky)
+- `GitLab`: [gitlab.com](https://gitlab.com/Dvurechensky)
+- `Codeberg`: [codeberg.org](https://codeberg.org/Dvurechensky)
 
 ### ◇ Мессенджеры
 
-- Discord: https://discord.com/users/543584734945476608
-- Telegram: https://t.me/dvurechensky_pro
-- Steam: https://steamcommunity.com/id/dvurechensky/
+- `Discord`: [discord.com](https://discord.com/users/543584734945476608)
+- `Telegram`: [t.me](https://t.me/dvurechensky_pro)
+- `Steam`: [steamcommunity.com](https://steamcommunity.com/id/dvurechensky/)
 
 ### ◇ Социальные сети
 
-- LinkedIn: https://www.linkedin.com/in/dvurechensky-pro/
-- X (Twitter): https://x.com/DvurechenskyPro
-- Threads: https://www.threads.net/@dvurechensky_pro
-- Dev.to: https://dev.to/dvurechensky
-- VK: https://vk.com/dvurechensky_pro
+- `LinkedIn`: [www.linkedin.com](https://www.linkedin.com/in/dvurechensky-pro/)
+- `X (Twitter)`: [x.com](https://x.com/DvurechenskyPro)
+- `Threads`: [www.threads.net](https://www.threads.net/@dvurechensky_pro)
+- `Dev.to`: [dev.to](https://dev.to/dvurechensky)
+- `VK`: [vk.com](https://vk.com/dvurechensky_pro)
 
 ### ◇ Медиа
 
-- YouTube (Media): https://www.youtube.com/@DvurechenskyMedia
-- YouTube (Основной): https://www.youtube.com/@dvurechensky_pro
-- Twitch: https://www.twitch.tv/dvurechensky_pro
-- Instagram: https://www.instagram.com/dvurechensky_pro/
+- `YouTube (Media)`: [www.youtube.com/@DvurechenskyMedia](https://www.youtube.com/@DvurechenskyMedia)
+- `YouTube (Основной)`: [www.youtube.com/@dvurechensky_pro](https://www.youtube.com/@dvurechensky_pro)
+- `Twitch`: [www.twitch.tv](https://www.twitch.tv/dvurechensky_pro)
+- `Instagram`: [www.instagram.com](https://www.instagram.com/dvurechensky_pro/)
 
 ### ◇ Электронная почта
 
@@ -70,16 +84,11 @@ published: true
 
 ### ◇ ORCID
 
-- https://orcid.org/0009-0004-2701-5592
+- [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div class="alert tip">
   <b>🈲</b><br>
-  Все ссылки являются официальными и могут использоваться для связи или навигации по проектам.
-</div>
-
-<div class="alert tip">
-  <b>🈳</b><br>
-  Для сотрудничества и технических вопросов рекомендуется использовать Telegram или GitHub.
+  Все ссылки являются <code>официальными</code> и могут использоваться для <code>связи</code> или <code>навигации по проектам</code>.
 </div>
 
 [← Назад на главную](/Dvurechensky/)
@@ -92,7 +101,7 @@ published: true
   <a href="{{ site.baseurl }}/about.ru.html">О сайте</a> ·
   <a href="{{ site.baseurl }}/privacy.ru.html">Конфиденциальность</a> ·
   <br><br>
-  <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
+  <span>Сайт предоставляет <code>инструменты</code> и <code>технические ресурсы</code> для разработчиков.</span>
 </div>
 
 <div align="center">

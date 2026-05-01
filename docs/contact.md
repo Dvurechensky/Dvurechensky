@@ -17,52 +17,57 @@ published: true
   </picture>
 </div>
 
+<div class="alert tip">
+  <b>🈳</b><br>
+  For <code>collaboration</code> or <code>technical inquiries</code>, use <code>Telegram</code> or <code>GitHub</code> as primary channels.
+</div>
+
+<div align="center">
+</div>
+
 {% raw %}
 
-<div align="center" style="margin: 10px 0; padding: 5px; background: #1c1917; border-radius: 10px;"
-class="lang-switch">
-  <strong>🌐 Language: </strong>
+<div align="center" class="lang-switch">
+  <a class="back" href="/Dvurechensky/">← Back to Home</a>
   
   <a href="/Dvurechensky/contact.ru.html">
-    🇷🇺 Russian
+    🇷🇺
   </a>
   | 
   <span>
-    ✅ 🇺🇸 English (current)
+    ✅ 🇺🇸
   </span>
 </div>
 
 {% endraw %}
 
-[← Back to Home](/Dvurechensky/)
-
 ### ◇ Main Links
 
-- Website: https://www.dvurechensky.pro
-- GitHub: https://github.com/Dvurechensky
-- GitLab: https://gitlab.com/Dvurechensky
-- Codeberg: https://codeberg.org/Dvurechensky
+- `Website`: [dvurechensky.pro](https://dvurechensky.pro)
+- `GitHub`: [github.com](https://github.com/Dvurechensky)
+- `GitLab`: [gitlab.com](https://gitlab.com/Dvurechensky)
+- `Codeberg`: [codeberg.org](https://codeberg.org/Dvurechensky)
 
 ### ◇ Messengers
 
-- Discord: https://discord.com/users/543584734945476608
-- Telegram: https://t.me/dvurechensky_pro
-- Steam: https://steamcommunity.com/id/dvurechensky/
+- `Discord`: [discord.com](https://discord.com/users/543584734945476608)
+- `Telegram`: [t.me](https://t.me/dvurechensky_pro)
+- `Steam`: [steamcommunity.com](https://steamcommunity.com/id/dvurechensky/)
 
 ### ◇ Socials
 
-- LinkedIn: https://www.linkedin.com/in/dvurechensky-pro/
-- X (Twitter): https://x.com/DvurechenskyPro
-- Threads: https://www.threads.net/@dvurechensky_pro
-- Dev.to: https://dev.to/dvurechensky
-- VK: https://vk.com/dvurechensky_pro
+- `LinkedIn`: [www.linkedin.com](https://www.linkedin.com/in/dvurechensky-pro/)
+- `X (Twitter)`: [x.com](https://x.com/DvurechenskyPro)
+- `Threads`: [www.threads.net](https://www.threads.net/@dvurechensky_pro)
+- `Dev.to`: [dev.to](https://dev.to/dvurechensky)
+- `VK`: [vk.com](https://vk.com/dvurechensky_pro)
 
 ### ◇ Media
 
-- YouTube (Media): https://www.youtube.com/@DvurechenskyMedia
-- YouTube (Main): https://www.youtube.com/@dvurechensky_pro
-- Twitch: https://www.twitch.tv/dvurechensky_pro
-- Instagram: https://www.instagram.com/dvurechensky_pro/
+- `YouTube (Media)`: [www.youtube.com/@DvurechenskyMedia](https://www.youtube.com/@DvurechenskyMedia)
+- `YouTube (Main)`: [www.youtube.com/@dvurechensky_pro](https://www.youtube.com/@dvurechensky_pro)
+- `Twitch`: [www.twitch.tv](https://www.twitch.tv/dvurechensky_pro)
+- `Instagram`: [www.instagram.com](https://www.instagram.com/dvurechensky_pro/)
 
 ### ◇ Emails
 
@@ -75,12 +80,7 @@ class="lang-switch">
 
 <div class="alert tip">
   <b>🈲</b><br>
-  All links are official profiles and can be used for direct contact or project navigation.
-</div>
-
-<div class="alert tip">
-  <b>🈳</b><br>
-  For collaboration or technical inquiries, use Telegram or GitHub as primary channels.
+  All links are <code>official profiles</code> and can be used for <code>direct contact</code> or <code>project navigation</code>.
 </div>
 
 [← Back to Home](/Dvurechensky/)
@@ -89,7 +89,7 @@ class="lang-switch">
   <a href="{{ site.baseurl }}/about.html">About</a> ·
   <a href="{{ site.baseurl }}/privacy.html">Privacy</a> ·
   <br><br>
-  <span>This website provides tools and technical resources for developers.</span>
+  <span>This website provides <code>tools</code> and <code>technical resources</code> for developers.</span>
 </div>
 
 <div align="center">

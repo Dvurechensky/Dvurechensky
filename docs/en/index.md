@@ -13,25 +13,23 @@ published: true
   </picture>
   <h2>
     Hi, I'm <span style="color:#F5F752;">Nikolai Dvurechensky</span><br>
-    Systems Engineer • .NET Developer • Reverse Engineer • Full Stack Engineer
+    Systems Engineer • NET Developer • Reverse Engineer • Full Stack Engineer
   </h2>
-
-  <div align="center">
-    <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-  </div>
-
-  <h4>Engineer for complex systems, legacy code, backend platforms, tooling, and R&D-heavy work</h4>
-  <span><b>.NET</b> • C/C++ • C# • Python • Unity • TypeScript • Reverse • Linux • Windows</span>
 </div>
 
 {% raw %}
 
-<div align="center" class="lang-switch">
-  <a href="/Dvurechensky/ru/">🇷🇺</a>
-  |
-  <span style="color: #0891b2; margin: 0 10px;">✅ 🇺🇸</span>
-  |
-  <a href="/Dvurechensky/rnd/en/">R&D</a>
+<div align="center">
+  <h4>Engineer for <strong>complex systems</strong>, <strong>legacy code</strong>, <strong>backend platforms</strong>, <strong>tooling</strong>, and <strong>R&D-heavy work</strong></h4>
+  <span><b><code>.NET</code></b> • <code>C/C++</code> • <code>C#</code> • <code>Python</code> • <code>Unity</code> • <code>TypeScript</code> • <code>Reverse</code> • <code>Linux</code> • <code>Windows</code></span>
+
+  <div align="center" class="lang-switch">
+    <a href="/Dvurechensky/ru/">🇷🇺</a>
+    |
+    <span style="color: #0891b2; margin: 0 10px;">✅ 🇺🇸</span>
+    |
+    <a href="/Dvurechensky/rnd/en/">R&D</a>
+  </div>
 </div>
 
 {% endraw %}
@@ -56,14 +54,14 @@ published: true
 
 <h2 id="profile">Short Profile</h2>
 
-I am an engineer who works at the intersection of backend development, systems analysis, reverse engineering, desktop tooling, game servers, and infrastructure. Since 2014 I have been growing through programming and reverse engineering; commercially, I have worked with .NET, Unity, C++, Python, Linux/Windows, PostgreSQL, RabbitMQ, Docker, CI, and visualization systems.
+I am an engineer who works at the intersection of `backend development`, `systems analysis`, `reverse engineering`, `desktop tooling`, `game servers`, and `infrastructure`. Since 2014 I have been growing through `programming` and `reverse engineering`; commercially, I have worked with `.NET`, `Unity`, `C++`, `Python`, `Linux/Windows`, `PostgreSQL`, `RabbitMQ`, `Docker`, `CI`, and `visualization systems`.
 
-I am looking for a strong team and a product where the job is not only to "write code", but also to understand complex systems, recover architecture, design internal tools, bring solutions to a working state, and leave a clear engineering base behind.
+I am looking for a `strong team` and a `product` where the job is not only to `"write code"`, but also to `understand complex systems`, `recover architecture`, `design internal tools`, bring solutions to a `working state`, and leave a `clear engineering base` behind.
 
-- **10+ years of engineering experience:** from online game reverse engineering and system administration to .NET backend, Unity, C++, and infrastructure services.
-- **Strong area:** complex systems, legacy code, binary analysis, .NET tools, server platforms, dependency visualization, automation, and documentation.
+- **10+ years of engineering experience:** from `online game reverse engineering` and `system administration` to `.NET backend`, `Unity`, `C++`, and `infrastructure services`.
+- **Strong area:** `complex systems`, `legacy code`, `binary analysis`, `.NET tools`, `server platforms`, `dependency visualization`, `automation`, and `documentation`.
 - **Public track record:** dozens of repositories and projects across the `Dvurechensky`, `Lizerium`, `Dvurechensky Tools`, `Dvurechensky Docs`, `Templates`, and `Test Tasks` ecosystems.
-- **Rare combination:** backend + desktop + reverse + game/server engineering + the ability to explain and document complex systems.
+- **Rare combination:** `backend` + `desktop` + `reverse` + `game/server engineering` + the ability to `explain` and `document` complex systems.
 
 **Contacts:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
 **Website:** [dvurechensky.pro](https://dvurechensky.pro)  
@@ -76,12 +74,12 @@ I am looking for a strong team and a product where the job is not only to "write
 
 <h2 id="value">Value For An Employer</h2>
 
-- Quickly understand unfamiliar codebases, protocols, data formats, and old systems.
-- Design .NET backend services, integrations, queues, databases, and admin panels.
-- Build tools that save team time: analyzers, generators, converters, diff/monitoring utilities, project templates.
-- Work across Windows/Linux, Docker, Jenkins, Git/SVN, PostgreSQL, RabbitMQ, Redis, and nginx.
-- Lead a task from research to release: hypothesis, prototype, implementation, debugging, documentation, and support.
-- Handle legacy systems, reverse engineering, C/C++, ABI, DLLs, x86, Ghidra/x32dbg/IDA-style workflows, and low-level diagnostics.
+- Quickly understand `unfamiliar codebases`, `protocols`, `data formats`, and `old systems`.
+- Design `.NET backend services`, `integrations`, `queues`, `databases`, and `admin panels`.
+- Build tools that save team time: `analyzers`, `generators`, `converters`, `diff/monitoring utilities`, `project templates`.
+- Work across `Windows/Linux`, `Docker`, `Jenkins`, `Git/SVN`, `PostgreSQL`, `RabbitMQ`, `Redis`, and `nginx`.
+- Lead a task from `research` to `release`: `hypothesis`, `prototype`, `implementation`, `debugging`, `documentation`, and `support`.
+- Handle `legacy systems`, `reverse engineering`, `C/C++`, `ABI`, `DLLs`, `x86`, `Ghidra/x32dbg/IDA-style workflows`, and `low-level diagnostics`.
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -91,31 +89,31 @@ I am looking for a strong team and a product where the job is not only to "write
 
 ### Reverse Engineering And Systems Analysis
 
-- **Freelancer.Reverse.Runtime:** a runtime layer on top of the original Freelancer (2003) engine, where DLL modules are replaced by compatible proxy components with controlled C++ code, logging, and behavior reconstruction.
-- **ReverseProxyDLL:** a reverse-aware proxy DLL scaffold generator for legacy x86 Windows DLLs, covering exports, ordinals, ABI, C/C++ symbols, data exports, and manual override scenarios.
-- **BinNexus:** a Windows DLL/EXE analysis tool that generates an interactive web portal with dependency graphs, exports, symbol search, and system-noise filtering.
-- Freelancer/Lizerium C++/ASM ecosystem: plugins, server extensions, game DLLs, data formats, tooling, and administration.
+- **Freelancer.Reverse.Runtime:** a `runtime layer` on top of the original `Freelancer (2003)` engine, where `DLL modules` are replaced by compatible `proxy components` with controlled `C++ code`, `logging`, and `behavior reconstruction`.
+- **ReverseProxyDLL:** a `reverse-aware proxy DLL scaffold generator` for legacy `x86 Windows DLLs`, covering `exports`, `ordinals`, `ABI`, `C/C++ symbols`, `data exports`, and `manual override scenarios`.
+- **BinNexus:** a `Windows DLL/EXE analysis tool` that generates an `interactive web portal` with `dependency graphs`, `exports`, `symbol search`, and `system-noise filtering`.
+- Freelancer/Lizerium `C++/ASM ecosystem`: `plugins`, `server extensions`, `game DLLs`, `data formats`, `tooling`, and `administration`.
 
 ### .NET, Backend And Infrastructure
 
-- ASP.NET Core MVC applications with PostgreSQL, EF Core, RabbitMQ, Docker, Jenkins, Git/SVN.
-- .NET Framework -> .NET 6/7/8 migrations, architectural stabilization, dependencies, and builds.
-- Pentest monitoring system: data collection, visualization, analytics, server logic, and UI.
+- `ASP.NET Core MVC` applications with `PostgreSQL`, `EF Core`, `RabbitMQ`, `Docker`, `Jenkins`, `Git/SVN`.
+- `.NET Framework -> .NET 6/7/8` migrations, `architectural stabilization`, `dependencies`, and `builds`.
+- `Pentest monitoring system`: `data collection`, `visualization`, `analytics`, `server logic`, and `UI`.
 - **Lizerium Server:** modular ASP.NET Core MVC platform for a game portal, admin backend, knowledge base, documentation, translations, internal services, and network protection.
 - **Unifier:** registered software system for distributed device interaction and infrastructure orchestration.
 
 ### Desktop, Tooling And Automation
 
-- **FileSync Sentinel:** .NET 8 WinForms application for real-time file monitoring, visual diff, logging, and synchronization of large `.ini` sets.
-- **Herodotus:** WPF/Prism MVVM tool for presentation and demo scenarios with Markdown preview.
-- **LibreResxTranslate:** NuGet library for automated `.resx` localization through LibreTranslate.
-- Templates: Telegram bot template, ASP.NET Core MVC template, Electron/Vue/Vite template.
+- **FileSync Sentinel:** `.NET 8 WinForms` application for `real-time file monitoring`, `visual diff`, `logging`, and `synchronization` of large `.ini` sets.
+- **Herodotus:** `WPF/Prism MVVM` tool for `presentation` and `demo scenarios` with `Markdown preview`.
+- **LibreResxTranslate:** `NuGet library` for automated `.resx` localization through `LibreTranslate`.
+- Templates: `Telegram bot template`, `ASP.NET Core MVC template`, `Electron/Vue/Vite template`.
 
 ### Unity, Game Development And VR
 
 - OXSIONSOFT/Lizerium, **Ceek Virtual Reality**: features, bug fixing, UI redesign, and client-server improvements.
-- Memory optimization through **Unity Addressables**, improving stability on Android 7+.
-- Unity3D, HDRP, VFX Graph, Zenject, Addressables, Photon Engine, Blender, Substance, Photoshop.
+- Memory optimization through **Unity Addressables**, improving stability on `Android 7+`.
+- `Unity3D`, `HDRP`, `VFX Graph`, `Zenject`, `Addressables`, `Photon Engine`, `Blender`, `Substance`, `Photoshop`.
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -190,14 +188,14 @@ I am looking for a strong team and a product where the job is not only to "write
 
 <h2 id="stack">Technology Stack</h2>
 
-**Backend / .NET:** C#, .NET Framework, .NET 6/7/8, ASP.NET Core MVC, SignalR, EF Core, xUnit, NUnit  
-**Databases / Messaging:** PostgreSQL, SQL Server, MySQL, Redis, RabbitMQ  
-**Infrastructure:** Docker, Jenkins, nginx, Git, SVN, Gitea, Linux, Windows  
-**Frontend / Visualization:** TypeScript, JavaScript, Cytoscape.js, Three.js, HTML5, SCSS/CSS, Webpack, Grunt  
-**Desktop:** WPF, Prism MVVM, HandyControl, WinForms, FastColoredTextBox, Costura/Fody  
-**Reverse / Low-level:** C, C++, ASM x86, DLL proxying, ABI, exports/ordinals, PE analysis, IDA Pro, OllyDbg, Ghidra, x32dbg  
-**Game / Unity:** Unity3D, HDRP, URP, VFX Graph, Zenject, Addressables, Photon Engine, object pooling, ECS approaches  
-**Other languages:** Python, Go, PHP, Shell/Bash, Qt, XSLT/XML, Elixir, Fortran77
+**Backend / .NET:** `C#`, `.NET Framework`, `.NET 6/7/8`, `ASP.NET Core MVC`, `SignalR`, `EF Core`, `xUnit`, `NUnit`  
+**Databases / Messaging:** `PostgreSQL`, `SQL Server`, `MySQL`, `Redis`, `RabbitMQ`  
+**Infrastructure:** `Docker`, `Jenkins`, `nginx`, `Git`, `SVN`, `Gitea`, `Linux`, `Windows`  
+**Frontend / Visualization:** `TypeScript`, `JavaScript`, `Cytoscape.js`, `Three.js`, `HTML5`, `SCSS/CSS`, `Webpack`, `Grunt`  
+**Desktop:** `WPF`, `Prism MVVM`, `HandyControl`, `WinForms`, `FastColoredTextBox`, `Costura/Fody`  
+**Reverse / Low-level:** `C`, `C++`, `ASM x86`, `DLL proxying`, `ABI`, `exports/ordinals`, `PE analysis`, `IDA Pro`, `OllyDbg`, `Ghidra`, `x32dbg`  
+**Game / Unity:** `Unity3D`, `HDRP`, `URP`, `VFX Graph`, `Zenject`, `Addressables`, `Photon Engine`, `object pooling`, `ECS approaches`  
+**Other languages:** `Python`, `Go`, `PHP`, `Shell/Bash`, `Qt`, `XSLT/XML`, `Elixir`, `Fortran77`
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -205,10 +203,10 @@ I am looking for a strong team and a product where the job is not only to "write
 
 <h2 id="rnd">R&D Version</h2>
 
-This is the main HR/product-oriented resume. A fuller experimental version with the old GitHub design, diagrams, social blocks, and extended project catalog is preserved separately:
+This is the main `HR/product-oriented resume`. A fuller `experimental version` with the old `GitHub design`, `diagrams`, `social blocks`, and `extended project catalog` is preserved separately:
 
-- [Open R&D version](/Dvurechensky/rnd.html)
-- [Открыть русскую версию](/Dvurechensky/ru.html)
+- [Open R&D version](/Dvurechensky/rnd/en/)
+- [Открыть русскую версию](/Dvurechensky/ru/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
   <a href="{{ site.baseurl }}/about.html">About</a> ·
