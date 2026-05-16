@@ -590,7 +590,7 @@ graph TD
 
 <div class="stats" align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dvurechensky&show_icons=false&hide_border=true&theme=github_dark&include_all_commits=true"
+    src="https://github-readme-stats.shion.dev/api?username=Dvurechensky&show_icons=false&hide_border=true&theme=github_dark&include_all_commits=true"
     alt="GitHub Stats"
   />
   <img
