@@ -51,7 +51,7 @@
 - **Редкое сочетание:** backend + desktop + reverse + game/server engineering + умение объяснять и документировать сложные вещи.
 
 **Контакты:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
-**Сайт:** [dvurechensky.pro](https://dvurechensky.pro)  
+**Сайт:** [dvurechensky.pro](https://dvurechensky.github.io)  
 **GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
 **ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 

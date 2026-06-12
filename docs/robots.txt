@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /404.html
 
-Sitemap: https://dvurechensky.pro/sitemap.xml
+Sitemap: https://dvurechensky.github.io/Dvurechensky/sitemap.xml

@@ -47,7 +47,7 @@
   - [ ◇ ] `Платформы`........▸ Linux / Windows / Web / Unity
   - [ ◇ ] `Статус`................▸ Открыт для сильных команд
   - [ ✓ ] `Контакты`............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)
-  - [ ✓ ] `Сайт`.......................▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `Сайт`.......................▸ [dvurechensky.pro](https://dvurechensky.github.io)
   - [ ✓ ] `ORCID`.......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">

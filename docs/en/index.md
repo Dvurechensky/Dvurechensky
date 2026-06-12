@@ -24,11 +24,11 @@ published: true
   <span><b><code>.NET</code></b> • <code>C/C++</code> • <code>C#</code> • <code>Python</code> • <code>Unity</code> • <code>TypeScript</code> • <code>Reverse</code> • <code>Linux</code> • <code>Windows</code></span>
 
   <div align="center" class="lang-switch">
-    <a href="https://dvurechensky.pro/ru/">🇷🇺</a>
+    <a href="https://dvurechensky.github.io/Dvurechensky/ru/">🇷🇺</a>
     |
     <span style="color: #0891b2; margin: 0 10px;">✅ 🇺🇸</span>
     |
-    <a href="https://dvurechensky.pro/rnd/en/">R&D</a>
+    <a href="https://dvurechensky.github.io/Dvurechensky/rnd/en/">R&D</a>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ I am looking for a `strong team` and a `product` where the job is not only to `"
 - **Rare combination:** `backend` + `desktop` + `reverse` + `game/server engineering` + the ability to `explain` and `document` complex systems.
 
 **Contacts:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
-**Website:** [dvurechensky.pro](https://dvurechensky.pro)  
+**Website:** [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)  
 **GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
 **ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 
@@ -205,13 +205,13 @@ I am looking for a `strong team` and a `product` where the job is not only to `"
 
 This is the main `HR/product-oriented resume`. A fuller `experimental version` with the old `GitHub design`, `diagrams`, `social blocks`, and `extended project catalog` is preserved separately:
 
-- [Open R&D version](https://dvurechensky.pro/rnd/en/)
-- [Открыть русскую версию](https://dvurechensky.pro/ru/)
+- [Open R&D version](https://dvurechensky.github.io/Dvurechensky/rnd/en/)
+- [Открыть русскую версию](https://dvurechensky.github.io/Dvurechensky/ru/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="https://dvurechensky.pro/about.html">About</a> ·
-  <a href="https://dvurechensky.pro/privacy.html">Privacy</a> ·
-  <a href="https://dvurechensky.pro/contact.html">Contact</a>
+  <a href="https://dvurechensky.github.io/Dvurechensky/about.html">About</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/privacy.html">Privacy</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/contact.html">Contact</a>
   <br><br>
   <span>This website provides tools and technical resources for developers.</span>
 </div>

@@ -37,14 +37,14 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch"> 
-  <a class="back" href="https://dvurechensky.pro/ru/">← На главную</a>
+  <a class="back" href="https://dvurechensky.github.io/Dvurechensky/ru/">← На главную</a>
   <div align="center" class="lang-switch">
     <strong>R&D:</strong>
     <span>
       ✅ 🇷🇺
     </span>
     | 
-    <a href="https://dvurechensky.pro/rnd/en/">
+    <a href="https://dvurechensky.github.io/Dvurechensky/rnd/en/">
       🇺🇸
     </a>
   </div>
@@ -82,7 +82,7 @@ published: true
   - [ ◇ ] `Платформы`...▸ Linux / Windows / Web / Unity
   - [ ◇ ] `Статус`...▸ Открыт для сильных команд
   - [ ✓ ] `Контакты`...▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)
-  - [ ✓ ] `Сайт`...▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `Сайт`...▸ [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)
   - [ ✓ ] `ORCID`...▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">
@@ -737,9 +737,9 @@ Rota
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
-  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
-  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.github.io/Dvurechensky/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/contact.ru.html">Контакты</a>
   <br><br>
   <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
 </div>

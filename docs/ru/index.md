@@ -29,9 +29,9 @@ published: true
   <div align="center" class="lang-switch">
     <span>✅ 🇷🇺</span>
     |
-    <a href="https://dvurechensky.pro/en/">🇺🇸</a>
+    <a href="https://dvurechensky.github.io/Dvurechensky/en/">🇺🇸</a>
     |
-    <a href="https://dvurechensky.pro/rnd/ru/">R&D</a>
+    <a href="https://dvurechensky.github.io/Dvurechensky/rnd/ru/">R&D</a>
   </div>
 
 </div>
@@ -68,7 +68,7 @@ published: true
 - **Редкое сочетание:** `backend` + `desktop` + `reverse` + `game/server engineering` + умение `объяснять` и `документировать` сложные вещи.
 
 **Контакты:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
-**Сайт:** [dvurechensky.pro](https://dvurechensky.pro)  
+**Сайт:** [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)  
 **GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
 **ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 
@@ -209,13 +209,13 @@ published: true
 
 Это основная `HR/product-oriented версия` резюме. Более полная `экспериментальная версия` со старым `GitHub-дизайном`, `диаграммами`, `social-блоками` и `расширенным каталогом проектов` сохранена отдельно:
 
-- [Открыть R&D версию](https://dvurechensky.pro/rnd/ru/)
-- [Open English version](https://dvurechensky.pro/en/)
+- [Открыть R&D версию](https://dvurechensky.github.io/Dvurechensky/rnd/ru/)
+- [Open English version](https://dvurechensky.github.io/Dvurechensky/en/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
-  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
-  <a href="https://dvurechensky.pro/contact.ru.html">Контакты</a>
+  <a href="https://dvurechensky.github.io/Dvurechensky/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/contact.ru.html">Контакты</a>
   <br><br>
   <span>Сайт предоставляет инструменты и технические ресурсы для разработчиков.</span>
 </div>

@@ -9,11 +9,11 @@ published: true
 
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
   <strong>Language:</strong>
-  <a href="https://dvurechensky.pro/ru/" style="color: #F5F752; margin: 0 10px;">Russian</a>
+  <a href="https://dvurechensky.github.io/Dvurechensky/ru/" style="color: #F5F752; margin: 0 10px;">Russian</a>
   |
   <span style="color: #0891b2; margin: 0 10px;">English current</span>
   |
-  <a href="https://dvurechensky.pro/rnd/en/" style="color: #a3e635; margin: 0 10px;">R&D version</a>
+  <a href="https://dvurechensky.github.io/Dvurechensky/rnd/en/" style="color: #a3e635; margin: 0 10px;">R&D version</a>
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@ I am looking for a strong team and a product where the job is not only to "write
 - **Rare combination:** backend + desktop + reverse + game/server engineering + the ability to explain and document complex systems.
 
 **Contacts:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
-**Website:** [dvurechensky.pro](https://dvurechensky.pro)  
+**Website:** [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)  
 **GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
 **ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 
@@ -199,7 +199,7 @@ I am looking for a strong team and a product where the job is not only to "write
 
 This is the main HR/product-oriented resume. A fuller experimental version with the old GitHub design, diagrams, social blocks, and extended project catalog is preserved separately:
 
-- [Open R&D version](https://dvurechensky.pro/rnd.html)
-- [Открыть русскую версию](https://dvurechensky.pro/ru.html)
+- [Open R&D version](https://dvurechensky.github.io/Dvurechensky/rnd/en/)
+- [Открыть русскую версию](https://dvurechensky.github.io/Dvurechensky/ru/)
 
 > 2026

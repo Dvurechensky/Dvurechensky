@@ -36,13 +36,13 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="https://dvurechensky.pro/">← Назад на главную</a>
+  <a class="back" href="https://dvurechensky.github.io/Dvurechensky/">← Назад на главную</a>
   
   <span>
     ✅ 🇷🇺
   </span>
   | 
-  <a href="https://dvurechensky.pro/contact.html">
+  <a href="https://dvurechensky.github.io/Dvurechensky/contact.html">
     🇺🇸
   </a>
 </div>
@@ -51,7 +51,7 @@ published: true
 
 ### ◇ Основные ссылки
 
-- `Сайт`: [dvurechensky.pro](https://dvurechensky.pro)
+- `Сайт`: [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)
 - `GitHub`: [github.com](https://github.com/Dvurechensky)
 - `GitLab`: [gitlab.com](https://gitlab.com/Dvurechensky)
 - `Codeberg`: [codeberg.org](https://codeberg.org/Dvurechensky)
@@ -91,15 +91,15 @@ published: true
   Все ссылки являются <code>официальными</code> и могут использоваться для <code>связи</code> или <code>навигации по проектам</code>.
 </div>
 
-[← Назад на главную](https://dvurechensky.pro/)
+[← Назад на главную](https://dvurechensky.github.io/Dvurechensky/)
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
 </div>
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="https://dvurechensky.pro/about.ru.html">О сайте</a> ·
-  <a href="https://dvurechensky.pro/privacy.ru.html">Конфиденциальность</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/about.ru.html">О сайте</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/privacy.ru.html">Конфиденциальность</a> ·
   <br><br>
   <span>Сайт предоставляет <code>инструменты</code> и <code>технические ресурсы</code> для разработчиков.</span>
 </div>

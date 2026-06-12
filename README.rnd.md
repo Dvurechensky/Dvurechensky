@@ -46,7 +46,7 @@
   - [ ◇ ] `Platforms`........▸ Linux / Windows / Web / Unity
   - [ ◇ ] `Status`................▸ Available for strong teams
   - [ ✓ ] `Contact`..............▸ [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) | [nikolay@dvurechensky.pro](mailto:dvurechenskysoft@gmail.com)
-  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.pro)
+  - [ ✓ ] `Website`...............▸ [dvurechensky.pro](https://dvurechensky.github.io)
   - [ ✓ ] `ORCID`......................▸ [orcid.org](https://orcid.org/0009-0004-2701-5592)
 
 <div align="center">

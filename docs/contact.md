@@ -28,9 +28,9 @@ published: true
 {% raw %}
 
 <div align="center" class="lang-switch">
-  <a class="back" href="https://dvurechensky.pro/">← Back to Home</a>
+  <a class="back" href="https://dvurechensky.github.io/Dvurechensky/">← Back to Home</a>
   
-  <a href="https://dvurechensky.pro/contact.ru.html">
+  <a href="https://dvurechensky.github.io/Dvurechensky/contact.ru.html">
     🇷🇺
   </a>
   | 
@@ -43,7 +43,7 @@ published: true
 
 ### ◇ Main Links
 
-- `Website`: [dvurechensky.pro](https://dvurechensky.pro)
+- `Website`: [dvurechensky.pro](https://dvurechensky.github.io/Dvurechensky)
 - `GitHub`: [github.com](https://github.com/Dvurechensky)
 - `GitLab`: [gitlab.com](https://gitlab.com/Dvurechensky)
 - `Codeberg`: [codeberg.org](https://codeberg.org/Dvurechensky)
@@ -83,11 +83,11 @@ published: true
   All links are <code>official profiles</code> and can be used for <code>direct contact</code> or <code>project navigation</code>.
 </div>
 
-[← Back to Home](https://dvurechensky.pro/)
+[← Back to Home](https://dvurechensky.github.io/Dvurechensky/)
 
 <div align="center" style="margin-top:40px; opacity:0.6; font-size:13px;">
-  <a href="https://dvurechensky.pro/about.html">About</a> ·
-  <a href="https://dvurechensky.pro/privacy.html">Privacy</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/about.html">About</a> ·
+  <a href="https://dvurechensky.github.io/Dvurechensky/privacy.html">Privacy</a> ·
   <br><br>
   <span>This website provides <code>tools</code> and <code>technical resources</code> for developers.</span>
 </div>

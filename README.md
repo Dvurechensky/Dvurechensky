@@ -51,7 +51,7 @@ I am looking for a strong team and a product where the job is not only to "write
 - **Rare combination:** backend + desktop + reverse + game/server engineering + the ability to explain and document complex systems.
 
 **Contacts:** [dvurechenskysoft@gmail.com](mailto:dvurechenskysoft@gmail.com) / [nikolay@dvurechensky.pro](mailto:nikolay@dvurechensky.pro)  
-**Website:** [dvurechensky.pro](https://dvurechensky.pro)  
+**Website:** [dvurechensky.pro](https://dvurechensky.github.io)  
 **GitHub:** [github.com/Dvurechensky](https://github.com/Dvurechensky)  
 **ORCID:** [0009-0004-2701-5592](https://orcid.org/0009-0004-2701-5592)
 
